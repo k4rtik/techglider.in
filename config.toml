@@ -1,3 +1,7 @@
 baseurl = "http://techglider.in"
 languageCode = "en-us"
 title = "The TechGlider"
+disqusShortname = "techglider"
+
+[permalinks]
+  post = "/:year/:month/:day/:title/"
