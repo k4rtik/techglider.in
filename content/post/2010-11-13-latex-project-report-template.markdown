@@ -14,8 +14,7 @@ tags:
 - NIT Calicut
 ---
 
-**UPDATE RELEASED**: http://k4rtik.wordpress.com/2013/02/15/latex-project-report-template-updated/
-Please use the latest version for all the LaTeX goodness.
+[**UPDATE RELEASED**](/post/2013/02/15/latex-project-report-template-updated/) - Please use the latest version for all the LaTeX goodness.
 
 
 
@@ -37,41 +36,9 @@ Last week, starting from Sunday was spent in preparing my first project report i
 Additionally, it features the enhanced NITC logo.If you try the template and find any problems, or feel it can be improved with your suggestions, shoot your mails to kartiksinghal [AT] gmail [DOT] com or just post a comment.
 
 
+- <del>**report-template.tar.gz** (28 KB)</del> [Get the updated template](/post/2013/02/15/latex-project-report-template-updated/)
 
-
-
-
-
-
-
-
-[![](http://k4rtik.files.wordpress.com/2010/11/unknown.png?w=48)](http://posterous.com/getfile/files.posterous.com/kartikscribbles/VyTdv0NJMVFOCVBJ4HD9NW33L9PLhIxUbvwZ1zB9Ru5X8cwf8jchPgpymfNf/report-template.tar.gz)
-
-
-
-
-Download:
-
-
-<del>**report-template.tar.gz** (28 KB)</del> [Get the updated template](http://k4rtik.wordpress.com/2013/02/15/latex-project-report-template-updated/)
-
-
-
-
-
-
-
-
-
-[![](http://posterous.com/images/filetypes/pdf.png)](http://posterous.com/getfile/files.posterous.com/temp-2010-11-12/DAkpnCjFmbmIpqgeobrdEGEaAjmFIluxtvjCCskjsHrjhEgsuyhhnJcbHDvi/report.pdf)
-
-
-
-
-Download:
-
-
-**[A Report on Software Ethics](http://k4rtik.files.wordpress.com/2010/11/report.pdf)** (506 KB)
+- **[A Report on Software Ethics](/projects/se-report.pdf)** (506 KB)
 
 This post was originally posted at [my old Posterous blog](http://kartikscribbles.posterous.com/latex-project-report-template).
 
