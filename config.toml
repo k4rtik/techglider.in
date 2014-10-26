@@ -9,3 +9,18 @@ title = "The TechGlider"
 
 [params]
   author = "Kartik Singhal"
+  copyright = "Copyright © 2008-2014 Kartik Singhal."
+
+[[menu.main]]
+    name = "Posts"
+    url = "/post"
+[[menu.main]]
+    name = "Quotes"
+    url = "/quote"
+[[menu.main]]
+    name = "Statuses"
+    url = "/status"
+[[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 100

@@ -1,5 +1,5 @@
 +++
-date = "2014-10-26T13:56:13+05:30"
+date = "2014-10-26T15:04:13+05:30"
 tags = ["init", "writing"]
 title = "reinit"
 
@@ -10,7 +10,7 @@ A constant feeling of not having an _official_ web home and a permanent place to
 
 I am using a static website generator called [Hugo](http://gohugo.io) for building this site, it is based on Golang and is probably the second most popular Go project (after Docker). I went through its documentation yesterday and feel it can serve my needs for a long time, given it's not just aimed at blogs but is designed to be able to create complete websites.
 
-Currently, you will find the migrated posts from my wordpress.com blog here. I used [exitwp](https://github.com/thomasf/exitwp) to convert the posts to markdown, but the tool is focused on Jekyll and the metadata generated doesn't match Hugo's directly (yes, Hugo is yet to add support for migration from wordpress). I have gone through the posts and corrected some markup problems, but some work still remains like fixing broken URLs, migrating images and comments, etc. Apart from that, my old self-hosted blog on techglider.in (The Techglider Blog) still needs to be migrated from scratch.
+Currently, you will find the migrated posts from my wordpress.com blog here. I used [exitwp](https://github.com/thomasf/exitwp) to convert the posts to markdown, but the tool is focused on Jekyll and the metadata generated doesn't match Hugo's directly (yes, Hugo is yet to add support for migration from wordpress). I have gone through the posts and corrected some markup problems, but some work still remains like fixing broken URLs, migrating images and comments, etc. Apart from that, my old self-hosted wordpress blog on techglider.in (The Techglider Blog) still needs to be migrated from scratch.
 
 Also, I am yet to settle down with the design of the site and will either customize the current theme - liquorice - or probably take bits and pieces from [spf13's website's design](http://spf13.com) and create my own Hugo theme.
 
