@@ -25,7 +25,7 @@ tags:
 
 
 This website was done by me when I was studying in standard 9. As a product of an inter house [web design](http://en.wikipedia.org/wiki/Web_design) competition (which yours truly won while facing other participants who were all seniors ranging from classes 10 to 12), this website inspired me to step further into web design.
-[Download zip (598.81 KB)](http://www.techglider.in/kartik/projects/DAV-website-2004.zip) | [Browse here](http://www.techglider.in/kartik/projects/DAV-website-2004/index.htm)
+[Download zip (598.81 KB)](/projects/DAV-website-2004.zip) | [Browse here](/projects/DAV-website-2004/index.htm)
 
 
 ## DAV Public School Website - Done in class 10 (2005)
@@ -43,20 +43,20 @@ For the school project in C++ in standard 11, I chose to make a game. Although t
 
 Here is the link to the code (I can’t support it any more, so please don’t ask if you are unable to run it.):
 
-[http://pastebin.com/Wy62qUbA](http://pastebin.com/Wy62qUbA) | [Tic Tac Toe Project Report](http://k4rtik.files.wordpress.com/2009/11/tictactoe.pdf)
+[http://pastebin.com/Wy62qUbA](http://pastebin.com/Wy62qUbA) | [Tic Tac Toe Project Report](/projects/tictactoe.pdf)
 
 
 ## LibManage (A library management system made using C++) (2007-2008)
 
 
 Again, for school project in C++ in standard 12, I developed LibManage. This was done using the latest version of [Visual C](http://en.wikipedia.org/wiki/Visual_C%2B%2B)++ packaged in Microsoft Visual Studio 2008 Express Edition which is available for download for free. Working for this project I was introduced to Standard C++.
-[Download zip (374.44 KB)](http://www.techglider.in/kartik/projects/LibManage.zip) | [LibManage Report](http://k4rtik.files.wordpress.com/2011/10/libmanage.pdf)
+[Download zip (374.44 KB)](/projects/LibManage.zip) | [LibManage Report](/projects/libmanage.pdf)
 
 
 ## www.davpssahibabad.org (2008)
 
 
 This was my first experience with real web hosting and a live website. Not many major changes from the previous site were done (except for the addition of message and photo of the new Principal of the school). Although the website didn't develop further because of clash of ideas between the Principal and me, but I learned a lot about web hosting and this laid the foundation for **TechGlider.com** (now [TechGlider.in](http://techglider.in/)), my own website which was launched on July 31, 2008.
-[Download zip (1.3 MB)](http://www.techglider.in/kartik/projects/davpssahibabad.org.zip)
+[Download zip (1.3 MB)](/projects/davpssahibabad.org.zip)
 
 

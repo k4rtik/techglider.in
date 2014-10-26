@@ -1,0 +1,232 @@
+<HTML>
+<HEAD>
+<TITLE>Welcome to DAV Public School, Sahibabad</TITLE>
+
+<script>
+<!--
+document.write(unescape("%3Cscript%20language%3D%22JavaScript1.2%22%3E%0D%0A%0D%0Aif%20%28document.all%7C%7Cdocument.getElementById%29%7B%0D%0Avar%20thetitle%3Ddocument.title%0D%0Adocument.title%3D%27%27%0D%0A%7D%0D%0A%0D%0Avar%20data%3D%220123456789%22%3B%0D%0A%0D%0Avar%20done%3D1%3B%0D%0Afunction%20statusIn%28text%29%7B%0D%0A%09decrypt%28text%2C2%2C1%29%3B%0D%0A%7D%0D%0A%0D%0Afunction%20statusOut%28%29%7B%0D%0Aself.status%3D%27%27%3B%0D%0Adone%3D1%3B%0D%0A%7D%0D%0A%0D%0A//-------------------------%5C%5C%0D%0A//decrypt%28string%2C%20int%2C%20int%29%5C%5C%0D%0A//-------------------------%5C%5C%0D%0A//%0D%0A//text%28string%29%3A%20the%20text%20to%20be%20decrypted%20on%20%0D%0A//the%20status%20bar.%0D%0A//%0D%0A//max%28int%29%3A%20the%20number%20of%20times%20a%20random%20string%0D%0A//is%20displayed%20before%20the%20next%20character%20is%0D%0A//%27decrypted%27.%0D%0A//%0D%0A//delay%28int%29%3A%20the%20number%20of%20milliseconds%20between%0D%0A//each%20display%20of%20a%20random%20string%0D%0A//%0D%0A//Example%3A%0D%0A//decrypt%28%27Enter%20my%20site.%27%2C10%2C10%29%3B%0D%0A//%0D%0A//text%20%3D%20%27Enter%20my%20site.%27%20%3A%3A%20%27Enter%20my%20site.%27%20is%20%0D%0A//eventually%20decrypted%0D%0A//%0D%0A//max%20%3D%2010%20%3A%3A%20a%20different%20random%20string%20is%20dis-%0D%0A//played%2010%20times%20before%20a%20new%20character%20is%0D%0A//decrypted%0D%0A%0D%0Afunction%20decrypt%28text%2C%20max%2C%20delay%29%7B%0D%0A%09if%20%28done%29%7B%0D%0A%09%09done%20%3D%200%3B%0D%0A%09%09decrypt_helper%28text%2C%20max%2C%20delay%2C%20%200%2C%20max%29%3B%0D%0A%09%09%7D%0D%0A%09%0D%0A%7D%0D%0A%0D%0Afunction%20decrypt_helper%28text%2C%20runs_left%2C%20delay%2C%20charvar%2C%20max%29%7B%0D%0A%09if%20%28%21done%29%7B%0D%0A%09runs_left%20%3D%20runs_left%20-%201%3B%0D%0A%09var%20status%20%3D%20text.substring%280%2Ccharvar%29%3B%0D%0A%09for%28var%20current_char%20%3D%20charvar%3B%20current_char%20%3C%20text.length%3B%20current_char++%29%7B%0D%0A%09%09status%20+%3D%20data.charAt%28Math.round%28Math.random%28%29*data.length%29%29%3B%0D%0A%09%09%7D%0D%0A%09document.title%20%3D%20status%3B%0D%0A%09var%20rerun%20%3D%20%22decrypt_helper%28%27%22%20+%20text%20+%20%22%27%2C%22%20+%20runs_left%20+%20%22%2C%22%20+%20delay%20+%20%22%2C%22%20+%20charvar%20+%20%22%2C%22%20+%20max%20+%20%22%29%3B%22%0D%0A%09var%20new_char%20%3D%20charvar%20+%201%3B%0D%0A%09var%20next_char%20%3D%20%22decrypt_helper%28%27%22%20+%20text%20+%20%22%27%2C%22%20+%20max%20+%20%22%2C%22%20+%20delay%20+%20%22%2C%22%20+%20new_char%20+%20%22%2C%22%20+%20max%20+%20%22%29%3B%22%0D%0A%09if%28runs_left%20%3E%200%29%7B%0D%0A%09%09setTimeout%28rerun%2C%20delay%29%3B%0D%0A%09%09%7D%0D%0A%09else%7B%0D%0A%09%09if%20%28charvar%20%3C%20text.length%29%7B%0D%0A%09%09%09setTimeout%28next_char%2C%20Math.round%28delay*%28charvar+3%29/%28charvar+1%29%29%29%3B%0D%0A%09%09%09%7D%0D%0A%09%09else%0D%0A%09%09%09%7B%0D%0A%09%09%09done%20%3D%201%3B%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%7D%0D%0A%7D%0D%0A%0D%0A//if%20IE%204+%20or%20NS%206+%0D%0Aif%20%28document.all%7C%7Cdocument.getElementById%29%0D%0AstatusIn%28thetitle%29%0D%0A%3C/script%3E%0D%0A%0D%0A%3CSCRIPT%20language%3D%22Javascript%22%3E%0D%0A%3C%21--%0D%0A%0D%0Aie4%3Ddocument.all%3F1%3A0%3B%0D%0Ans4%3Ddocument.layers%3F1%3A0%3B%0D%0Ans5%3D%28document.getElementById%20%26%26%20%21document.all%29%3F1%3A0%3B%0D%0A%0D%0Afunction%20init%28%29%7B%0D%0A//%20Bolt%20has%20an%20aura%3F%20%28true%20%7C%20false%29%20//%20takes%20twice%20as%20long%20to%20strike%0D%0Aaura%3Dfalse%3B%0D%0Abcolor%3D%22white%22%3B%0D%0Aacolor%3D%22blue%22%3B%0D%0A%0D%0A//%20Make%20background%20color%20flash%3F%20%28true%20%7C%20false%29%0D%0Aflash%3Dtrue%3B%0D%0AskyNorm%3D%22black%22%3B%0D%0AskyFlash%3D%22%23000050%22%3B%0D%0Aif%20%28flash%29%20document.bgColor%3DskyNorm%3B%0D%0A%0D%0A//%20nbs%20%3D%20Number%20of%20main%20bolt%20segments%0D%0Anbs%20%3D%2050%3B%0D%0Act%3D0%3B%0D%0A//%20Font%20sizes%20for%20lightning%20bolt%20and%20aura%20segments%0D%0Afsb%3Dshi*.3%3B%0D%0Afsf%3Dshi*.2%3B%0D%0Afsbi%3Dshi*.2%3B%0D%0Afsfi%3Dshi*.12%3B%0D%0Afsbii%3Dshi*.12%3B%0D%0Afsfii%3Dshi*.07%3B%0D%0A%0D%0Axpos%3Dcswi%3B%20ypos%3D0%3B%0D%0Aif%20%28ns5%29%20ark%20%3D%20document.getElementById%28%22ark%22%29%3B%0D%0Aif%20%28ns4%29%20%7B%0D%0A%0D%0Aol%3Ddocument.layers%5B%22ark%22%5D%3B%0D%0Aol%20%3D%20new%20Layer%28swi%29%3B%0D%0Aol.left%20%3D%200%3B%0D%0Aol.top%20%3D%200%3B%0D%0Aol.height%20%3D%20shi%3B%0D%0Aol.zIndex%3D1%3B%0D%0Aol.visibility%20%3D%20%22hide%22%3B%0D%0A%0D%0Aret%3D%22%3CSTYLE%20TYPE%3D%27text/css%27%3E%22%3B%0D%0Afor%20%28i%3D1%3Bi%3C10%3Bi++%29%7B%0D%0Aret+%3D%22DIV.bolt%22+i+%22%20%7Bposition%3Aabsolute%3B%20font-style%3A%27Times%20New%20Roman%27%3B%20font-size%3A%22+%28fsf*i/9%29+%22px%3B%20color%3A%22+bcolor+%22%3B%20visibility%3Ainherit%3B%20z-index%3A1%7D%22%3B%0D%0Aif%20%28aura%29%20ret+%3D%22DIV.bolta%22+i+%22%20%7Bposition%3Aabsolute%3B%20font-style%3A%27Times%20New%20Roman%27%3B%20font-size%3A%22+%28fsf*1.3*i/9%29+%22px%3B%20color%3Ablue%3B%20visibility%3Ainherit%3B%20z-index%3A0%7D%22%3B%0D%0A%7D%20ret+%3D%22%3C/STYLE%3E%22%3B%0D%0A%0D%0Afor%20%28fs%3D1%3Bfs%3C10%3Bfs++%29%0D%0Afor%20%28i%3D1%3Bi%3Cnbs%3Bi++%29%20%7B%0D%0Aif%20%28aura%29%20ret+%3D%22%3CDIV%20id%3Da%22+i+%22f%22+fs+%22%20class%3Dbolta%22+fs+%22%3E.%3C/DIV%3E%22%3B%0D%0Aret+%3D%22%3CDIV%20id%3Ds%22+i+%22f%22+fs+%22%20class%3Dbolt%22+fs+%22%3E.%3C/DIV%3E%22%3B%0D%0A%7D%0D%0A%0D%0A//ol.document.open%28%29%3B%0D%0Aol.document.write%28ret%29%3B%0D%0Aol.document.close%28%29%3B%0D%0A%7D%0D%0ATime1%3DsetTimeout%28%22mainplot%28%29%22%2C100%29%3B%0D%0A%7D%0D%0A%0D%0Afunction%20mainplot%28%29%0D%0A%7B%0D%0Alang%3D0%3B%0D%0Axpos%3DMath.random%28%29*cswi+cswi/2%3B%20ypos%3D0%3B%20fs%3D9%3B%20fsi%3D8%0D%0Adeg%3DMath.random%28%29*30-15+%28%28xpos%3Ccswi%29%3F%20+15%3A-15%29%3B%0D%0Ajag%3DMath.round%28Math.random%28%29*100%29/100%3B%0D%0Azag%3DMath.round%28Math.random%28%29*100%29/100%3B%0D%0Acur%3DMath.round%28%28.5%20*%20%28Math.random%28%29*10-5%29%29*100%29/100%3B%0D%0Aion%3D%28Math.random%28%29%3E.5%29%3F%201%3A-1%3B%0D%0A//status%3D%22%20%22+ct+%22%20Divs%20%22+format%28jag%29+%22%20jag%20%22+format%28zag%29+%22%20zag%20%22+cur+%22%20curve%22%3B%20ct%3D0%3B%0D%0A%0D%0Aif%20%28ns4%29%0D%0A%7B%0D%0Afor%20%28i%3D1%3Bi%3Cnbs%3Bi++%29%20%7B%0D%0Aang%3DMath.random%28%29*jag*90-jag*45%3B%0D%0Aif%20%28Math.random%28%29+.05%3Ezag%29%20lang%3DMath.random%28%29*zag*90-zag*45%3B%20%0D%0Aang+%3Dlang%3B%0D%0Act++%3B%0D%0Aif%20%28Math.random%28%29*10%3E9.5%20%26%26%20fsi%3E1%29%20%7Bfsi--%3B%20leg1%28%29%3B%7D%0D%0Axpos+%3DMath.sin%28%28deg+%28ang+i*cur%29%29/57.3%29*%28fsf*fs/9%29*.07%3B%0D%0Aypos+%3DMath.abs%28Math.cos%28%28deg+%28ang+i*cur%29%29/57.3%29*%28fsf*fs/9%29*.07%29%3B%20//fsb%3Dfsf*1.5%3B%0D%0Aif%20%28aura%29%20%7B%20ol.document.layers%5B%22a%22+i+%22f%22+fs%5D.moveTo%28xpos-%28fsf*1.3*fs/9%29*.125%2Cypos-%28fsf*1.3*fs/9%29*.85%29%3B%20ct++%3B%7D%0D%0Aol.document.layers%5B%22s%22+i+%22f%22+fs%5D.moveTo%28xpos-%28fsf*fs/9%29*.125%2Cypos-%28fsf*fs/9%29*.85%29%3B%0D%0Aif%20%28ypos%3Eshi%20%7C%7C%20xpos%3C0%20%7C%7C%20xpos%3Eswi%29%20i%3Dnbs%3B%0D%0A%7D%0D%0A//status%3D%22%20%22+ct+%22%20Divs%20%22+format%28jag%29+%22%20jag%20%22+format%28zag%29+%22%20zag%20%22+cur+%22%20curve%22%3B%0D%0Aol.resizeTo%28swi%2Cshi%29%3B%0D%0ATime1%3DsetTimeout%28%22light%28%29%22%2C100%29%3B%0D%0A%7D%0D%0A%0D%0Aif%20%28ie4%20%7C%7C%20ns5%29%20%7B%20%0D%0A//%20Rewriting%20layers%20can%20be%20faster%20than%20repositioning%20in%20internet%20explorer%0D%0Aret%3D%22%22%3B%0D%0Afsf%3Dshi*.2%3B%0D%0Afor%20%28i%3D1%3Bi%3Cnbs%3Bi++%29%0D%0A%7B%0D%0Aang%3DMath.random%28%29*jag*90-jag*45%3B%0D%0Aif%20%28Math.random%28%29+.05%3Ezag%29%20lang%3DMath.random%28%29*zag*90-zag*45%3B%20%0D%0Aang+%3Dlang%3B%0D%0Act++%3B%0D%0Aif%20%28Math.random%28%29*10%3E9.5%29%20%7Bfsfi%3Dfsf*.6%3B%20fsf*%3D.95%3B%20leg1%28%29%3B%7D%0D%0Axpos+%3DMath.sin%28%28deg+%28ang+i*cur%29%29/57.3%29*fsf*.07%3B%0D%0Aypos+%3DMath.abs%28Math.cos%28%28deg+%28ang+i*cur%29%29/57.3%29*fsf*.07%29%3B%20fsb%3Dfsf*1.3%3B%0D%0Aif%20%28ypos%3Eshi%20%7C%7C%20xpos%3C0%20%7C%7C%20xpos%3Eswi%29%20i%3Dnbs%3B%0D%0Aif%20%28aura%29%20%7B%20ret+%3D%22%3CDIV%20id%3D%27darg%22+i+%22%27%20style%3D%27position%3Aabsolute%3B%20left%3A%22+%28xpos-fsb*.125%29+%22%3B%20top%3A%22+%28ypos-fsb*.85%29+%22%3B%20font-size%3A%22+fsb+%22px%3B%20color%3Argb%280%2C0%2C255%29%3B%20z-Index%3A0%27%20%3E.%3C/DIV%3E%22%3B%20ct++%3B%7D%0D%0Aret+%3D%22%3CDIV%20style%3D%27position%3Aabsolute%3B%20left%3A%22+%28xpos-fsf*.125%29+%22%3B%20top%3A%22+%28ypos-fsf*.85%29+%22%3B%20font-size%3A%22+fsf+%22px%3B%20color%3A%22+bcolor+%22%3B%20z-Index%3A1%27%20%3E.%3C/DIV%3E%22%3B%0D%0A%7D%0D%0A//status%3D%22%20%22+ct+%22%20Divs%20%22+format%28jag%29+%22%20jag%20%22+format%28zag%29+%22%20zag%20%22+cur+%22%20curve%22%3B%0D%0Aark.innerHTML%3Dret%3B%0D%0ATime1%3DsetTimeout%28%22lightie%28%29%22%2C100%29%3B%0D%0A%7D%0D%0A%7D%0D%0A%0D%0Afunction%20leg1%28%29%20%7B%0D%0Axpo%3Dxpos%3B%20ypo%3Dypos%3B%0D%0Alang%3Dzag*ion*%2830+Math.random%28%29*20-10%29%3B%0D%0Aion*%3D-1%3B%20lang1%3D0%3B%0D%0Adeg1%3Ddeg+ion*50+Math.random%28%29*20-10%3B%0D%0Ajlen%3DMath.random%28%29*nbs*.25+nbs*.25%3B%20%0D%0Aif%28ns4%29%20%7B%0D%0Afsii%3Dfsi-1%0D%0Afor%20%28j%3D1%3Bj%3Cjlen%3Bj++%29%20%7B%0D%0Aang1%3DMath.random%28%29*jag*90-jag*45%3B%0D%0Aif%20%28Math.random%28%29+.05%3Ezag%29%20lang1%3DMath.random%28%29*zag*90-zag*45%3B%20%0D%0Aang1-%3Dlang1%3B%0D%0Act++%3B%0D%0Aif%20%28Math.random%28%29*10%3E9.9%20%26%26%20fsii%3E1%29%20%7Bfsii--%3B%20leg2%28%29%3B%7D%0D%0Axpo+%3DMath.sin%28%28deg1+%28ang1+j*cur%29%29/57.3%29*%28fsf*fsi/9%29*.07%3B%0D%0Aypo+%3DMath.abs%28Math.cos%28%28deg1+%28ang1+j*cur%29%29/57.3%29*%28fsf*fsi/9%29*.07%29%3B%0D%0Aif%20%28aura%29%20%7B%20ol.document.layers%5B%22a%22+j+%22f%22+fsi%5D.moveTo%28xpo-%28fsf*1.3*fsi/9%29*.125%2Cypo-%28fsf*1.3*fsi/9%29*.85%29%3B%20ct++%3B%7D%0D%0Aol.document.layers%5B%22s%22+j+%22f%22+fsi%5D.moveTo%28xpo-%28fsf*fsi/9%29*.125%2Cypo-%28fsf*fsi/9%29*.85%29%3B%0D%0Aif%20%28ypo%3Eshi%20%7C%7C%20xpo%3C0%20%7C%7C%20xpo%3Eswi%29%20j%3Djlen%3B%0D%0A%7D%0D%0A%7D%0D%0Aif%20%28ie4%20%7C%7C%20ns5%29%20%7B%0D%0Aret+%3D%22%3CDIV%20id%3D%27fork%27%3E%22%3B%20%0D%0Afor%20%28j%3D1%3Bj%3Cjlen%3Bj++%29%0D%0A%7B%0D%0Aang1%3DMath.random%28%29*jag*90-jag*45%3B%0D%0Aif%20%28Math.random%28%29+.05%3Ezag%29%20lang1%3DMath.random%28%29*zag*90-zag*45%3B%20%0D%0Aang1-%3Dlang1%3B%0D%0Act++%3B%0D%0Aif%20%28Math.random%28%29*10%3E9.9%29%20%7Bfsfii%3Dfsfi*.6%3B%20fsfi*%3D.95%3B%20leg2%28%29%3B%7D%0D%0Axpo+%3DMath.sin%28%28deg1+%28ang1+j*cur%29%29/57.3%29*fsfi*.07%3B%0D%0Aypo+%3DMath.cos%28%28deg1+%28ang1+j*cur%29%29/57.3%29*fsfi*.07%3B%20fsbi%3Dfsfi*1.3%3B%0D%0Aif%20%28ypo%3Eshi%20%7C%7C%20xpo%3C0%20%7C%7C%20xpo%3Eswi%29%20j%3Djlen%3B%0D%0Aif%20%28aura%29%20%7B%20ret+%3D%22%3CDIV%20id%3D%27arg%22+j+%22%27%20style%3D%27position%3Aabsolute%3B%20left%3A%22+%28xpo-fsbi*.125%29+%22%3B%20top%3A%22+%28ypo-fsbi*.85%29+%22%3B%20font-size%3A%22+fsbi+%22px%3B%20color%3Argb%280%2C0%2C255%29%3B%20z-Index%3A0%27%20%3E.%3C/DIV%3E%22%3B%20ct++%3B%7D%0D%0Aret+%3D%22%3CDIV%20style%3D%27position%3Aabsolute%3B%20left%3A%22+%28xpo-fsfi*.125%29+%22%3B%20top%3A%22+%28ypo-fsfi*.85%29+%22%3B%20font-size%3A%22+fsfi+%22px%3B%20color%3A%22+bcolor+%22%3B%20z-Index%3A1%27%20%3E.%3C/DIV%3E%22%3B%0D%0A%7Dret+%3D%22%3C/DIV%3E%22%3B%0D%0A%7D%0D%0A%7D%0D%0A%0D%0Afunction%20leg2%28%29%20%7B%0D%0Axp%3Dxpo%3B%20yp%3Dypo%3B%0D%0Alang1%3Dzag*ion*%2830+Math.random%28%29*20-10%29%3B%0D%0A//ion*%3D-1%3B%0D%0Alang2%3D0%3B%0D%0Adeg2%3Ddeg1+ion*50+Math.random%28%29*20-10%3B%0D%0Aklen%3DMath.random%28%29*nbs/2+nbs/2%3B%20//%20//%0D%0Aif%20%28ns4%29%20%7B%0D%0Afor%20%28k%3Dnbs/2%3Bk%3Cklen%3Bk++%29%20%7B%0D%0Aang2%3DMath.random%28%29*jag*90-jag*45%3B%0D%0Aif%20%28Math.random%28%29+.05%3Ezag%29%20lang2%3DMath.random%28%29*zag*90-zag*45%3B%20%0D%0Aang2-%3Dlang2%3B%0D%0Act++%3B%0D%0Axp+%3DMath.sin%28%28deg2+%28ang2+k*cur%29%29/57.3%29*%28fsf*fsii/9%29*.07%3B%0D%0Ayp+%3DMath.cos%28%28deg2+ang2%29/57.3%29*%28fsf*fsii/9%29*.07%3B%0D%0Aif%20%28aura%29%20%7B%20ol.document.layers%5B%22a%22+k+%22f%22+fsii%5D.moveTo%28xp-%28fsf*1.3*fsii/9%29*.125%2Cyp-%28fsf*1.3*fsii/9%29*.85%29%3B%20ct++%3B%7D%0D%0Aol.document.layers%5B%22s%22+k+%22f%22+fsii%5D.moveTo%28xp-%28fsf*fsii/9%29*.125%2Cyp-%28fsf*fsii/9%29*.85%29%3B%0D%0Aif%20%28yp%3Eshi%20%7C%7C%20xp%3C0%20%7C%7C%20xp%3Eswi%29%20k%3Dklen%3B%0D%0A%7D%0D%0A%7D%0D%0Aif%20%28ie4%20%7C%7C%20ns5%29%20%7B%0D%0Aret+%3D%22%3CDIV%20id%3D%27forki%27%3E%22%3B%20%0D%0Afor%20%28k%3Dnbs/2%3Bk%3Cklen%3Bk++%29%0D%0A%7B%0D%0Aang2%3DMath.random%28%29*jag*90-jag*45%3B%0D%0Aif%20%28Math.random%28%29+.05%3Ezag%29%20lang2%3DMath.random%28%29*zag*90-zag*45%3B%20%0D%0Aang2-%3Dlang2%3B%0D%0Act++%3B%0D%0Axp+%3DMath.sin%28%28deg2+%28ang2+k*cur%29%29/57.3%29*fsfii*.07%3B%0D%0Ayp+%3DMath.cos%28%28deg2+%28ang2+k*cur%29%29/57.3%29*fsfii*.07%3B%20fsbii%3Dfsfii*1.3%3B%0D%0Aif%20%28yp%3Eshi%20%7C%7C%20xp%3C0%20%7C%7C%20xp%3Eswi%29%20k%3Dklen%3B%0D%0Aif%20%28aura%29%20%7B%20ret+%3D%22%3CDIV%20id%3D%27arg%22+k+%22%27%20style%3D%27position%3Aabsolute%3B%20left%3A%22+%28xp-fsbii*.125%29+%22%3B%20top%3A%22+%28yp-fsbii*.85%29+%22%3B%20font-size%3A%22+fsbii+%22px%3B%20color%3Argb%280%2C0%2C255%29%3B%20z-Index%3A0%27%20%3E.%3C/DIV%3E%22%3B%20ct++%3B%7D%0D%0Aret+%3D%22%3CDIV%20style%3D%27position%3Aabsolute%3B%20left%3A%22+%28xp-fsfii*.125%29+%22%3B%20top%3A%22+%28yp-fsfii*.85%29+%22%3B%20font-size%3A%22+fsfii+%22px%3B%20color%3A%22+bcolor+%22%3B%20z-Index%3A1%27%20%3E.%3C/DIV%3E%22%3B%0D%0A%7D%0D%0Aret+%3D%22%3C/DIV%3E%22%3B%0D%0A%7D%0D%0A%7D%0D%0A%0D%0Afunction%20light%28%29%0D%0A%7B%20ol.moveTo%28pageXOffset%2CpageYOffset%29%3B%0D%0Aol.visibility%20%3D%20%22show%22%3B%0D%0Aif%20%28flash%29%20document.bgColor%3DskyFlash%3B%0D%0ATime2%3DsetTimeout%28%22ning%28%29%22%2C%28Math.random%28%29*1000+1000%29%29%3B%0D%0A%7D%0D%0A%0D%0Afunction%20lightie%28%29%0D%0A%7B%20ark.style.left%3Ddocument.body.scrollLeft%3B%0D%0Aark.style.top%3Ddocument.body.scrollTop%3B%0D%0Aark.style.visibility%20%3D%20%22visible%22%3B%0D%0Aif%20%28flash%29%20document.bgColor%3DskyFlash%3B%0D%0ATime2%3DsetTimeout%28%22ningie%28%29%22%2C%28Math.random%28%29*500+100%29%29%3B%0D%0A%7D%0D%0A%0D%0Afunction%20ning%28%29%0D%0A%7B%0D%0Aif%20%28flash%29%20document.bgColor%3DskyNorm%3B%0D%0Aol.visibility%20%3D%20%22hide%22%3B%0D%0Aif%20%28Math.random%28%29*3%3E2%29%20Time2%3DsetTimeout%28%22light%28%29%22%2C%28Math.random%28%29*500+100%29%29%3B%0D%0Aelse%20%7B%0D%0Afor%20%28fs%3D1%3Bfs%3C10%3Bfs++%29%0D%0Afor%20%28i%3D1%3Bi%3Cnbs%3Bi++%29%20%7B%0D%0Aif%20%28aura%29%20ol.document.layers%5B%22a%22+i+%22f%22+fs%5D.moveTo%28-100%2C-100%29%3B%0D%0Aol.document.layers%5B%22s%22+i+%22f%22+fs%5D.moveTo%28-100%2C-100%29%3B%0D%0A%7D%0D%0ATime1%3DsetTimeout%28%22mainplot%28%29%22%2C%28Math.random%28%29*500+100%29%29%0D%0A%7D%0D%0A%7D%0D%0A%0D%0Afunction%20ningie%28%29%0D%0A%7B%20ark.style.visibility%20%3D%20%22hidden%22%3B%0D%0Aif%20%28flash%29%20document.bgColor%3DskyNorm%3B%0D%0Aif%20%28Math.random%28%29*3%3E2%29%20Time2%3DsetTimeout%28%22lightie%28%29%22%2C%28Math.random%28%29*500+100%29%29%3B%20else%20Time1%3DsetTimeout%28%22mainplot%28%29%22%2C%28Math.random%28%29*500+100%29%29%3B%0D%0A%7D%0D%0A%0D%0Afunction%20format%28f%29%7B%20f+%3D%22%22%3B%0D%0Aif%20%28f.charAt%280%29%3D%3D%22.%22%29%20f%3D%220%22+f%3B%0D%0Aif%20%28f.length%3D%3D1%29%20f+%3D%22.00%22%3B%0D%0Aif%20%28f.length%3D%3D3%29%20f+%3D%220%22%3B%0D%0Areturn%20f%3B%0D%0A%7D%0D%0A%0D%0Afunction%20halt%28%29%20%7B%0D%0Aif%20%28Time1%29%20%7BclearTimeout%28Time1%29%3B%20Time1%3Dnull%3B%7D%0D%0Aif%20%28Time2%29%20%7BclearTimeout%28Time2%29%3B%20Time2%3Dnull%3B%7D%0D%0A%7D%0D%0A%0D%0A//--%3E%0D%0A%3C/SCRIPT%3E%0D%0A%3CSTYLE%20TYPE%3D%22text/css%22%3E%0D%0A%23frm%20%7Bposition%3Aabsolute%3B%20left%3A20%3B%20top%3A10%3B%20width%3A100%3B%20height%3A100%3B%20visibility%3Avisible%3B%20z-Index%3A951%3B%0D%0Acolor%3Ablue%3B%20overflow%3Aclip%3B%20font-style%3ATimes%7D%0D%0A%3C/STYLE%3E%0D%0A%0D%0A"));
+//-->
+</script> 
+</HEAD>
+
+<BODY background="images/swirlies.gif" bgproperties=fixed>
+
+<p align="center">
+<img border="0" src="images/davlogo.jpg" align="left" width="181" height="170"></p>
+<p align="center">
+<br>
+<img border="0" src="images/dnvlogo.jpg" align="right" width="171" height="152"></p>
+<p align="center">
+<br>
+|| Om ||<br>
+<font size=6 face=algerian><u>D.A.V. PUBLIC SCHOOL</u></font><br>
+<font size="2">(10+2 Affiliated with C.B.S.E. New Delhi)</font><br>
+<font size="2">Sec-II, T.H.A. Rajinder Nagar, Sahibabad, Ghaziabad (U.P.)</font><br></p><br>
+<p align=center>
+</p><BLOCKQUOTE>
+
+<hr>
+<marquee BEHAVIOR=scroll SCROLLDELAY=20 SCROLLAMOUNT=10>A school certified with ISO 9001 : 2000 for Quality Worldclass Education</MARQUEE>
+<hr></BLOCKQUOTE>
+<br>
+<H1 align=center>WELCOME TO DAV PUBLIC SCHOOL</H1>
+
+<center><img src="images/build.jpg" alt="School's Main Building." width=611 height=468></center>
+<br>&nbsp;<br>
+<p>
+<img src="images/principal.jpg" alt="Principal : Mr. O.P. Mehta" border=0 width=275 height=333 align="left">
+<H2>From the Desk of the Principal</H2>
+<font face="bookman old style">Dear Children,<p>
+Within the last couple of years, the school has grown by leaps and bounds-both in terms of infrastructure and Academic/Co-curricular Activities. In the last academic Session our School was given the ISO 9001:2000 Certificate by D.N.V. Netherlands for its standard at par with International Schools and in this Academic Session(2004-05) the Certificate was renewed by the auditors during surveillance audit. This is no small achievement. Aquiring a much coveted label (ISO 9001:2000) is a big thing, maintaining it, is a still greater achievement.<p>The School buildings have taken a very definite shape, with much more in the offing viz a separate Primary Wing, a Swimming Pool and a Multipurpose Hall. The Principal's Office and the whole of the Administrative Staff alongwith the Library and the Computer Lab have shifted to the new Administrative Block which is now facing the main road. All our achievements have been possible with the help of Local Managing Committee and co-operation of a dedicated team of staff and Parents. I take this opportunity to thank each of you for assisting me in making this eandeavour a success.<p>Above all, I am indebted to my seniors in the DAV College Managing Committee, who have encouraged and guided me in every step of the way to make this institution the grand success that it has become today.
+<p><div align=right><b>O. P. Mehta</b><br>Principal</div>
+
+</font>
+<P><center><CAPTION ALIGN="top"><font size=5><strong>HONOUR BOARD Class X</strong></font></CAPTION></center>
+<TABLE ALIGN="center" BORDER="5" CELLSPACING="2" CELLPADDING="2" WIDTH="80%">
+ <TR BORDER=3>
+  <TH>S. No.</TH>
+  <TH>Year</TH>
+  <TH>Name</TH>
+  <TH>Marks Obtained</TH>
+  <TH>Percentage</TH>
+ </TR>
+ <TR BORDER=3>
+  <TD ALIGN=RIGHT>1.</TD>
+  <TD ALIGN=CENTER>1995-96</TD>
+  <TD>Disha Tiwari</TD>
+  <TD ALIGN=RIGHT>461/500</TD>
+  <TD ALIGN=RIGHT>92.2%</TD>
+ </TR>
+ <TR BORDER=3>
+  <TD ALIGN=RIGHT>2.</TD>
+  <TD ALIGN=CENTER>1996-97</TD>
+  <TD>Sayank Mukerjee</TD>
+  <TD ALIGN=RIGHT>459/500</TD>
+  <TD ALIGN=RIGHT>91.8%</TD>
+ </TR>
+ <TR BORDER=3>
+  <TD ALIGN=RIGHT>3.</TD>
+  <TD ALIGN=CENTER>1997-98</TD>
+  <TD>Ankur Jain</TD>
+  <TD ALIGN=RIGHT>441/500</TD>
+  <TD ALIGN=RIGHT>88.2%</TD>
+ </TR>
+ <TR BORDER=3>
+  <TD ALIGN=RIGHT>4.</TD>
+  <TD ALIGN=CENTER>1998-99</TD>
+  <TD>Neha Agrawal</TD>
+  <TD ALIGN=RIGHT>457/500</TD>
+  <TD ALIGN=RIGHT>91.4%</TD>
+ </TR>
+ <TR BORDER=3>
+  <TD ALIGN=RIGHT>5.</TD>
+  <TD ALIGN=CENTER>1999-00</TD>
+  <TD>Abhishek Sharma</TD>
+  <TD ALIGN=RIGHT>453/500</TD>
+  <TD ALIGN=RIGHT>90.6%</TD>
+ </TR>
+ <TR BORDER=3>
+  <TD ALIGN=RIGHT>6.</TD>
+  <TD ALIGN=CENTER>2000-01</TD>
+  <TD>Jayant Bahel</TD>
+  <TD ALIGN=RIGHT>464/500</TD>
+  <TD ALIGN=RIGHT>92.8%</TD>
+ </TR>
+ <TR BORDER=3>
+  <TD ALIGN=RIGHT>7.</TD>
+  <TD ALIGN=CENTER>2001-02</TD>
+  <TD>Asmita Mittal</TD>
+  <TD ALIGN=RIGHT>452/500</TD>
+  <TD ALIGN=RIGHT>90.4%</TD>
+ </TR>
+ <TR BORDER=3>
+  <TD ALIGN=RIGHT>8.</TD>
+  <TD ALIGN=CENTER>2002-03</TD>
+  <TD>Amit Sharma</TD>
+  <TD ALIGN=RIGHT>473/500</TD>
+  <TD ALIGN=RIGHT>94.6%</TD>
+ </TR>
+ <TR BORDER=3>
+  <TD ALIGN=RIGHT>9.</TD>
+  <TD ALIGN=CENTER>2003-04</TD>
+  <TD>Surbhi Gupta</TD>
+  <TD ALIGN=RIGHT>463/500</TD>
+  <TD ALIGN=RIGHT>92.6%</TD>
+ </TR>
+ <TR BORDER=3>
+  <TD ALIGN=RIGHT>10.</TD>
+  <TD ALIGN=CENTER>2004-05</TD>
+  <TD>Prateek Sehgal</TD>
+  <TD ALIGN=RIGHT>467/500</TD>
+  <TD ALIGN=RIGHT>93.4%</TD>
+ </TR>
+ <TR BORDER=3>
+  <TD ALIGN=RIGHT>11.</TD>
+  <TD ALIGN=CENTER>2004-05</TD>
+  <TD>Pranav Bajaj</TD>
+  <TD ALIGN=RIGHT>467/500</TD>
+  <TD ALIGN=RIGHT>93.4%</TD>
+ </TR>
+</TABLE>
+<br>&nbsp;<br>
+<P><center><CAPTION ALIGN="top"><font size=5><strong>HONOUR BOARD Class XII</strong></font></CAPTION></center>
+<TABLE ALIGN="center" BORDER="5" CELLSPACING="2" CELLPADDING="2" WIDTH="80%">
+ <TR BORDER=3>
+  <TH>S. No.</TH>
+  <TH>Year</TH>
+  <TH>Name</TH>
+  <TH>Marks Obtained</TH>
+  <TH>Percentage</TH>
+ </TR>
+ <TR BORDER=3>
+  <TD ALIGN=RIGHT>1.</TD>
+  <TD ALIGN=CENTER>1995-96</TD>
+  <TD>Mukta Jindal</TD>
+  <TD ALIGN=RIGHT>443/500</TD>
+  <TD ALIGN=RIGHT>88.6%</TD>
+ </TR>
+ <TR BORDER=3>
+  <TD ALIGN=RIGHT>2.</TD>
+  <TD ALIGN=CENTER>1996-97</TD>
+  <TD>Rachna Ahuja</TD>
+  <TD ALIGN=RIGHT>446/500</TD>
+  <TD ALIGN=RIGHT>89.2%</TD>
+ </TR>
+ <TR BORDER=3>
+  <TD ALIGN=RIGHT>3.</TD>
+  <TD ALIGN=CENTER>1997-98</TD>
+  <TD>Richa Singhal</TD>
+  <TD ALIGN=RIGHT>455/500</TD>
+  <TD ALIGN=RIGHT>91.0%</TD>
+ </TR>
+ <TR BORDER=3>
+  <TD ALIGN=RIGHT>4.</TD>
+  <TD ALIGN=CENTER>1998-99</TD>
+  <TD>Shally Tyagi</TD>
+  <TD ALIGN=RIGHT>433/500</TD>
+  <TD ALIGN=RIGHT>86.6%</TD>
+ </TR>
+ <TR BORDER=3>
+  <TD ALIGN=RIGHT>5.</TD>
+  <TD ALIGN=CENTER>1999-00</TD>
+  <TD>Deepanshu Agrawal</TD>
+  <TD ALIGN=RIGHT>452/500</TD>
+  <TD ALIGN=RIGHT>90.4%</TD>
+ </TR>
+ <TR BORDER=3>
+  <TD ALIGN=RIGHT>6.</TD>
+  <TD ALIGN=CENTER>2000-01</TD>
+  <TD>Neeru Syal</TD>
+  <TD ALIGN=RIGHT>456/500</TD>
+  <TD ALIGN=RIGHT>91.2%</TD>
+ </TR>
+ <TR BORDER=3>
+  <TD ALIGN=RIGHT>7.</TD>
+  <TD ALIGN=CENTER>2001-02</TD>
+  <TD>Kuldeep S. Negi</TD>
+  <TD ALIGN=RIGHT>448/500</TD>
+  <TD ALIGN=RIGHT>89.6%</TD>
+ </TR>
+ <TR BORDER=3>
+  <TD ALIGN=RIGHT>8.</TD>
+  <TD ALIGN=CENTER>2002-03</TD>
+  <TD>Ismeet Kaur</TD>
+  <TD ALIGN=RIGHT>457/500</TD>
+  <TD ALIGN=RIGHT>91.4%</TD>
+ </TR>
+ <TR BORDER=3>
+  <TD ALIGN=RIGHT>9.</TD>
+  <TD ALIGN=CENTER>2003-04</TD>
+  <TD>Shubhanshu Bansal</TD>
+  <TD ALIGN=RIGHT>431/500</TD>
+  <TD ALIGN=RIGHT>86.2%</TD>
+ </TR>
+ <TR BORDER=3>
+  <TD ALIGN=RIGHT>10.</TD>
+  <TD ALIGN=CENTER>2003-04</TD>
+  <TD>Vineet Tyagi</TD>
+  <TD ALIGN=RIGHT>431/500</TD>
+  <TD ALIGN=RIGHT>86.2%</TD>
+ </TR>
+ <TR BORDER=3>
+  <TD ALIGN=RIGHT>11.</TD>
+  <TD ALIGN=CENTER>2004-05</TD>
+  <TD>Kanupriya Bathla</TD>
+  <TD ALIGN=RIGHT>446/500</TD>
+  <TD ALIGN=RIGHT>89.2%</TD>
+ </TR>
+</TABLE>
+<br>&nbsp;<br>
+
+<p>
+<a href="index2.html">Contents</a>
+<div align=right><a href="#top"><img src="images/up.gif" alt="^" border=0>Top of Page</a></div>
+<br>
+<HR>
+
+<center>
+&copy; 2005 <a href="mailto:davps_sbd@sify.com">D.A.V. PUBLIC SCHOOL</a>, Gzb. All rights reserved.
+</center>
+
+</BODY>
+</HTML>
