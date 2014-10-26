@@ -1,6 +1,6 @@
 +++
 date = "2014-10-26T15:04:13+05:30"
-tags = ["init", "writing"]
+tags = ["init", "writing", "techglider", "wordpress", "hugo", "website"]
 title = "reinit"
 
 +++

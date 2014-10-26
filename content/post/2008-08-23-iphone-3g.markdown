@@ -1,0 +1,52 @@
+---
+author: admin
+comments: true
+date: 2008-08-23 15:23:35+05:30
+layout: post
+slug: iphone-3g
+title: iPhone 3G
+wordpress_id: 346
+categories:
+- News
+- Photos
+- TGF
+tags:
+- forums
+---
+
+
+
+As  you may be knowing, Apple's iPhone 3G has been launched just yesterday  (Aug 22, 2008) at 00:00 hours by Airtel and Vodafone in India. They have  kept its pricing as Rs. 31,000 for the 8 GB version and Rs. 36,100 for  the 16 GB variant.
+
+The iPhone is an example of convergence device  which integrates an iPod, an internet device and of course a phone into  a single piece of hardware. Its USP is its 3.5" (that's big :O) touchscreen interface which allows multiple touch, meaning that you  can use more than 1 of your fingers to interact with the device. You  don't have many physical buttons on the phone and for most of your tasks  the touchscreen interface suffices.
+
+It's a 3G (3rd generation)  phone so it offers high speed internet access, better voice and  audio/video features (depending on mobile service operator, of course).  It features GPS (that's Global Positioning System, if you don't know),  so you can view maps on your iPhone.
+
+It's downside include:
+
+
+
+	
+  * A 2.0 mega-pixel camera (that's too low for its price and capability) that you can't use to capture videos  :(.
+
+	
+  * A  battery locked inside the phone so if the phone runs out of juice you  cannot use a spare one and you have to take it to the service center for  battery-replacement if it wears off (with time).
+
+	
+  * No radio  option available, so you have to do with your own collection of music  (and if you are like me, i-won't-listen-to-pirated-songs type, you will  have to do without music, ON AN iPOD :(.
+
+	
+  * You are bound to use the phone with only the 2 operators - Airtel and Vodafone - as it is locked and the SIM can't be changed.
+
+	
+  * It's way too pricey for individuals (exceptions include iPod and Apple crazies)to buy.
+
+
+For full technical specifications you can visit: [http://www.apple.com/iphone/specs.html](http://www.apple.com/iphone/specs.html)
+
+
+
+
+--  
+Kartik - The TechGlider Guy  
+[http://www.techglider.in](http://www.techglider.in/)
