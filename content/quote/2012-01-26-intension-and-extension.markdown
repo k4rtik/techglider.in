@@ -4,7 +4,7 @@ comments: true
 date: 2012-01-26 06:33:47+00:00
 layout: post
 slug: intension-and-extension
-title: Intension and Extension To give an  intensional...
+title: Intension and Extension
 wordpress_id: 389
 post_format:
 - Quote

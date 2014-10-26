@@ -25,19 +25,25 @@ In this post I want to introduce one of the best tools for downloading videos fr
 
 If you are on Ubuntu, you can directly install it by using:
 
-`k4rtik: $ sudo apt-get install youtube-dl`
+```bash
+k4rtik: $ sudo apt-get install youtube-dl
+```
 
 If not, just go to [youtube-dl download page](http://rg3.github.com/youtube-dl/download.html) and save the script in your home directory. Then make the script executable by using the following command:
 
-`k4rtik: $ chmod +x youtube-dl`
+```bash
+k4rtik: $ chmod +x youtube-dl
+```
 
 You can also consider moving the script to your /usr/local/bin directory to invoke it directly without specifying the path:
 
-`k4rtik: $ sudo mv youtube-dl /usr/local/bin`
+```bash
+k4rtik: $ sudo mv youtube-dl /usr/local/bin
+```
 
 In its most basic form you can use this tool to download the highest quality of video by just supplying the url of the video as its argument, e.g.:
 
-`
+```bash
 k4rtik: Videos $ youtube-dl http://www.youtube.com/watch?v=Rk62hRBDLGc
 [youtube] Setting language
 [youtube] Rk62hRBDLGc: Downloading video webpage
@@ -46,11 +52,11 @@ k4rtik: Videos $ youtube-dl http://www.youtube.com/watch?v=Rk62hRBDLGc
 [download] Destination: Rk62hRBDLGc.flv
 [download] 100.0% of 5.38M at 88.81k/s ETA 00:00
 k4rtik: Videos $
-`
+```
 
 My preferred way of downloading videos is by using the -t flag, which saves the video with the title in the file name, e.g.:
 
-`
+```bash
 k4rtik: Videos $ youtube-dl -t http://www.youtube.com/watch?v=Rk62hRBDLGc
 [youtube] Setting language
 [youtube] Rk62hRBDLGc: Downloading video webpage
@@ -59,22 +65,25 @@ k4rtik: Videos $ youtube-dl -t http://www.youtube.com/watch?v=Rk62hRBDLGc
 [download] Destination: Reasons_to_love_Ubuntu_12_04_LTS-Rk62hRBDLGc.flv
 [download] 100.0% of 5.38M at 204.52k/s ETA 00:00
 k4rtik: Videos $
-`
+```
 
 In case, you don't want to download the highest quality to save some bandwidth and time, youtube-dl offers choice of multiple formats. See its man-page to find out more, I prefer H264 videos at 480p size for youtube which I specify like this:
 
-`
+```bash
 k4rtik: Videos $ youtube-dl -t -f 18 www.youtube.com/watch?v=02nBaaIoFWU
 [youtube] Setting language
 [youtube] 02nBaaIoFWU: Downloading video webpage
 [youtube] 02nBaaIoFWU: Downloading video info webpage
 [youtube] 02nBaaIoFWU: Extracting video information
 [download] Multipath_TCP-02nBaaIoFWU.mp4 has already been downloaded
-k4rtik: Videos $`
+k4rtik: Videos $
+```
 
 You can also use it for downloading complete playlists off youtube:
 
-`k4rtik: Videos $ youtube-dl -f 18 -t http://www.youtube.com/watch?v=128ll4yXUfY&list=PL2E1848DB88958935`
+```bash
+k4rtik: Videos $ youtube-dl -f 18 -t http://www.youtube.com/watch?v=128ll4yXUfY&list=PL2E1848DB88958935
+```
 
 Oh, and did I mention... it continues the download if interrupted due to network trouble or some other reason, just specify the same command again.
 

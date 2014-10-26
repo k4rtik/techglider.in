@@ -45,18 +45,13 @@ Here are the steps:
   5. Power off your Galaxy S and enter into 'Download mode' by pressing and holding VOLUME DOWN, POWER and HOME keys together till you see a yellow triangle with 'Downloading' message.
 
 	
-  6. Connect the phone to the computer via USB cable and make sure it is recognized by running `lsusb` command in the Terminal. You will see something similar to
-
-    
-    Bus 002 Device 003: ID 04e8:6601 Samsung Electronics Co., Ltd Z100 Mobile Phone
-
-
-in the output if it is recognized.
+  6. Connect the phone to the computer via USB cable and make sure it is recognized by running `lsusb` command in the Terminal. You will see something similar to  
+     `Bus 002 Device 003: ID 04e8:6601 Samsung Electronics Co., Ltd Z100 Mobile Phone`  
+  in the output if it is recognized.
 
 	
   7. Launch 'heimdall-frontend' as in step 3 and load the 'zImage' obtained in step 4 in Kernel (zImage) section.
-
-[caption id="attachment_250" align="aligncenter" width="500" caption="Heimdall Frontend"][![Heimdall Frontend 1.1](http://k4rtik.files.wordpress.com/2011/06/screenshot-heimdall-frontend-1-1.png?w=500)](http://k4rtik.files.wordpress.com/2011/06/screenshot-heimdall-frontend-1-1.png)[/caption]
+  [![Heimdall Frontend 1.1](http://k4rtik.files.wordpress.com/2011/06/screenshot-heimdall-frontend-1-1.png?w=500)](http://k4rtik.files.wordpress.com/2011/06/screenshot-heimdall-frontend-1-1.png)
 
 	
   8. Press Start and within a few seconds your phone will automatically reboot and you can disconnect the cable. You will find 3 new apps - CWM, Superuser, and Tweaks installed.

@@ -4,7 +4,8 @@ title = "The TechGlider"
 # disqusShortname = "techglider"
 
 [permalinks]
-  post = "/:year/:month/:day/:title/"
+  post = "/post/:year/:month/:day/:slug/"
+  status = "/status/:year/:month/:day/:slug/"
 
 [params]
   author = "Kartik Singhal"

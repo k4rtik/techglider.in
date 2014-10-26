@@ -77,18 +77,18 @@ The -S switch for sudo makes it possible to supply the password via stdin (we ha
 
 **Step 3:** use your favorite scripting language (bash, python, etc.) and run the above command for all the systems of your lab subnet. An example in bash:
 
-[sourcecode language="bash"]
+```bash
 for ip in {101..180}
 do
 	ssh -t admin@192.168.xxx.$ip "echo  | sudo -S shutdown -h now" &
 done
-[/sourcecode]
+```
 
 The above code snippet will run the desired command for all systems in subnet within the [IP range](http://en.wikipedia.org/wiki/IP_address) 192.168.xxx.101 to 192.168.xxx.180. Now, you can clearly see how putting the process in the background will help - the next iteration of the loop need not wait for the command in previous iteration to finish!
 
 In the passing, here's a small video I shot featuring Dhandeep when he got all excited to see this working:
 
-[youtube=http://www.youtube.com/watch?v=IbO00lUPNC4]
+<iframe width="560" height="315" src="//www.youtube.com/embed/IbO00lUPNC4" frameborder="0" allowfullscreen></iframe>
 
 That's it. Try this out, share your tricks and have some *NIX fun in your lab. :-)
 

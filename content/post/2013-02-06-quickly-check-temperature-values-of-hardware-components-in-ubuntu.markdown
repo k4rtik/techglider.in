@@ -43,7 +43,7 @@ Press enter to accept default options when asked.
 
 Here is the script; _hddtemp_ requires _sudo_ making this script more than 3 lines:
 
-https://gist.github.com/k4rtik/2518975
+<script src="https://gist.github.com/k4rtik/2518975.js"></script>
 
 I have put this script in my local bin folder for quick access. To do the same, follow the steps:
 

@@ -18,7 +18,8 @@ tags:
 
 _This one needs to be quick, 14 minutes until midnight._
 
-[caption id="" align="alignright" width="300"][![Logicomix](http://upload.wikimedia.org/wikipedia/en/6/60/Logicomix_cover.jpg)](http://en.wikipedia.org/wiki/File:Logicomix_cover.jpg) Logicomix (Photo credit: Wikipedia)[/caption]
+[![Logicomix](http://upload.wikimedia.org/wikipedia/en/6/60/Logicomix_cover.jpg)](http://en.wikipedia.org/wiki/File:Logicomix_cover.jpg)  
+Logicomix (Photo credit: Wikipedia)
 
 In this post I want to introduce a graphic novel which I read about a year back - [Logicomix: An Epic Search for Truth](http://www.logicomix.com/en/).
 

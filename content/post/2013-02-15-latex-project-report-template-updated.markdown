@@ -19,7 +19,9 @@ tags:
 - ubuntu
 ---
 
-[caption id="" align="alignright" width="300"][![The LaTeX logo, typeset with LaTeX](http://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/300px-LaTeX_logo.svg.png)](http://commons.wikipedia.org/wiki/File:LaTeX_logo.svg) The LaTeX logo (Photo credit: Wikipedia)[/caption]
+[![The LaTeX logo, typeset with LaTeX](http://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/300px-LaTeX_logo.svg.png)](http://commons.wikipedia.org/wiki/File:LaTeX_logo.svg)
+
+The LaTeX logo (Photo credit: Wikipedia)
 
 This will be quite short.
 

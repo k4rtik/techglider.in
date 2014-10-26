@@ -23,7 +23,7 @@ tags:
 This will be short.
 
 
-### A small announcement:
+## A small announcement:
 
 
 I will be out of touch for about a week on the Internet. Disconnected on all social networks (including twitter) and off-line on chats (including GMail chat) and unavailable on SMS. I have already disabled all email and SMS notifications from the social networks. This is just for the sake of experimenting to see if I can still live without social media, so don't get weird ideas about this.
@@ -32,6 +32,5 @@ I have decided to introspect, give myself a break, finish that huge list of task
 
 For the case of crisis, I will still be available on phone and email (which I pledge to check no more than once in a day) for those who can already connect with me through these media.
 
-Signing off
-
+Signing off  
 - Kartik

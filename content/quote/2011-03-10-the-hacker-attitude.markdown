@@ -4,7 +4,7 @@ comments: true
 date: 2011-03-10 09:03:29+00:00
 layout: post
 slug: the-hacker-attitude
-title: The Hacker Attitude 1 The world is full...
+title: The Hacker Attitude
 wordpress_id: 157
 categories:
 - quote

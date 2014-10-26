@@ -38,22 +38,10 @@ Another way I was able to contribute that year was as a volunteer in the Speaker
 [Praveen's](http://www.j4v4m4n.in/) birthday was celebrated on the stage in one of the halls, another example I saw of how people were close to each other while working on things of common interest. Some of my most happy memories include working with [GeoHackers](http://geohackers.in/) on their website in their FOSSHut and going out for dinner at Broast  (my first visit there) with the gang of geeks - 12 of us, each carrying heavy laptop bags, and only one, I, an NITC student. I don't remember if I participated in any of the workshops, but talks by[ Dr V Sasi Kumar](http://swatantryam.blogspot.in/) and Atul Chitnis were quite interesting. Overall, this FOSSMeet was a huge success with good participation, effective talks and workshops (most popular was one on Blender IIRC), and a lot of happy memories. :)
 
 
-### Related Links
-
-
-
-
-
-	
+### Related Links	
   * [FOSSMeet 2011](http://vaamarnath.wordpress.com/2011/01/23/fossmeet-2011/) - Not so aptly titled, but gives a perspective on few other earlier FOSSMeets
-
-	
   * [FOSSMeet@NITC/2010](http://sujithh.info/2010/02/fossmeetnitc2010/) - Sujith's blogpost
-
-	
   * [FOSSMeet 2010](http://www.flickr.com/photos/techglider/sets/72157623416137530/) - A Flickr Set
-
-	
   * [FOSS Meet @ NITC 2010](http://www.flickr.com/photos/pravi/sets/72157623432612816/) - Another Flickr Set
 
 
@@ -100,28 +88,11 @@ My happy memories about the event were really good technical [talks](http://funn
 
 
 ### Blogposts about FOSSMeet 2013
-
-
-
-
-
-	
   * [Journey to FOSSMeet](http://jacksonisaac.wordpress.com/2013/02/26/journey-to-fossmeet/)
-
-
-	
   * [Functional Programming with Scala - workshop at NIT Calicut as part of FOSSMEET 2013](http://pramode.net/2013/02/27/scala-fp-workshop-nitc-fossmeet/)
-
-	
   * [FOSS Meet@NITC](http://tttwrites.wordpress.com/2013/02/27/foss-meetnitc/)
-
-	
   * [git@fossmeet](http://kpabijith.wordpress.com/2013/03/02/gitfossmeet/)
-
-	
   * [MiniDebConf at NIT-C](https://nandajavarma.wordpress.com/2013/03/11/minidebconf-at-nit-c/) (Nandaja)
-
-	
   * [MiniDebConf at NIT-C](http://flossexperiences.wordpress.com/2013/03/14/minidebconf-at-nit-c/) (Shirish)
 
 

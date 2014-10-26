@@ -16,7 +16,7 @@ tags:
 - Samsung Galaxy
 ---
 
-#### _Little background:_
+## Little background
 
 
 It's almost a month now since I sold my old [Nokia N72](http://en.wikipedia.org/wiki/Nokia_N72) (fondly named PlatiniumJunior by me), hoping to buy an Android-based smartphone soon. Since then, I have realized how dependent I was on the phone - thinking of taking a quick snap and realizing I don't have a camera anymore is disappointing, same is getting stuck at a word while reading and missing that MSDict software on my phone which was always ready as a quick reference, similar is being jobless at places I am forced to visit at times (or when there were power outages of countless hours at home, more on this in another post) and missing the phone again which I could use to read some or other ebook. Thinking back, I was more used to it as a smart device, than as a phone. Anyhow, I did manage with the 5-year old [Nokia 2600](http://en.wikipedia.org/wiki/Nokia_2600) all this time.
@@ -24,8 +24,7 @@ It's almost a month now since I sold my old [Nokia N72](http://en.wikipedia.org/
 
 
 
-[caption id="" align="alignright" width="145" caption="Image via Wikipedia"][![Android robot logo.](http://upload.wikimedia.org/wikipedia/en/a/a5/Android-logo.jpg)](http://en.wikipedia.org/wiki/File:Android-logo.jpg)[/caption]
-
+[![Android robot logo.](http://upload.wikimedia.org/wikipedia/en/a/a5/Android-logo.jpg)](http://en.wikipedia.org/wiki/File:Android-logo.jpg)
 
 
 

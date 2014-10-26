@@ -44,4 +44,3 @@ This new year's eve, I sat down to review the list of friends (Damn FB, it has m
 
 
 Part 3 will be out soon. Criticism welcome on this and other posts.
-  *[[ZNMD](http://www.rottentomatoes.com/m/zindagi_na_milegi_dobara)]: Zindagi Na Milegi Dobara

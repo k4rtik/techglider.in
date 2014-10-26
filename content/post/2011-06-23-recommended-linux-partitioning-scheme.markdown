@@ -60,7 +60,7 @@ After a lot of searching and reading on the topic. I have decided on the followi
 
 Remember: _things are not that complex, we make them complex_. So, stick to a simple partition scheme like this and keep things simple.
 
-[caption id="attachment_260" align="aligncenter" width="632" caption="Gparted showing my hard disk partition structure"][![Gparted showing my hard disk partition structure](http://k4rtik.files.wordpress.com/2011/06/screenshot-dev-sda-gparted.png)](http://k4rtik.files.wordpress.com/2011/06/screenshot-dev-sda-gparted.png)[/caption]
+[![Gparted showing my hard disk partition structure](http://k4rtik.files.wordpress.com/2011/06/screenshot-dev-sda-gparted.png)](http://k4rtik.files.wordpress.com/2011/06/screenshot-dev-sda-gparted.png)
 
 **Bonus Tip:** Use [Gparted](http://gparted.sourceforge.net) instead of the [partition editor](http://en.wikipedia.org/wiki/Partition_editor) that comes within the installer of most linux installers to have a complete control over your hard disk's partitions.
 

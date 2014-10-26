@@ -14,6 +14,6 @@ tags:
 - Informative
 ---
 
-[caption id="attachment_86" align="aligncenter" width="300" caption="Drupal 7"][![Drupal 7 Screenshot](http://k4rtik.files.wordpress.com/2011/01/snapshot6.png?w=300)](http://k4rtik.files.wordpress.com/2011/01/snapshot6.png)[/caption]
+[![Drupal 7 Screenshot](http://k4rtik.files.wordpress.com/2011/01/snapshot6.png?w=300)](http://k4rtik.files.wordpress.com/2011/01/snapshot6.png)
 
 I finally managed to install Drupal 7 on my Arch Linux Desktop after some difficulty, but feels like I learned a lot in the meantime.

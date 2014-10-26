@@ -21,7 +21,7 @@ tags:
 
 Just watched this Google Tech Talk on **From Nand to Tetris in 12 steps** by Shimon Schocken introducing a course he developed along with Noam Nisan:
 
-[youtube=http://www.youtube.com/watch?v=IlPj5Rg1y2w]
+<iframe width="420" height="315" src="//www.youtube.com/embed/IlPj5Rg1y2w" frameborder="0" allowfullscreen></iframe>
 
 A must watch for all CS faculty of hardware, algorithms and systems.
 

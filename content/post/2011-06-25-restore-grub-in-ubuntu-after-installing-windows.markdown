@@ -21,7 +21,7 @@ tags:
 - Windows
 ---
 
-So, you had [Ubuntu](http://www.ubuntu.com/) (or any of its derivative) installed on your system and then decided to install [Windows](http://en.wikipedia.org/wiki/Microsoft_Windows)with it? And after installing Windows, you can't load Ubuntu again, just follow the steps to get this working:
+So, you had [Ubuntu](http://www.ubuntu.com/) (or any of its derivative) installed on your system and then decided to install [Windows](http://en.wikipedia.org/wiki/Microsoft_Windows) with it? And after installing Windows, you can't load Ubuntu again, just follow the steps to get this working:
 
 
 
@@ -34,35 +34,44 @@ So, you had [Ubuntu](http://www.ubuntu.com/) (or any of its derivative) installe
 	
   3. Execute:
 
-    `sudo fdisk -l`
+    ```
+    sudo fdisk -l
+    ```
 
 	
   4. Execute (after replacing _sda7_ with your corresponding linux root [partition](http://en.wikipedia.org/wiki/Disk_partitioning), which you will be able to identify from the output of the previous command - it's usually marked as [Linux](http://en.wikipedia.org/wiki/Linux)):
 
-    `sudo mount /dev/sda7 /mnt`
+    ```
+    sudo mount /dev/sda7 /mnt
+    ```
 
 	
   5. Just check whether you got the root partition right, if you have more than 1 linux partition on your hard disk:
 
-    `cd /mnt
-ls`
-If the listing contains names like bin, boot, dev, etc, home, tmp, usr, var, et cetera then you are in the right partition. If not, unmount this using:
-
-
-
-    `sudo umount /mnt`
-and follow the above step again using another partition.
+    ```
+    cd /mnt
+    ls
+    ```
+  If the listing contains names like bin, boot, dev, etc, home, tmp, usr, var, et cetera then you are in the right partition. If not, unmount this using:
+    ```
+    sudo umount /mnt
+    ```
+  and follow the above step again using another partition.
 
 	
   6. Now:
 
-    `sudo grub-install --root-directory=/mnt /dev/sda`
+    ```
+    sudo grub-install --root-directory=/mnt /dev/sda
+    ```
 and grub will get installed if it shows no errors.
 
 	
   7. As a last step unmount your /mnt directory using:
 
-    `sudo umount /mnt`
+    ```
+    sudo umount /mnt
+    ```
 and restart the system. You will find the friendly grub [boot manager](http://en.wikipedia.org/wiki/Booting) giving you the choice to boot into Linux or Windows.
 
 

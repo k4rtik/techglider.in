@@ -46,7 +46,7 @@ In the evening, I visited my friend Agam who lives in Lohiya Nagar and asked him
 
 
 
-[caption id="" align="alignright" width="250" caption="Image via Wikipedia"][![Bribe](http://upload.wikimedia.org/wikipedia/commons/5/51/Bribe.png)](http://commons.wikipedia.org/wiki/File:Bribe.png)[/caption]
+[![Bribe](http://upload.wikimedia.org/wikipedia/commons/5/51/Bribe.png)](http://commons.wikipedia.org/wiki/File:Bribe.png)
 
 
 

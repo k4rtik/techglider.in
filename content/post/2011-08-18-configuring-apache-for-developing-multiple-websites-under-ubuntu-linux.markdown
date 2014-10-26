@@ -28,75 +28,91 @@ Let's keep all our development websites under the home directory in public_html 
 
 Open the Terminal and follow the steps for a test setup, you may customize it your preferences later:
 
-[sourcecode language="bash" gutter="false"]kartik@PlatiniumLight ~ $ mkdir public_html
+```bash
+kartik@PlatiniumLight ~ $ mkdir public_html
 kartik@PlatiniumLight ~ $ cd public_html/
 kartik@PlatiniumLight ~/public_html $ mkdir site1
 kartik@PlatiniumLight ~/public_html $ mkdir site2
-kartik@PlatiniumLight ~/public_html $ [/sourcecode]
+kartik@PlatiniumLight ~/public_html $ 
+```
 
 Create files called index.html with some content inside each of these directories to help you identify them when you walk through this tutorial:
 
-[sourcecode language="bash" gutter="false"]kartik@PlatiniumLight ~/public_html $ cd site1
-kartik@PlatiniumLight ~/public_html/site1 $ gedit index.html[/sourcecode]
+```bash
+kartik@PlatiniumLight ~/public_html $ cd site1
+kartik@PlatiniumLight ~/public_html/site1 $ gedit index.html
+```
 
-[caption id="attachment_314" align="aligncenter" width="632" caption="Screenshot - index.html (~/public_html/site1) - gedit"][![Screenshot - index.html (~/public_html/site1) - gedit](http://k4rtik.files.wordpress.com/2011/07/1-screenshot-index-html-public_html-site1-gedit.png)](http://k4rtik.files.wordpress.com/2011/07/1-screenshot-index-html-public_html-site1-gedit.png)[/caption]
+[![Screenshot - index.html (~/public_html/site1) - gedit](http://k4rtik.files.wordpress.com/2011/07/1-screenshot-index-html-public_html-site1-gedit.png)](http://k4rtik.files.wordpress.com/2011/07/1-screenshot-index-html-public_html-site1-gedit.png)
 
 Enter some text such as "This is site 1" and save the file. Similarly put "This is site 2" in the index.html of site2 directory.
 
-[sourcecode language="bash" gutter="false"]kartik@PlatiniumLight ~/public_html/site1 $ cd ../site2
-kartik@PlatiniumLight ~/public_html/site2 $ gedit index.html[/sourcecode]
+```bash
+kartik@PlatiniumLight ~/public_html/site1 $ cd ../site2
+kartik@PlatiniumLight ~/public_html/site2 $ gedit index.html
+```
 
-[caption id="attachment_315" align="aligncenter" width="632" caption="Screenshot - index.html (~/public_html/site2) - gedit"][![Screenshot - index.html (~/public_html/site2) - gedit](http://k4rtik.files.wordpress.com/2011/07/2-screenshot-index-html-public_html-site2-gedit.png)](http://k4rtik.files.wordpress.com/2011/07/2-screenshot-index-html-public_html-site2-gedit.png)[/caption]
+[![Screenshot - index.html (~/public_html/site2) - gedit](http://k4rtik.files.wordpress.com/2011/07/2-screenshot-index-html-public_html-site2-gedit.png)](http://k4rtik.files.wordpress.com/2011/07/2-screenshot-index-html-public_html-site2-gedit.png)
 
 Now begins the main step of the process. We have to create separate apache configuration file for each of the websites. This is fairly easy to do. We copy the default config file and modify it to our needs:
 
-[sourcecode language="bash" gutter="false"]kartik@PlatiniumLight ~/public_html/site2 $ cd /etc/apache2/sites-available/
+```bash
+kartik@PlatiniumLight ~/public_html/site2 $ cd /etc/apache2/sites-available/
 kartik@PlatiniumLight /etc/apache2/sites-available $ sudo cp default site1
 kartik@PlatiniumLight /etc/apache2/sites-available $ sudo cp default site2
-kartik@PlatiniumLight /etc/apache2/sites-available $ sudo vim site1[/sourcecode]
+kartik@PlatiniumLight /etc/apache2/sites-available $ sudo vim site1
+```
 
 Note that I am using vim editor for making the changes as I prefer it for its amazing syntax highlight support even for various linux configuration files, you may use gedit, or any other editor instead.
 
 We need to change the path of the _DocumentRoot_ and _Directory_ to the particular website’s directory, and add a _ServerName_ directive:
 
-[sourcecode language="bash" gutter="false"]
+```bash
+
 ServerName site1
 DocumentRoot /home/kartik/public_html/site1
-<Directory /home/kartik/public_html/site1/>[/sourcecode]
+<Directory /home/kartik/public_html/site1/>
+```
 
 
 Take notice of the '/' near the end of the second line, it is important. Also don't forget to add the line with _ServerName_ directive just before the _DocumentRoot_ directive. The lines which need to be edited are highlighted with red arrows in the following screenshot:
 
-[caption id="attachment_316" align="aligncenter" width="632" caption="Screenshot - Terminal - Editing site1 config file"][![Screenshot - Terminal - Editing site1 config file](http://k4rtik.files.wordpress.com/2011/07/3-screenshot-terminal-arrows.png)](http://k4rtik.files.wordpress.com/2011/07/3-screenshot-terminal-arrows.png)[/caption]
+[![Screenshot - Terminal - Editing site1 config file](http://k4rtik.files.wordpress.com/2011/07/3-screenshot-terminal-arrows.png)](http://k4rtik.files.wordpress.com/2011/07/3-screenshot-terminal-arrows.png)
 
 Save the file, similar changes need to be done for other sites also, site2 in this example.
 
 Now we need to make entries in the hosts file so that Apache can recognize the new sites.
 
-[sourcecode language="bash" gutter="false"] kartik@PlatiniumLight ~ $ sudo gedit /etc/hosts[/sourcecode]
+```bash
+ kartik@PlatiniumLight ~ $ sudo gedit /etc/hosts
+```
 
 Add the names of the new sites after localhost as shown:
 
-[caption id="attachment_319" align="aligncenter" width="632" caption="Screenshot - hosts (/etc) - gedit"][![Screenshot - hosts (/etc) - gedit](http://k4rtik.files.wordpress.com/2011/07/4-screenshot-hosts-etc-gedit.png)](http://k4rtik.files.wordpress.com/2011/07/4-screenshot-hosts-etc-gedit.png)[/caption]
+[![Screenshot - hosts (/etc) - gedit](http://k4rtik.files.wordpress.com/2011/07/4-screenshot-hosts-etc-gedit.png)](http://k4rtik.files.wordpress.com/2011/07/4-screenshot-hosts-etc-gedit.png)
 
 Now enable the new websites by using _a2ensite_ command:
 
-[sourcecode language="bash" gutter="false"]kartik@PlatiniumLight ~ $ sudo a2ensite site1
+```bash
+kartik@PlatiniumLight ~ $ sudo a2ensite site1
 Enabling site site1.
 Run '/etc/init.d/apache2 reload' to activate new configuration!
-kartik@PlatiniumLight ~ $ [/sourcecode]
+kartik@PlatiniumLight ~ $ 
+```
 
 Do similarly for site2, and then run the following command to activate the new configuration:
 
-[sourcecode language="bash" gutter="false"]kartik@PlatiniumLight ~ $ sudo service apache2 reload
+```bash
+kartik@PlatiniumLight ~ $ sudo service apache2 reload
 * Reloading web server config apache2
 apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1 for ServerName
 [ OK ]
-kartik@PlatiniumLight ~ $ [/sourcecode]
+kartik@PlatiniumLight ~ $ 
+```
 
 You can ignore the warning which is shown in the above output. Now open your favorite browser and open http://site1 and http://site2 in different tabs, you will find the content of their respective index.html files.
 
-[caption id="attachment_320" align="aligncenter" width="632" caption="Screenshot - Chromium showing both the sites"][![Screenshot - Chromium showing both the sites](http://k4rtik.files.wordpress.com/2011/07/5-screenshot-chromes.png)](http://k4rtik.files.wordpress.com/2011/07/5-screenshot-chromes.png)[/caption]
+[![Screenshot - Chromium showing both the sites](http://k4rtik.files.wordpress.com/2011/07/5-screenshot-chromes.png)](http://k4rtik.files.wordpress.com/2011/07/5-screenshot-chromes.png)
 
 And now you are done with setting up multiple sites in Apache. You can create as many sites as desired by following the same procedure, creating a config file for each website.
 
@@ -106,7 +122,8 @@ Here follows an introduction to some useful Apache utilities and configuration f
 
 **a2dissite** - does exactly the opposite - disable a website so that it is no longer accessible from your web server. E.g.
 
-[sourcecode language="bash" gutter="false"]kartik@PlatiniumLight ~ $ sudo a2dissite site2
+```bash
+kartik@PlatiniumLight ~ $ sudo a2dissite site2
 [sudo] password for kartik:
 Site site2 disabled.
 Run '/etc/init.d/apache2 reload' to activate new configuration!
@@ -114,20 +131,23 @@ kartik@PlatiniumLight ~ $ sudo service apache2 reload
 * Reloading web server config apache2
 apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1 for ServerName
 [ OK ]
-kartik@PlatiniumLight ~ $ [/sourcecode]
+kartik@PlatiniumLight ~ $ 
+```
 
 This will disable site2 from loading any more. You can use a2ensite to enable it again.
 
 Similar to sites, there are corresponding directories and commands for controlling apache modules also. Available modules are kept under /etc/apache2/mods-available directory and enabled ones are symlinked under mods-enabled directory. The corresponding commands are - **a2enmod** and **a2dismod**. E.g.
 
-[sourcecode language="bash" gutter="false"]kartik@PlatiniumLight /etc/apache2/conf.d $ sudo a2enmod rewrite
+```bash
+kartik@PlatiniumLight /etc/apache2/conf.d $ sudo a2enmod rewrite
 Enabling module rewrite.
 Run '/etc/init.d/apache2 restart' to activate new configuration!
 kartik@PlatiniumLight /etc/apache2/conf.d $ sudo service apache2 reload
 * Reloading web server config apache2
 apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1 for ServerName
 [ OK ]
-kartik@PlatiniumLight /etc/apache2/conf.d $ [/sourcecode]
+kartik@PlatiniumLight /etc/apache2/conf.d $ 
+```
 
 This will enable Apache rewrite module which is required my some CMS solutions like Drupal to enable pretty URLs.
 

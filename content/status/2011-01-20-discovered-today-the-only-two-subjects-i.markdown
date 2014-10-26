@@ -15,5 +15,6 @@ tags:
 ---
 
 Discovered today the only two subjects I am really liking in my 4th sem of BTech:
+
 1. Data Structures and Algorithms - no attendance, low strength, more discussion possible in Sudeep Sir's class
 2. Computer Organization - I think I was always more inclined towards hardware and internals of computer system, assembly language programming comes as a bonus part with this course

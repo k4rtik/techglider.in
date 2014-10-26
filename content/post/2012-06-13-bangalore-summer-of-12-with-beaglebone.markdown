@@ -37,9 +37,9 @@ Exploration of the design specifications of the board with some details about ea
 
 Just today, I got my hands on [Microchip's Accessory Development Starter Kit for Android](http://www.microchip.com/stellent/idcplg?IdcService=SS_GET_PAGE&nodeId=1406&dDocName=en553673) (pictured below). I will be using this to understand the ins and outs of [Android's Open Accessory Protocol](http://developer.android.com/guide/topics/usb/adk.html) and try to port the firmware on BeagleBone such that it could be used as an ADK platform as well. Lots of learning, fiddling with USB APIs, Android hacking, and of course embedded C programming to follow next (and I am up for the game!).
 
-Here are some pics of the awesome things I am playing with these days (click on image for larger view):
+<!--Here are some pics of the awesome things I am playing with these days (click on image for larger view):
 
-[gallery columns="2"]
+[gallery columns="2"]-->
 
 I will try to regularly post about my progress here and yes, there is a lot more I have to say about this Bangalore Summer, but some other post, some other time. :)
 

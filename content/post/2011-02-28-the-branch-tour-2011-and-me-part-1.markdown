@@ -22,7 +22,7 @@ tags:
 Many have asked me why I decided to go for branch tour when almost none of the northies were ready to go. The reasons were many - the most prominent being I wanted to know my branch mates, to connect with them, share some laughs, joys together (the whole first year, the shy, not-into-cultural-activities Kartik in me had tried to stay away (read: not actively participated) from events like Sangam, Spectrum, Debutante which are meant for bringing the whole branch together - for this Rama (happy now?) had always cursed me). The other reason was that even after being here in Calicut for over a year and a half I had not tried to visit any places (Bangalore being an exception - which I visited 2 times last year for non-fun conferences). The northies not going for tour was not much of a problem for me as I thought over and realized I have had more and better Malayali friends compared to northies at least in my branch (yeah, I did try to get them involved too, but one by one everyone except Mamde backed out).
 
 
-### Day 1 - Visit to [Meenmutty Waterfalls](http://www.hindu.com/mp/2005/02/26/stories/2005022601800100.htm) and [Pookot Lake](http://www.calicut.net/travel/pookot.html), Wayanad
+## Day 1 - Visit to [Meenmutty Waterfalls](http://www.hindu.com/mp/2005/02/26/stories/2005022601800100.htm) and [Pookot Lake](http://www.calicut.net/travel/pookot.html), Wayanad
 
 
 The first day started by waking up at 4:30 and packing up my bag in a hurry. I had packed up everything in my laptop bag and realized just minutes before boarding the bus that I will need warm clothes too. Ran back to my room and packed up a few additional clothes in another bag (phew, this saved me from freezing at Ooty 3 days later).
@@ -38,7 +38,7 @@ Next up was Pookot Lake, where me and Mamde decided to go for boating recalling 
 We left for Mysore. Stay at Comfort-Inn at night was, well, what else to say, a comfort. I had not stayed in such a good hotel ever (our room even had a working AC!). The first day was par our expectations of the tour.
 
 
-### Day 2 - [﻿﻿St. Philomena's Church](http://en.wikipedia.org/wiki/St._Philomena's_Church,_Mysore), [Chamundi Hills](http://en.wikipedia.org/wiki/Chamundi_hills), [Zoo](http://www.mysorezoo.org/), [Brindavan Gardens](http://www.horticulture.kar.nic.in/brindavan.htm), Mysore
+## Day 2 - [﻿﻿St. Philomena's Church](http://en.wikipedia.org/wiki/St._Philomena's_Church,_Mysore), [Chamundi Hills](http://en.wikipedia.org/wiki/Chamundi_hills), [Zoo](http://www.mysorezoo.org/), [Brindavan Gardens](http://www.horticulture.kar.nic.in/brindavan.htm), Mysore
 
 
 The first place we visited after leaving Comfort Inn was the church. As I had never visited a church before (my closest was going to church, on insistence of my best friend Hitesh, the night before my 10th class results were declared only to find it closed, we were apparently too late), it was a new experience for me. I was reminded of all those Dan Brown novels and movies I had read and watched noticing the general attributes of the church. I had to do some pondering over my being an atheist when Nivetha asked about it. Some more photo sessions were done before we left for Chamundi Hills.
@@ -60,4 +60,3 @@ The night was spent traveling to our next destination - Hoganakkal.
 So you managed to read all of the above? Congratulations! You deserve a special mention on this blog - get yourself one my posting a comment below :P. BTW there are some good and not-so-good photos I took during the tour available online, do take a look at my [CSE Branch Tour - Picasa Web Album](https://picasaweb.google.com/kartiksinghal/CSE200913BranchTour2011?authkey=Gv1sRgCIPG0ODz2KTblAE&feat=directlink).
 
 This part 1 just mentions half of all I have to say about our wonderful first branch tour. I am still in process of writing the part 2, expect to read it tonight.
-  *[TLDR]: Too Long Didn't Read

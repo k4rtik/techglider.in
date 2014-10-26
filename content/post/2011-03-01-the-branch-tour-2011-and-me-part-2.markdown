@@ -21,13 +21,12 @@ This is second and the last part of my earlier post - _The Branch Tour 2011 and
 
 > **Disclaimer:** The following post is dedicated to all my branch mates and is a little more on the personal side. Additionally, the post is too long and may not be of any relevance for those who seek to attain any bit of technical nirvana from this blog. So, you may happily TLDR this post.
 
-> **Note: **This post was supposed to be published quite a long time back, but stating some hard facts directly felt bad that ago; better late then never. ;-) (actually posted on 2012-01-05)**
-**
+> **Note:** This post was supposed to be published quite a long time back, but stating some hard facts directly felt bad that ago; better late then never. ;-) (actually posted on 2012-01-05)
 
 
 
 
-### Day 3 - [Hogenakkal Falls](http://en.wikipedia.org/wiki/Hogenakkal_Falls), Tamil Nadu
+## Day 3 - [Hogenakkal Falls](http://en.wikipedia.org/wiki/Hogenakkal_Falls), Tamil Nadu
 
 
 Day 3 started with our reaching Hogenakkal early morning, getting freshened up at a not-that-commendable hotel-like-place and having breakfast at nearby C M Hotel (cum-bar); the food was pretty strange there and I didn't get the papad after multiple attempts. :-(
@@ -45,7 +44,7 @@ It was during this bus journey that I actually started to miss someone. Perhaps 
 Anyhow, we stayed at [Asoka Inn](http://asokainn.com/) (after having an almost cold dinner in their restaurant). This one hotel was perfect example of deceit - the outside seemed so grand and professional, the rooms inside were exactly the opposite. And we were 4-5 in a room which had just a double-bed. Perhaps this was to bring our raised hopes from Comfort Inn experience back to the ground-level.
 
 
-### Day 4 - [Ooty Lake](http://en.wikipedia.org/wiki/Ooty_lake), [The Tea Factory](http://www.fullstopindia.com/the-tea-factory-ooty-tamil-nadu) and [Government Botanical Gardens](http://en.wikipedia.org/wiki/Government_Botanical_Gardens,_Ooty), Ooty
+## Day 4 - [Ooty Lake](http://en.wikipedia.org/wiki/Ooty_lake), [The Tea Factory](http://www.fullstopindia.com/the-tea-factory-ooty-tamil-nadu) and [Government Botanical Gardens](http://en.wikipedia.org/wiki/Government_Botanical_Gardens,_Ooty), Ooty
 
 
 We set out early morning towards the lake, the bus journey towards the top of the hills was indeed nice. We actually saw the clouds mingling with hill peaks; the sight was even lovelier near the top when those tea plantations along with rows of colorful houses became visible.
@@ -67,4 +66,3 @@ As it was coming to an end, I was thinking more and more about how I will miss t
 
 
 So you managed to read all of the above (and perhaps the[ first part](http://k4rtik.wordpress.com/2011/02/28/the-branch-tour-2011-and-me-part-1/) too)? Congratulations! You deserve a special mention on this blog - get yourself one my posting a comment below :P. BTW there are some good and not-so-good photos I took during the tour available online, do take a look at my [CSE Branch Tour - Picasa Web Album](https://picasaweb.google.com/kartiksinghal/CSE200913BranchTour2011?authkey=Gv1sRgCIPG0ODz2KTblAE&feat=directlink).
-  *[TLDR]: Too Long Didn't Read

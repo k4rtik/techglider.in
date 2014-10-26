@@ -19,7 +19,7 @@ tags:
 It's quite easy to use text files as input source or to redirect the output of programs to files if you happen to do programming on a unix/linux terminal.
 
 Let's take an example of a usual random number generator:
-[sourcecode language="cpp"]
+```c
 // random.c
 #include <stdio.h>
 #include <stdlib.h>
@@ -31,24 +31,34 @@ int main ()
 
         return 0;
 }
-[/sourcecode]
+```
 
 Let's generate an executable by the name `random.out` for this program:
-[sourcecode language="bash" gutter="false"]gcc random.c -o random.out[/sourcecode]
+```bash
+$ gcc random.c -o random.out
+```
 
 Then, to redirect it's output we can use output redirection offered by the bash shell (_tip_: reduce the value of count in the code above if you don't want to generate a 1 GiB file and waste both time and disk space):
-[sourcecode language="bash" gutter="false"]./random.out > randout.txt[/sourcecode]
+```bash
+$ ./random.out > randout.txt
+```
 
 The > (greater than symbol) redirects the standard output to the file named `randout.txt`.
 
 To use a file as input source, the < (less than symbol) is used, e.g.:
-[sourcecode language="bash" gutter="false"]./quicksort.out < randout.txt[/sourcecode]
+```bash
+$ ./quicksort.out < randout.txt
+```
 
 You can also combine both redirections:
-[sourcecode language="bash" gutter="false"]./quicksort.out < randout.txt > sortedfile.txt[/sourcecode]
+```bash
+$ ./quicksort.out < randout.txt > sortedfile.txt
+```
 
 Another nifty concept is pipelining (or piping), which can be used to redirect output from a program as input of another, for example, to generate random numbers on fly and feed them to my quicksort program I can do:
-[sourcecode language="bash" gutter="false"]./random.out | ./quicksort.out > sortedfile.txt[/sourcecode]
+```bash
+$ ./random.out | ./quicksort.out > sortedfile.txt
+```
 
 In the above, input source files is not specified as required number of inputs are taken directly from random program. | (vertical pipeline symbol) enables this functionality.
 

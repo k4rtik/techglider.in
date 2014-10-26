@@ -19,13 +19,15 @@ tags:
 
 As the FOSSCell webserver has been facing troubles these days, the instructions to use the Ubuntu Mirror of NIT Calicut that were available on the FOSSCell wiki are being missed by many. Here they are though not in the informative way as were given on the wiki:
 
-Add the following to your /etc/apt/sources.list and comment out other similar repos.
+Add the following to your `/etc/apt/sources.list` and comment out other similar repos.
 
-`
+```
 deb http://192.168.40.97/ubuntu lucid-updates main multiverse restricted universe
 deb http://192.168.40.97/ubuntu lucid-security main multiverse restricted universe
 deb http://192.168.40.97/ubuntu lucid main multiverse restricted universe
-`
+```
 
 Then update the repo database using:
-`sudo apt-get update`
+```
+sudo apt-get update
+```

@@ -21,7 +21,7 @@ The motivation for doing this are similar - stretching myself to give up on a ba
 Given that I have a lot to say, things that keep on forming virtual blog posts in my mind - some of which are technical, some about my [dream college](http://techglider.in/kartik/blog/2009/11/going-home-after-135-days/), some advice for juniors, some worldly pondering, some internal struggles - I have decided on my first challenge:
 
 
-### Publish Something Useful Everyday for Next 28 Days
+## Publish Something Useful Everyday for Next 28 Days
 
 
 The definition of _useful_ might sound a bit flaky, but this definitely includes writing every day. And that _something _could be source code, photographs, or just a bunch of thoughts (this post is #1) among other possible things.
