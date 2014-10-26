@@ -1,7 +1,7 @@
 ---
 author: kartiksinghal
 comments: true
-date: 2013-02-08 17:50:21+00:00
+date: 2013-02-08 17:50:21+05:30
 layout: post
 slug: even-after-giving-enough-time-to-that-someone
 title: Even after giving enough time to that someone...

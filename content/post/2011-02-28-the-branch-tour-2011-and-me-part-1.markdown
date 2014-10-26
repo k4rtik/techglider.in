@@ -1,7 +1,7 @@
 ---
 author: kartiksinghal
 comments: true
-date: 2011-02-28 02:30:13+00:00
+date: 2011-02-28 02:30:13+05:30
 layout: post
 slug: the-branch-tour-2011-and-me-part-1
 title: The Branch Tour 2011 and me (Part 1)

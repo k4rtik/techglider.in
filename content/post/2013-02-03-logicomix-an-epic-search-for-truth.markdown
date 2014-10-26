@@ -1,7 +1,7 @@
 ---
 author: kartiksinghal
 comments: true
-date: 2013-02-03 18:52:40+00:00
+date: 2013-02-03 18:52:40+05:30
 layout: post
 slug: logicomix-an-epic-search-for-truth
 title: 'Logicomix: An Epic Search for Truth'

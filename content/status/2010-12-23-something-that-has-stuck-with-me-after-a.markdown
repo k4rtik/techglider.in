@@ -1,7 +1,7 @@
 ---
 author: kartiksinghal
 comments: true
-date: 2010-12-23 18:30:23+00:00
+date: 2010-12-23 18:30:23+05:30
 layout: post
 slug: something-that-has-stuck-with-me-after-a
 title: Something that has stuck with me after A...

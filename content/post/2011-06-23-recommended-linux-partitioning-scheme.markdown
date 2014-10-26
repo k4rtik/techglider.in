@@ -1,7 +1,7 @@
 ---
 author: kartiksinghal
 comments: true
-date: 2011-06-23 18:30:18+00:00
+date: 2011-06-23 18:30:18+05:30
 layout: post
 slug: recommended-linux-partitioning-scheme
 title: Recommended Linux Partitioning Scheme

@@ -1,7 +1,7 @@
 ---
 author: kartiksinghal
 comments: true
-date: 2012-01-26 06:33:47+00:00
+date: 2012-01-26 06:33:47+05:30
 layout: post
 slug: intension-and-extension
 title: Intension and Extension

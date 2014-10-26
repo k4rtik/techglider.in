@@ -1,7 +1,7 @@
 ---
 author: kartiksinghal
 comments: true
-date: 2013-02-15 14:36:40+00:00
+date: 2013-02-15 14:36:40+05:30
 layout: post
 slug: latex-project-report-template-updated
 title: LaTeX Project Report Template Updated

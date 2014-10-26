@@ -1,7 +1,7 @@
 ---
 author: kartiksinghal
 comments: true
-date: 2010-10-16 17:18:00+00:00
+date: 2010-10-16 17:18:00+05:30
 layout: post
 slug: installing-64-bit-version-of-flash-player-on-fedora-13
 title: Installing 64-bit version of Flash Player on Fedora 13

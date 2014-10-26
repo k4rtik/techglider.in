@@ -1,7 +1,7 @@
 ---
 author: kartiksinghal
 comments: true
-date: 2011-08-18 18:30:13+00:00
+date: 2011-08-18 18:30:13+05:30
 layout: post
 slug: configuring-apache-for-developing-multiple-websites-under-ubuntu-linux
 title: Configuring Apache for Developing Multiple Websites under Ubuntu Linux

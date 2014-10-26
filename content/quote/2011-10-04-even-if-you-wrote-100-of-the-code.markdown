@@ -1,7 +1,7 @@
 ---
 author: kartiksinghal
 comments: true
-date: 2011-10-04 12:43:28+00:00
+date: 2011-10-04 12:43:28+05:30
 layout: post
 slug: even-if-you-wrote-100-of-the-code
 title: even if you wrote 100% of the code...

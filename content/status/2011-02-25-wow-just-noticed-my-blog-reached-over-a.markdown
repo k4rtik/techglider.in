@@ -1,7 +1,7 @@
 ---
 author: kartiksinghal
 comments: true
-date: 2011-02-25 10:30:32+00:00
+date: 2011-02-25 10:30:32+05:30
 layout: post
 slug: wow-just-noticed-my-blog-reached-over-a
 title: Wow Just noticed my blog reached over a...

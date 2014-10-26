@@ -1,7 +1,7 @@
 ---
 author: kartiksinghal
 comments: true
-date: 2011-01-20 15:07:21+00:00
+date: 2011-01-20 15:07:21+05:30
 layout: post
 slug: discovered-today-the-only-two-subjects-i
 title: Discovered today the only two subjects I...

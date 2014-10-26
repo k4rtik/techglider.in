@@ -1,7 +1,7 @@
 ---
 author: kartiksinghal
 comments: true
-date: 2010-06-18 04:23:00+00:00
+date: 2010-06-18 04:23:00+05:30
 layout: post
 slug: my-first-posterous-blog-post
 title: My first Posterous Blog post

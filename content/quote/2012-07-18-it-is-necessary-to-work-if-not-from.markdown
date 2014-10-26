@@ -1,7 +1,7 @@
 ---
 author: kartiksinghal
 comments: true
-date: 2012-07-18 08:29:33+00:00
+date: 2012-07-18 08:29:33+05:30
 layout: post
 slug: it-is-necessary-to-work-if-not-from
 title: It is necessary to work if not from...

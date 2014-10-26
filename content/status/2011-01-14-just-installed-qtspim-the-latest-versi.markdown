@@ -1,7 +1,7 @@
 ---
 author: kartiksinghal
 comments: true
-date: 2011-01-14 04:34:22+00:00
+date: 2011-01-14 04:34:22+05:30
 layout: post
 slug: just-installed-qtspim-the-latest-versi
 title: Just installed QtSpim - the latest versi...

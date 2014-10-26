@@ -1,7 +1,7 @@
 ---
 author: kartiksinghal
 comments: true
-date: 2013-02-11 07:28:32+00:00
+date: 2013-02-11 07:28:32+05:30
 layout: post
 slug: musing-over-the-challenge
 title: Musing over The Challenge

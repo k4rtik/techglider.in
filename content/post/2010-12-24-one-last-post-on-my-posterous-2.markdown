@@ -1,7 +1,7 @@
 ---
 author: kartiksinghal
 comments: true
-date: 2010-12-24 21:07:00+00:00
+date: 2010-12-24 21:07:00+05:30
 layout: post
 slug: one-last-post-on-my-posterous-2
 title: One last post on my Posterous

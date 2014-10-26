@@ -1,7 +1,7 @@
 ---
 author: kartiksinghal
 comments: true
-date: 2011-01-22 13:15:50+00:00
+date: 2011-01-22 13:15:50+05:30
 layout: post
 slug: just-finished-reading-oral-history-inter
 title: Just finished reading Oral history inter...

@@ -1,7 +1,7 @@
 ---
 author: kartiksinghal
 comments: true
-date: 2011-06-11 13:20:00+00:00
+date: 2011-06-11 13:20:00+05:30
 layout: post
 slug: current-android-app-list
 title: Current Android App List

@@ -1,7 +1,7 @@
 ---
 author: kartiksinghal
 comments: true
-date: 2012-07-13 18:30:17+00:00
+date: 2012-07-13 18:30:17+05:30
 layout: post
 slug: best-tool-for-downloading-youtube-videos-and-playlists
 title: Best Tool for Downloading YouTube Videos and Playlists

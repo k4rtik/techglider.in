@@ -1,7 +1,7 @@
 ---
 author: kartiksinghal
 comments: true
-date: 2011-10-06 07:19:04+00:00
+date: 2011-10-06 07:19:04+05:30
 layout: post
 slug: build-eiskaltdc-on-fedora-16-lovelock-64-bit
 title: Build EiskaltDC++ on Fedora 15 Lovelock 64-bit

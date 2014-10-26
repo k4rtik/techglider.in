@@ -1,7 +1,7 @@
 ---
 author: kartiksinghal
 comments: true
-date: 2011-03-06 09:17:47+00:00
+date: 2011-03-06 09:17:47+05:30
 layout: post
 slug: i-am-free-no-matter-what-rules-surround
 title: I am free no matter what rules surround...

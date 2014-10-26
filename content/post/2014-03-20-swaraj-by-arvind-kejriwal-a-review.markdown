@@ -1,7 +1,7 @@
 ---
 author: kartiksinghal
 comments: true
-date: 2014-03-20 17:53:41+00:00
+date: 2014-03-20 17:53:41+05:30
 layout: post
 slug: swaraj-by-arvind-kejriwal-a-review
 title: Swaraj by Arvind Kejriwal - A Review

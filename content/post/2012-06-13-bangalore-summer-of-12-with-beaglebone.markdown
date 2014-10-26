@@ -1,7 +1,7 @@
 ---
 author: kartiksinghal
 comments: true
-date: 2012-06-13 16:42:13+00:00
+date: 2012-06-13 16:42:13+05:30
 layout: post
 slug: bangalore-summer-of-12-with-beaglebone
 title: (Bangalore) Summer of '12... with BeagleBone

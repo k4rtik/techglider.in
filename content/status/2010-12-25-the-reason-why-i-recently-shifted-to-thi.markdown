@@ -1,7 +1,7 @@
 ---
 author: kartiksinghal
 comments: true
-date: 2010-12-25 02:47:21+00:00
+date: 2010-12-25 02:47:21+05:30
 layout: post
 slug: the-reason-why-i-recently-shifted-to-thi
 title: The reason why I recently shifted to thi...

@@ -1,7 +1,7 @@
 ---
 author: kartiksinghal
 comments: true
-date: 2011-03-10 09:03:29+00:00
+date: 2011-03-10 09:03:29+05:30
 layout: post
 slug: the-hacker-attitude
 title: The Hacker Attitude

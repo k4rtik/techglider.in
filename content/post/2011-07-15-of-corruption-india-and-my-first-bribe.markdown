@@ -1,7 +1,7 @@
 ---
 author: kartiksinghal
 comments: true
-date: 2011-07-15 12:50:00+00:00
+date: 2011-07-15 12:50:00+05:30
 layout: post
 slug: of-corruption-india-and-my-first-bribe
 title: Of Corruption, India, and My First Bribe

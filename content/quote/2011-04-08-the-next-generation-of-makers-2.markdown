@@ -1,7 +1,7 @@
 ---
 author: kartiksinghal
 comments: true
-date: 2011-04-08 09:49:41+00:00
+date: 2011-04-08 09:49:41+05:30
 layout: post
 slug: the-next-generation-of-makers-2
 title: The Next Generation of Makers

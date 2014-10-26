@@ -1,7 +1,7 @@
 ---
 author: kartiksinghal
 comments: true
-date: 2013-02-26 18:59:54+00:00
+date: 2013-02-26 18:59:54+05:30
 layout: post
 slug: the-programmers-of-tomorrow-are-the-wizards-of
 title: The programmers of tomorrow are the wizards of...

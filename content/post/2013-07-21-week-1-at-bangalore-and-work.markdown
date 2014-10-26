@@ -1,7 +1,7 @@
 ---
 author: kartiksinghal
 comments: true
-date: 2013-07-21 14:53:31+00:00
+date: 2013-07-21 14:53:31+05:30
 layout: post
 slug: week-1-at-bangalore-and-work
 title: Week 1 at Bangalore and Work

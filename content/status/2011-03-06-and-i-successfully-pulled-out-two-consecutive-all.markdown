@@ -1,7 +1,7 @@
 ---
 author: kartiksinghal
 comments: true
-date: 2011-03-06 00:22:25+00:00
+date: 2011-03-06 00:22:25+05:30
 layout: post
 slug: and-i-successfully-pulled-out-two-consecutive-all
 title: And I successfully pulled out two consecutive all...

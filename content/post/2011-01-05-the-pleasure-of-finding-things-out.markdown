@@ -1,7 +1,7 @@
 ---
 author: kartiksinghal
 comments: true
-date: 2011-01-05 20:25:41+00:00
+date: 2011-01-05 20:25:41+05:30
 layout: post
 slug: the-pleasure-of-finding-things-out
 title: The Pleasure of Finding Things Out

@@ -1,7 +1,7 @@
 ---
 author: kartiksinghal
 comments: true
-date: 2011-06-21 17:01:54+00:00
+date: 2011-06-21 17:01:54+05:30
 layout: post
 slug: root-samsung-galaxy-s-i9000-running-gingerbread-ddjv6-using-ubuntu-linux
 title: Root Samsung Galaxy S i9000 running GINGERBREAD.DDJV6 using Ubuntu Linux

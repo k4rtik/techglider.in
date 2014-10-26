@@ -1,7 +1,7 @@
 ---
 author: kartiksinghal
 comments: true
-date: 2011-04-22 13:11:08+00:00
+date: 2011-04-22 13:11:08+05:30
 layout: post
 slug: 7-commandments-of-the-personal-computer-revolution-1
 title: 7 Commandments of the Personal Computer Revolution 1...

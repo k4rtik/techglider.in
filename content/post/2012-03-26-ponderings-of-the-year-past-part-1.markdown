@@ -1,7 +1,7 @@
 ---
 author: kartiksinghal
 comments: true
-date: 2012-03-26 19:59:28+00:00
+date: 2012-03-26 19:59:28+05:30
 layout: post
 slug: ponderings-of-the-year-past-part-1
 title: 'Ponderings of the Year Past: Part 1'

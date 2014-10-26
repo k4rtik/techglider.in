@@ -1,7 +1,7 @@
 ---
 author: kartiksinghal
 comments: true
-date: 2011-05-23 16:42:51+00:00
+date: 2011-05-23 16:42:51+05:30
 layout: post
 slug: choosing-an-android-phone-not-an-easy-job
 title: Choosing an Android Phone - Not an Easy Job

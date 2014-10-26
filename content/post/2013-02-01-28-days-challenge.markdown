@@ -1,7 +1,7 @@
 ---
 author: kartiksinghal
 comments: true
-date: 2013-02-01 16:30:02+00:00
+date: 2013-02-01 16:30:02+05:30
 layout: post
 slug: 28-days-challenge
 title: 28 Days Challenge
