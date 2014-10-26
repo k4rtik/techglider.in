@@ -12,6 +12,6 @@ I am using a static website generator called [Hugo](http://gohugo.io) for buildi
 
 Currently, you will find the migrated posts from my wordpress.com blog here. I used [exitwp](https://github.com/thomasf/exitwp) to convert the posts to markdown, but the tool is focused on Jekyll and the metadata generated doesn't match Hugo's directly (yes, Hugo is yet to add support for migration from wordpress). I have gone through the posts and corrected some markup problems, but some work still remains like fixing broken URLs, migrating images and comments, etc. Apart from that, my old self-hosted wordpress blog on techglider.in (The Techglider Blog) still needs to be migrated from scratch.
 
-Also, I am yet to settle down with the design of the site and will either customize the current theme - liquorice - or probably take bits and pieces from [spf13's website's design](http://spf13.com) and create my own Hugo theme.
+Also, I am yet to settle down with the design of the site and will either customize the current theme - liquorice - or probably take bits & pieces of design from spf13's (creator of Hugo) [website](http://spf13.com) and create my own Hugo theme.
 
 More later.
