@@ -12,6 +12,6 @@ tags:
 - quote
 ---
 
-This is the last lecture I am giving you. From next class on, I will only respond to your questions. This course has plenty of readings. If you don't have questions, it is either because you have not done your reading, or you are too stupid to be in this course.
+> This is the last lecture I am giving you. From next class on, I will only respond to your questions. This course has plenty of readings. If you don't have questions, it is either because you have not done your reading, or you are too stupid to be in this course.
 
-At the beginning of all his PhD courses in Cognitive Psychology at CMU, Herbert Simon used to address his audience this way. Source: http://en.wikiquote.org/wiki/Herbert_Simon
+---At the beginning of all his PhD courses in Cognitive Psychology at CMU, Herbert Simon used to address his audience this way. Source: http://en.wikiquote.org/wiki/Herbert_Simon

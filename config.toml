@@ -1,7 +1,10 @@
 baseurl = "http://techglider.in"
 languageCode = "en-us"
 title = "The TechGlider"
-disqusShortname = "techglider"
+# disqusShortname = "techglider"
 
 [permalinks]
   post = "/:year/:month/:day/:title/"
+
+[params]
+  author = "Kartik Singhal"

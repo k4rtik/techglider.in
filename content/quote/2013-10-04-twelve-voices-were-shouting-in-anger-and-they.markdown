@@ -13,6 +13,6 @@ tags:
 - dystopia
 ---
 
-Twelve voices were shouting in anger, and they were all alike. No question, now, what had happened to the faces of the pigs. The creatures outside looked from pig to man, and from man to pig, and from pig to man again; but already it was impossible to say which was which.
+> Twelve voices were shouting in anger, and they were all alike. No question, now, what had happened to the faces of the pigs. The creatures outside looked from pig to man, and from man to pig, and from pig to man again; but already it was impossible to say which was which.
 
-George Orwell, Animal Farm (Just finished reading this classic novella, couldn't help but marvel at the beauty of these last lines)
+---George Orwell, Animal Farm (Just finished reading this classic novella, couldn't help but marvel at the beauty of these last lines)

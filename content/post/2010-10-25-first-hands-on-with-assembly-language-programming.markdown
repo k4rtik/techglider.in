@@ -47,7 +47,8 @@ Please note, I am using an Ubuntu 10.04 32-bit machine.
   * It gave some crude warnings but an executable named sim was generated.
 
 
-  * Then after trying out some simple commands, I wrote the full fledged program we did in class earlier today. Here's the code: `  
+  * Then after trying out some simple commands, I wrote the full fledged program we did in class earlier today. Here's the code:
+```
 START  
 IN R0  
 MOV R1, 0  
@@ -57,7 +58,8 @@ ADD R1, R3
 DCR R0  
 JMP L1  
 L2: OUT R1  
-HALT`
+HALT
+```
 
 
   * I saved this file as `first.asm`

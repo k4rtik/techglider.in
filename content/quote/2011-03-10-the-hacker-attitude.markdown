@@ -15,29 +15,12 @@ tags:
 - quote
 ---
 
-The Hacker Attitude:
+> The Hacker Attitude:
 
-
-1. The world is full of fascinating problems waiting to be solved.
-
-
-
-
+> 1. The world is full of fascinating problems waiting to be solved.
 2. No problem should ever have to be solved twice.
-
-
-
-
 3. Boredom and drudgery are evil.
-
-
-
-
 4. Freedom is good.
-
-
-
-
 5. Attitude is **no substitute for competence**.
 
-Eric Steven Raymond at [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
+---Eric Steven Raymond at [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)

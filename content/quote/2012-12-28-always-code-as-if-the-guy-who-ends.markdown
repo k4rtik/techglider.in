@@ -18,6 +18,6 @@ tags:
 - quote
 ---
 
-Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. Code for readability.
+> Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. Code for readability.
 
-John F Woods. Source: https://groups.google.com/d/msg/comp.lang.c++/rYCO5yn4lXw/oITtSkZOtoUJ (With special attribution to two juniors who posted this on homepage of CSEA's upcoming website.)
+---John F Woods. Source: https://groups.google.com/d/msg/comp.lang.c++/rYCO5yn4lXw/oITtSkZOtoUJ (With special attribution to two juniors who posted this on homepage of CSEA's upcoming website.)

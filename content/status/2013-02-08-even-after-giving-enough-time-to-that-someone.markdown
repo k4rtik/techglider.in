@@ -18,7 +18,7 @@ tags:
 - Personal
 ---
 
-<blockquote><del>Even after giving enough time to that someone you are pissed off with, you can't always expect to be impressed. [Perhaps Randy was wrong.](http://k4rtik.wordpress.com/2010/12/24/something-that-has-stuck-with-me-after-a/)</del></blockquote>
+> <del>Even after giving enough time to that someone you are pissed off with, you can't always expect to be impressed. [Perhaps Randy was wrong.](http://k4rtik.wordpress.com/2010/12/24/something-that-has-stuck-with-me-after-a/)</del>
 
 
 I held this view for a very long time; but time has taken such a turn in last few months that I am only left wondering what Randy exactly meant by _enough time_.

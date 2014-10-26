@@ -16,6 +16,6 @@ tags:
 - UNIX
 ---
 
-UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity.
+> UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity.
 
-Dennis Ritchie. Source: http://www.linfo.org/q_unix.html See also Ashik's post about his death - http://aashiks.in/blog/?p=270
+---Dennis Ritchie. Source: http://www.linfo.org/q_unix.html See also Ashik's post about his death - http://aashiks.in/blog/?p=270

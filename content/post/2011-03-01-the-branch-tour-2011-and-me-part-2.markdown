@@ -19,10 +19,10 @@ tags:
 This is second and the last part of my earlier post - _The Branch Tour 2011 and me_. Please read my [last post](http://k4rtik.wordpress.com/2011/02/28/the-branch-tour-2011-and-me-part-1/) before reading this.
 
 
-<blockquote>**Disclaimer:** The following post is dedicated to all my branch mates and is a little more on the personal side. Additionally, the post is too long and may not be of any relevance for those who seek to attain any bit of technical nirvana from this blog. So, you may happily TLDR this post.
+> **Disclaimer:** The following post is dedicated to all my branch mates and is a little more on the personal side. Additionally, the post is too long and may not be of any relevance for those who seek to attain any bit of technical nirvana from this blog. So, you may happily TLDR this post.
 
-**Note: **This post was supposed to be published quite a long time back, but stating some hard facts directly felt bad that ago; better late then never. ;-) (actually posted on 2012-01-05)**
-**</blockquote>
+> **Note: **This post was supposed to be published quite a long time back, but stating some hard facts directly felt bad that ago; better late then never. ;-) (actually posted on 2012-01-05)**
+**
 
 
 

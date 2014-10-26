@@ -14,6 +14,6 @@ tags:
 - quote
 ---
 
-I am free, no matter what rules surround me. If I find them tolerable, I tolerate them; if I find them too obnoxious, I break them. I am free because I know that I alone am morally responsible for everything I do.
+> I am free, no matter what rules surround me. If I find them tolerable, I tolerate them; if I find them too obnoxious, I break them. I am free because I know that I alone am morally responsible for everything I do.
 
-Robert A. Heinlein, "The Moon Is a Harsh Mistress", 1966. Source:http://en.wikiquote.org/wiki/The_Moon_Is_a_Harsh_Mistress
+---Robert A. Heinlein, "The Moon Is a Harsh Mistress", 1966. Source: http://en.wikiquote.org/wiki/The_Moon_Is_a_Harsh_Mistress

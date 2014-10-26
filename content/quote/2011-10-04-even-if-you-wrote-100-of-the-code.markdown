@@ -16,6 +16,6 @@ tags:
 - software engineering
 ---
 
-...even if you wrote 100% of the code, and even if you are the best programmer in the world and will never need any help with the project at all, the thing that really matters is the users of the code. The code itself is unimportant; the project is only as useful as people actually find it.
+>...even if you wrote 100% of the code, and even if you are the best programmer in the world and will never need any help with the project at all, the thing that really matters is the users of the code. The code itself is unimportant; the project is only as useful as people actually find it.
 
-Linus Torvalds, on Software Development Management. Source: http://h30565.www3.hp.com/t5/Feature-Articles/Linus-Torvalds-s-Lessons-on-Software-Development-Management/ba-p/440
+---Linus Torvalds, on Software Development Management. Source: http://h30565.www3.hp.com/t5/Feature-Articles/Linus-Torvalds-s-Lessons-on-Software-Development-Management/ba-p/440

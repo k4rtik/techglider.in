@@ -15,8 +15,9 @@ tags:
 ---
 
 Got my laptop screen and palm rest, touch pad replaced :) But all my stickers - Drupal, Hacker Logo, Python, Firefox, Core i7, Windows 7 - and RMS' signature are gone :(
-[caption id="attachment_36" align="alignnone" width="300" caption="Dell Studio XPS Screen"][![dell-studio-xps-screen](http://k4rtik.files.wordpress.com/2010/12/dell-studio-xps-screen.jpg?w=300)](http://k4rtik.files.wordpress.com/2010/12/dell-studio-xps-screen.jpg)[/caption]
 
-[caption id="attachment_37" align="alignnone" width="300" caption="Dell Studio XPS Palm Rest Old"][![dell-studio-xps-palm-rest](http://k4rtik.files.wordpress.com/2010/12/dell-studio-xps-palm-rest.jpg?w=300)](http://k4rtik.files.wordpress.com/2010/12/dell-studio-xps-palm-rest.jpg)[/caption]
+[![dell-studio-xps-screen](http://k4rtik.files.wordpress.com/2010/12/dell-studio-xps-screen.jpg?w=300)](http://k4rtik.files.wordpress.com/2010/12/dell-studio-xps-screen.jpg)
 
-[caption id="attachment_38" align="alignnone" width="300" caption="Dell Studio XPS Palm Rest New"][![dell-studio-xps-palm-rest-new](http://k4rtik.files.wordpress.com/2010/12/dell-studio-xps-palm-rest-new.jpg?w=300)](http://k4rtik.files.wordpress.com/2010/12/dell-studio-xps-palm-rest-new.jpg)[/caption]
+[![dell-studio-xps-palm-rest](http://k4rtik.files.wordpress.com/2010/12/dell-studio-xps-palm-rest.jpg?w=300)](http://k4rtik.files.wordpress.com/2010/12/dell-studio-xps-palm-rest.jpg)
+
+[![dell-studio-xps-palm-rest-new](http://k4rtik.files.wordpress.com/2010/12/dell-studio-xps-palm-rest-new.jpg?w=300)](http://k4rtik.files.wordpress.com/2010/12/dell-studio-xps-palm-rest-new.jpg)

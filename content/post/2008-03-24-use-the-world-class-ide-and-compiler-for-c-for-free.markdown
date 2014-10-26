@@ -19,31 +19,22 @@ I know you have been using around 20 years old _Borland Turbo C++ IDE_ for quiet
 
 
 
-<blockquote>1. Install the specific product from the Visual Studio Express family using Web Install from [Microsoft's website](http://www.microsoft.com/express/download/) (for C++ choose Visual C++ 2008 Express Edition). This will save you both time and bandwidth if you want to work only with a specific product.</blockquote>
+1. Install the specific product from the Visual Studio Express family using Web Install from [Microsoft's website](http://www.microsoft.com/express/download/) (for C++ choose Visual C++ 2008 Express Edition). This will save you both time and bandwidth if you want to work only with a specific product.
 
 
 
 
-<blockquote>2. You can download the full DVD image containing all products from Visual Studio Express family. There is additional benefit of having _Visual Basic _and _Visual C#_ if you know how to code on them. It's a _894.65 MB_ (that's_ 938,108,928 bytes_ exactly) download and took me _18 hours 44 minutes and 22 seconds _to download it using _GetRight_, a download manager. But it is worth the wait and will download in about 8 hours if you have a consistent broadband connection (at least 256 kbps). Please use a download manager such as [_GetRight_](http://www.getright.com) to download big files so that you don't have to face problems of broken downloads due to connection or power failure. Follow the instructions: 
-> 
-> 
+2. You can download the full DVD image containing all products from Visual Studio Express family. There is additional benefit of having _Visual Basic_ and _Visual C#_ if you know how to code on them. It's a _894.65 MB_ (that's _938,108,928 bytes_ exactly) download and took me _18 hours 44 minutes and 22 seconds_ to download it using _GetRight_, a download manager. But it is worth the wait and will download in about 8 hours if you have a consistent broadband connection (at least 256 kbps). Please use a download manager such as [_GetRight_](http://www.getright.com) to download big files so that you don't have to face problems of broken downloads due to connection or power failure. Follow the instructions: 
 
->   1. Download the Visual Studio 2008 Express Edition All-in-One DVD image from [Microsoft's website](http://download.microsoft.com/download/8/B/5/8B5804AD-4990-40D0-A6AA-CE894CBBB3DC/VS2008ExpressENUX1397868.iso).
-> 
+    1. Download the Visual Studio 2008 Express Edition All-in-One DVD image from [Microsoft's website](http://download.microsoft.com/download/8/B/5/8B5804AD-4990-40D0-A6AA-CE894CBBB3DC/VS2008ExpressENUX1397868.iso).
+    2. Read the instructions to install Visual Studio 2008 Express Edition offline from [http://www.microsoft.com/express/download/offline.aspx](http://www.microsoft.com/express/download/offline.aspx)
 
->   2. Read the instructions to install Visual Studio 2008 Express Edition offline from [http://www.microsoft.com/express/download/offline.aspx](http://www.microsoft.com/express/download/offline.aspx)
-> 
-</blockquote>
+3. Buy this month's (April 2008) copy of _Digit : You Technology Navigator_ magazine (MRP: Rs. 125) [http://www.thinkdigit.com](http://www.thinkdigit.com/) and you will get the full Visual Studio Express package on its DVD for free.
 
 
 
 
-<blockquote>3. Buy this month's (April 2008) copy of _Digit : You Technology Navigator_ magazine (MRP: Rs. 125) [http://www.thinkdigit.com](http://www.thinkdigit.com/) and you will get the full Visual Studio Express package on its DVD for free.</blockquote>
-
-
-
-
-There are some other benefits associated with using Visual C++ 2008 Express Edition, such as, if you want to get in to game designing, you can download the [DarkGDK](http://www.microsoft.com/express/samples/GameCreators/) for free from [_The Game Creators_ Website](http://www.thegamecreators.com/) which you can use with your VC++ EE installation to create great games. There are a lot of beginner's tutorials on the net to get you started with game development using DarkGDK. Follow the link to the Game Creators from the Blogroll section on the right to visit their site and explore the wonderful world of game development.__
+There are some other benefits associated with using Visual C++ 2008 Express Edition, such as, if you want to get in to game designing, you can download the [DarkGDK](http://www.microsoft.com/express/samples/GameCreators/) for free from [_The Game Creators_ Website](http://www.thegamecreators.com/) which you can use with your VC++ EE installation to create great games. There are a lot of beginner's tutorials on the net to get you started with game development using DarkGDK. Follow the link to the Game Creators from the Blogroll section on the right to visit their site and explore the wonderful world of game development.
 
 
 

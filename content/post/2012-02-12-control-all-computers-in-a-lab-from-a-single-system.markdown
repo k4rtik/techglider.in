@@ -26,7 +26,7 @@ tags:
 Quoting [Dhandeep](http://dhand33p.wordpress.com/), our super-cool lab-admin:
 
 
-<blockquote>now , all 70 systems in the lab can be switched on and switched off by single commands from the hostel...</blockquote>
+> now , all 70 systems in the lab can be switched on and switched off by single commands from the hostel...
 
 
 Yes, that and a lot more is possible in our [Software Systems Lab](http://athena.nitc.ac.in/ssl/) now. How? Read on...

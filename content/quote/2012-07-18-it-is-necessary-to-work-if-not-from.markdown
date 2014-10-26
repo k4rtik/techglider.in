@@ -15,6 +15,6 @@ tags:
 - quote
 ---
 
-It is necessary to work, if not from inclination, at least from despair. Everything considered, work is less boring than amusing oneself.
+> It is necessary to work, if not from inclination, at least from despair. Everything considered, work is less boring than amusing oneself.
 
-Charles Baudelaire (discovered this in Vinod Pathari Sir's email signature and found it particularly interesting)
+---Charles Baudelaire (discovered this in Vinod Pathari Sir's email signature and found it particularly interesting)

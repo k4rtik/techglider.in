@@ -16,7 +16,7 @@ tags:
 - travel
 ---
 
-<blockquote>**Disclaimer:** The following post is dedicated to all my branch mates and is a little more on the personal side. Additionally, the post is too long and may not be of any relevance for those who seek to attain any bit of technical nirvana from this blog. So, you may happily TLDR this post.</blockquote>
+> **Disclaimer:** The following post is dedicated to all my branch mates and is a little more on the personal side. Additionally, the post is too long and may not be of any relevance for those who seek to attain any bit of technical nirvana from this blog. So, you may happily TLDR this post.
 
 
 Many have asked me why I decided to go for branch tour when almost none of the northies were ready to go. The reasons were many - the most prominent being I wanted to know my branch mates, to connect with them, share some laughs, joys together (the whole first year, the shy, not-into-cultural-activities Kartik in me had tried to stay away (read: not actively participated) from events like Sangam, Spectrum, Debutante which are meant for bringing the whole branch together - for this Rama (happy now?) had always cursed me). The other reason was that even after being here in Calicut for over a year and a half I had not tried to visit any places (Bangalore being an exception - which I visited 2 times last year for non-fun conferences). The northies not going for tour was not much of a problem for me as I thought over and realized I have had more and better Malayali friends compared to northies at least in my branch (yeah, I did try to get them involved too, but one by one everyone except Mamde backed out).

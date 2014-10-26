@@ -18,4 +18,4 @@ Something that has stuck with me after Anjhan's keynote at the last FOSS.IN:
 
 
 
-<blockquote>When you are pissed off at somebody, and you're angry at them, you just haven't given them enough time. Just give them a little more time — and they'll almost always impress you.</blockquote>
+> When you are pissed off at somebody, and you're angry at them, you just haven't given them enough time. Just give them a little more time — and they'll almost always impress you.

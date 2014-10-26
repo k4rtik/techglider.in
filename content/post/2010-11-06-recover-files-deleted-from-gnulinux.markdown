@@ -37,13 +37,13 @@ As a preventive measure I quickly switched off my system, so as not to overwrite
 For compiling extundelete on Ubuntu, the following commands were useful:
 
 
-[sourcecode language="bash"]
+```bash
 sudo apt-get install e2fsprogs e2fslibs e2fslibs-dev g++
 tar xvf extundelete-0.2.0.tar.bz2
 cd extundelete
 ./configure
 make
-[/sourcecode]
+```
 
 
 
@@ -53,9 +53,9 @@ Then I mounted a windows partition just by clicking on it's name in Nautilus fil
 
 
 
-
-  * `sudo ./src/extundelete /dev/sda12 --restore-all`
-
+```
+sudo ./src/extundelete /dev/sda12 --restore-all
+```
 
 
 

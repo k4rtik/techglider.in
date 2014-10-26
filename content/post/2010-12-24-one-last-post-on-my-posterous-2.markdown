@@ -51,7 +51,7 @@ I started out with Posterous [6 months back](http://kartikscribbles.posterous.co
   * It doesn't produce decent (X)HTML automatically for a post sent through mail.
 
 
-  * Same goes for code listings, there is no way that I know to tell posterous what I am posting through email is a part of code and should come between a <code> tag pair. And appending <code> tag pair for each in line command within normal text is a pain if done manually.
+  * Same goes for code listings, there is no way that I know to tell posterous what I am posting through email is a part of code and should come between a `<code>` tag pair. And appending `<code>` tag pair for each in line command within normal text is a pain if done manually.
 
 
   * The web interface and toolbar is also quite basic and features very less functionality.

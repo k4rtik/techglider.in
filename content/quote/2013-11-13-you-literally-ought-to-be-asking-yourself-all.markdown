@@ -15,6 +15,6 @@ tags:
 - Work
 ---
 
-You literally ought to be asking yourself all of the time - what's the most important thing I could be working on in the world right now; and if you are not working on that, why aren't you?
+> You literally ought to be asking yourself all of the time - what's the most important thing I could be working on in the world right now; and if you are not working on that, why aren't you?
 
-Aaron Swartz, as quoted by @TarenSK in the upcoming documentary on Swartz (Source: https://www.youtube.com/watch?v=3izOJ7zX5I0)
+---Aaron Swartz, as quoted by [@TarenSK](https://twitter.com/TarenSK) in the upcoming documentary on Swartz (Source: https://www.youtube.com/watch?v=3izOJ7zX5I0)

@@ -15,6 +15,6 @@ tags:
 - quote
 ---
 
-The programmers of tomorrow are the wizards of the future. You're going to look like you have magic powers compared to everybody else.
+> The programmers of tomorrow are the wizards of the future. You're going to look like you have magic powers compared to everybody else.
 
-Gabe Newell, Founder and President, Valve (Source: https://www.youtube.com/watch?v=dU1xS07N-FA courtesy of code.org)
+---Gabe Newell, Founder and President, Valve (Source: https://www.youtube.com/watch?v=dU1xS07N-FA courtesy of [code.org](https://code.org))

@@ -16,4 +16,4 @@ tags:
 
 Just watched this video whose link I got from [Anjhan's blog](http://www.tuxmaniac.com/blog/2010/12/22/a-hackers-apology-keynote-at-foss-in-2010/), an interview of Richard Feynman. I started out to watch only the first 10 minutes but really couldn't stop myself to watch the whole thing (although I have to attend class at 8 AM). Must watch for the curious thinker, the scientist, the hacker.
 
-[googlevideo=http://video.google.com/videoplay?docid=8777381378502286852]
+<iframe width="420" height="315" src="//www.youtube.com/embed/Bgaw9qe7DEE" frameborder="0" allowfullscreen></iframe>
