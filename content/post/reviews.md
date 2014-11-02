@@ -12,4 +12,4 @@ All the available book reviews can be accessed with the [reviews](/tags/reviews/
 
 ## Related
 - My manual [book tracker](/post/2008/09/08/list-of-books-read-so-far/) before I discovered [Goodreads](https://goodreads.com)
-- [The recent Book Bucket Challenge post on FB](https://www.facebook.com/kartiksinghal/posts/10205018182921422)
+- [The recent Book Bucket Challenge post on FB](https://www.facebook.com/kartiksinghal/posts/10205018182921421)
