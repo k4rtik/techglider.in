@@ -49,7 +49,7 @@ After a lot of searching and reading on the topic. I have decided on the followi
 
 
 	
-  * **swap** - 1.5 to 2 times [size of RAM] (e.g. I have 1.5 GB RAM so my swap is 3GB)
+  * **swap** - 1.5 to 2 times the size of RAM (e.g. I have 1.5 GB RAM so my swap is 3GB)
 
 	
   * **/** - 5 to 10 GB (5 GB is sufficient in most cases, but if you have large harddisk, like me, allocate at least 10 for /)

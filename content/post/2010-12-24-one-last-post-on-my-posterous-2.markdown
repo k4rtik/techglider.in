@@ -62,7 +62,7 @@ I started out with Posterous [6 months back](http://kartikscribbles.posterous.co
 
 
 
-Due to my complicated blogging requirements, now I have shifted to WordPress (my favorite) again, though, this time on [wordpress.com](http://wordpress.com/) instead of my own domain. You can visit the new blog at [http://k4rtik.wordpress.com](http://k4rtik.wordpress.com) and all my previous posts are available there as well.
+Due to my complicated blogging requirements, now I have shifted to WordPress (my favorite) again, though, this time on [wordpress.com](https://wordpress.com/) instead of my own domain. You can visit the new blog at [http://k4rtik.wordpress.com](http://k4rtik.wordpress.com) and all my previous posts are available there as well.
 
 
 

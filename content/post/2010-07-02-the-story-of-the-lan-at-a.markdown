@@ -24,7 +24,7 @@ So, finally, the much awaited (and the answer to the most asked question to me: 
 
 It all started with a challenge I accepted from Aakash to bring the LAN to A Hostel within month of starting of second sem.
 
-[One of my tweets on Jan 5](http://twitter.com/k4rtik/status/7406464108) read:
+[One of my tweets on Jan 5](https://twitter.com/k4rtik/status/7406464108) read:
 
 
 > Bad day! Got a full five minute of scolding for first time in college. :( My state was: head down, shivering legs & rest imagine yourself. :(

@@ -64,7 +64,7 @@ I lost the ownership of the domain techglider.com - partly because of my own car
 
 
 	
-  * As you can see the new theme - _[Audacity of Tanish](http://ahren.org/code/tanish-wp)_ by [Ravi Sarma](http://ahren.org/code/) which is completely different in terms of colors or concept. I liked this alternative design the first time I saw it. I want to mention I have used another theme by the same author - [Ahimsa](http://ahren.org/code/ahimsa) - for quite a lot of time, and I particularly like his themes. If I have to describe his themes in a single word - they are **DIFFERENT** - they stand apart. Thanks [@ahrencode](http://twitter.com/ahrencode) for these wonderful themes.
+  * As you can see the new theme - _[Audacity of Tanish](http://code.ahren.org/tanish-wp)_ by [Ravi Sarma](http://code.ahren.org/) which is completely different in terms of colors or concept. I liked this alternative design the first time I saw it. I want to mention I have used another theme by the same author - [Ahimsa](http://code.ahren.org/ahimsa) - for quite a lot of time, and I particularly like his themes. If I have to describe his themes in a single word - they are **DIFFERENT** - they stand apart. Thanks [@ahrencode](https://twitter.com/ahrencode) for these wonderful themes.
 
 	
   * The name is again being changed back to The TechGlider Blog to keep away from the confusion. So, from now on, TGB is this blog and [Kartik Scribbles...](http://k4rtik.wordpress.com) is my Wordpress.com blog.

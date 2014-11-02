@@ -11,5 +11,5 @@ In the spirit of keeping all my written (and hopefully useful) content here, I d
 All the available book reviews can be accessed with the [reviews](/tags/reviews/) tag.
 
 ## Related
-- My manual [book tracker](/post/2008/09/08/list-of-books-read-so-far/) before I discovered [Goodreads](https://goodreads.com)
+- My manual [book tracker](/post/2008/09/08/list-of-books-read-so-far/) before I discovered [Goodreads](https://www.goodreads.com)
 - [The recent Book Bucket Challenge post on FB](https://www.facebook.com/kartiksinghal/posts/10205018182921421)

@@ -21,7 +21,7 @@ tags:
 - science
 ---
 
-It's been long since I wrote something. To be frank, it was last July in which I actually [spoke out my mind](http://k4rtik.wordpress.com/2011/07/15/of-corruption-india-and-my-first-bribe/). Of course, I wished to write a lot more (who doesn't). This one is going to be long, so I decided to partition it.
+It's been long since I wrote something. To be frank, it was last July in which I actually [spoke out my mind](/post/2011/07/15/of-corruption-india-and-my-first-bribe/). Of course, I wished to write a lot more (who doesn't). This one is going to be long, so I decided to partition it.
 
 The following are few important lessons I learnt over the gone year - 2011:
 

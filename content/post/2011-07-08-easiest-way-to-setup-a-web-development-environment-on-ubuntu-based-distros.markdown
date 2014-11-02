@@ -41,7 +41,7 @@ After the installer finishes, you have the environment ready. Head over to your 
 
 [![It works!](http://k4rtik.files.wordpress.com/2011/06/screenshot-localhost-mozilla-firefox.png)](http://k4rtik.files.wordpress.com/2011/06/screenshot-localhost-mozilla-firefox.png)
 
-Now you can start creating websites by putting your html, php, etc. files under /var/www directory or just choose to go with [CMS](http://en.wikipedia.org/wiki/Content_management_system) solutions like [Drupal](http://www.drupal.org), [Wordpress](http://wordpress.org) or [Joomla](http://www.joomla.org/).
+Now you can start creating websites by putting your html, php, etc. files under /var/www directory or just choose to go with [CMS](http://en.wikipedia.org/wiki/Content_management_system) solutions like [Drupal](http://www.drupal.org), [Wordpress](https://wordpress.org) or [Joomla](http://www.joomla.org/).
 
 The author also recommends to install _phpmyadmin_ package if you happen to work with MySQL databases.
 

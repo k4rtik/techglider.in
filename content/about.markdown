@@ -20,7 +20,7 @@ The views expressed on this blog are my personal views and do not represent thos
 
 Find me online at:
 
-  * ![](http://www.google.com/profiles/c/favicons?domain=twitter.com)[ Twitter](http://twitter.com/k4rtik)
+  * ![](http://www.google.com/profiles/c/favicons?domain=twitter.com)[ Twitter](https://twitter.com/k4rtik)
 
   * ![](http://www.google.com/profiles/c/favicons?domain=github.com)[ Code Repositories](https://github.com/k4rtik)
 

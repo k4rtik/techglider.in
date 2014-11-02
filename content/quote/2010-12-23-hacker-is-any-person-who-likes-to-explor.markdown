@@ -14,4 +14,4 @@ tags:
 
 > Any person who likes to explore details of a system and extend their functionality as opposed to most people who prefer to learn the bare minimum.
 
----Aanjhan Ranganathan (@[tuxmaniac](http://twitter.com/tuxmaniac)) Source: http://www.tuxmaniac.com/work/presentations/keynote.pdf
+---Aanjhan Ranganathan (@[tuxmaniac](https://twitter.com/tuxmaniac)) Source: http://www.tuxmaniac.com/work/presentations/keynote.pdf
