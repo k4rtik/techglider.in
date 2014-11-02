@@ -30,7 +30,7 @@ tags:
 - wordpress
 ---
 
-It's been so long - missing the TechGlider - my dream, my hard work of over 2 years was gone. [Started in July 2008](/post/2008/07/finally-a-website-of-my-own/), gone in July 2010. :(
+It's been so long - missing the TechGlider - my dream, my hard work of over 2 years was gone. [Started in July 2008](/post/2008/07/31/finally-a-website-of-my-own/), gone in July 2010. :(
 
 
 ## The reason of this long absence:

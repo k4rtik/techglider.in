@@ -26,4 +26,4 @@ More personalized, more sensible, more fun, more readable. This change will give
 
 -Kartik
 
-**EDIT (2011-03-13):** The name has been reverted back to The TechGlider Blog, see [this post](/post/2011/03/and-we-are-back/) to know why. And for no particular reason, I have removed Google Friend Connect support too (at least for now).
+**EDIT (2011-03-13):** The name has been reverted back to The TechGlider Blog, see [this post](/post/2011/03/13/and-we-are-back/) to know why. And for no particular reason, I have removed Google Friend Connect support too (at least for now).

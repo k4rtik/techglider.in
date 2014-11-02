@@ -34,6 +34,6 @@ My only question is: Why am I having this much trouble with Airtel - which claim
 
 **PS:** Please post a comment to tell your opinion about Airtel or to suggest me a new service provider or just to tell whether I have been good or bad at writing this post or just for the sake of posting a comment. ;)
 
-**PS 2:** As you may have noticed, after my [last post](/post/2010/03/missing-writing-on-the-blog/), my website is back to normal in the campus network and I can write more often. So, a lot more posts will be coming on Kartik Scribbles...
+**PS 2:** As you may have noticed, after my [last post](/post/2010/03/27/missing-writing-on-the-blog/), my website is back to normal in the campus network and I can write more often. So, a lot more posts will be coming on Kartik Scribbles...
 
 **PS 3:** You may be wondering why am I so interested in writing when my end sem exams are around (starting from April 16), the reason is: yours truly believes he is at his creative best before and during the exams. :)

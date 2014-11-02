@@ -22,9 +22,9 @@ tags:
 - yamuna
 ---
 
-I mentioned about this day in my [post of August 1](http://www.techglider.in/blog/2008/08/01/all-about-techglider/).
+I mentioned about this day in my [post of August 1](/post/2008/08/01/all-about-techglider/).
 
-I started the day at night by wishing a  friend birthday, eventually making her wakeup at midnight. Then, came the inauguration of my website with [my first post on The TechGlider Blog](http://www.techglider.in/blog/2008/07/31/finally-a-website-of-my-own/) at 6 in the morning.
+I started the day at night by wishing a  friend birthday, eventually making her wakeup at midnight. Then, came the inauguration of my website with [my first post on The TechGlider Blog](/post/2008/07/31/finally-a-website-of-my-own/) at 6 in the morning.
 This was the easy part of the day.
 
 I reached the Ghaziabad Railway Station at 7:50 to board the train to Tilak Bridge at Delhi, for I use to go to South Delhi to attend FIITJEE classes for IIT-JEE preparation. My friends Agam, Manoj and Adhikaar were supposed to join me there at the station before the train to Tilak Bridge arrived. But due to that terrible crowd at the platform I couldn't find them and so boarded the train alone. In hope of getting a seat (an empty seat, that was visible through the window to the door's left), I climbed into the compartment as quickly as possible and to my great disappointment :-(, became aware of the steel wall that was dividing that compartment into 2 parts: one with those empty seats and another with me and no empty seats and a big crowd of people. :no:

@@ -18,7 +18,7 @@ Inspired long back by Oliver Emberton's herculian [30 Day Challenger](http://oli
 
 The motivation for doing this are similar - stretching myself to give up on a bad habit, get the most out of my day, or being more productive in general.
 
-Given that I have a lot to say, things that keep on forming virtual blog posts in my mind - some of which are technical, some about my [dream college](http://techglider.in/kartik/blog/2009/11/going-home-after-135-days/), some advice for juniors, some worldly pondering, some internal struggles - I have decided on my first challenge:
+Given that I have a lot to say, things that keep on forming virtual blog posts in my mind - some of which are technical, some about my [dream college](/post/2009/11/29/going-home-after-135-days/), some advice for juniors, some worldly pondering, some internal struggles - I have decided on my first challenge:
 
 
 ## Publish Something Useful Everyday for Next 28 Days
