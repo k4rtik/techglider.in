@@ -1,7 +1,7 @@
 +++
 date = "2013-07-08T12:28:28+05:30"
 tags = ["books", "reviews", "inspiration"]
-title = "An Autobiography or The Story of my Experiments with Truth - A Review"
+title = "Review of An Autobiography or The Story of my Experiments with Truth"
 
 +++
 
