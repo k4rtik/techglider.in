@@ -10,6 +10,7 @@ categories:
 - post
 tags:
 - books
+- graphic novels
 - curiosity
 - inspiration
 - NIT Calicut
