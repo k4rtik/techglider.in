@@ -137,6 +137,6 @@ I will no longer maintain this page, as I have found a much better way to keep t
 **Reason:** _Updated about my new books page on Goodreads.com._
 
 
---
-Kartik - The TechGlider Guy
+--  
+Kartik - The TechGlider Guy  
 [http://www.techglider.in](http://www.techglider.in/)
