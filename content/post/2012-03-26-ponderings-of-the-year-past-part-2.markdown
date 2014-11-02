@@ -12,7 +12,6 @@ tags:
 - change
 - curiosity
 - facebook
-- Friend
 - friends
 - Friendship
 - NIT Calicut
