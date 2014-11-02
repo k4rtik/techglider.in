@@ -12,7 +12,7 @@ categories:
 - News
 tags:
 - A Hostel
-- book
+- books
 - busy
 - hostel life
 - NIT Calicut

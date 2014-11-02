@@ -11,6 +11,7 @@ categories:
 tags:
 - books
 - change
+- reviews
 - Freedom
 - quote
 ---
