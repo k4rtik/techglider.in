@@ -11,6 +11,7 @@ categories:
 tags:
 - books
 - graphic novels
+- reviews
 - curiosity
 - inspiration
 - NIT Calicut
