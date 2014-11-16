@@ -1,9 +1,11 @@
-+++
-date = "2012-06-22T14:34:57+05:30"
-tags = ["books", "reviews", "inspiration"]
-title = "Steve Jobs by Walter Isaacson - A Review"
-
-+++
+---
+date: 2012-06-22T14:34:57+05:30
+tags:
+- books
+- reviews
+- inspiration
+title: Steve Jobs by Walter Isaacson - A Review
+---
 i[![Steve Jobs](https://d.gr-assets.com/books/1327861368m/11084145.jpg)](https://www.goodreads.com/book/show/11084145-steve-jobs)[Steve Jobs](https://www.goodreads.com/book/show/11084145-steve-jobs) by [Walter Isaacson](https://www.goodreads.com/author/show/7111.Walter_Isaacson)
 
 My rating: [5 of 5 stars](https://www.goodreads.com/review/show/266974042)

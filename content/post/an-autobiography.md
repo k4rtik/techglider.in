@@ -1,9 +1,11 @@
-+++
-date = "2013-07-08T12:28:28+05:30"
-tags = ["books", "reviews", "inspiration"]
-title = "Review of An Autobiography or The Story of my Experiments with Truth"
-
-+++
+---
+date: 2013-07-08T12:28:28+05:30
+tags:
+- books
+- reviews
+- inspiration
+title: Review of An Autobiography or The Story of my Experiments with Truth
+---
 
 [![An Autobiography or The Story of my Experiments with Truth](https://d.gr-assets.com/books/1368982401m/17935074.jpg)](https://www.goodreads.com/book/show/17935074-an-autobiography-or-the-story-of-my-experiments-with-truth)[An Autobiography or The Story of my Experiments with Truth](https://www.goodreads.com/book/show/17935074-an-autobiography-or-the-story-of-my-experiments-with-truth) by [Mahatma Gandhi](https://www.goodreads.com/author/show/5810891.Mahatma_Gandhi)
 

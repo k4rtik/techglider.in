@@ -1,9 +1,10 @@
-+++
-date = "2014-10-26T21:38:12+05:30"
-tags = ["books", "reviews"]
-title = "Review of Business Doctors: Management Consulting Gone Wild"
-
-+++
+---
+date: 2014-10-26T21:38:12+05:30
+tags:
+- books
+- reviews
+title: 'Review of Business Doctors: Management Consulting Gone Wild'
+---
 [![Business Doctors: Management Consulting Gone Wild](https://d.gr-assets.com/books/1395587251m/21532628.jpg)](https://www.goodreads.com/book/show/21532628-business-doctors)[Business Doctors: Management Consulting Gone Wild](https://www.goodreads.com/book/show/21532628-business-doctors) by [Sameer Kamat](https://www.goodreads.com/author/show/5894826.Sameer_Kamat)
 
 My rating: [3 of 5 stars](https://www.goodreads.com/review/show/1029933223)

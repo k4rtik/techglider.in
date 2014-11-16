@@ -1,9 +1,11 @@
-+++
-date = "2013-04-16T09:15:26+05:30"
-tags = ["books", "reviews", "inspiration"]
-title = "Turning Points by APJ Abdul Kalam - A Review"
-
-+++
+---
+date: 2013-04-16T09:15:26+05:30
+tags:
+- books
+- reviews
+- inspiration
+title: Turning Points by APJ Abdul Kalam - A Review
+---
 [![Turning Points: A Journey Through Challenges](https://d.gr-assets.com/books/1342436692m/15735106.jpg)](https://www.goodreads.com/book/show/15735106-turning-points)[Turning Points: A Journey Through Challenges](https://www.goodreads.com/book/show/15735106-turning-points) by [A.P.J. Abdul Kalam](https://www.goodreads.com/author/show/986042.A_P_J_Abdul_Kalam)
 
 My rating: [4 of 5 stars](https://www.goodreads.com/review/show/577445550)

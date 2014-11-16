@@ -2,6 +2,7 @@ baseurl = "http://techglider.in"
 languageCode = "en-us"
 title = "The TechGlider"
 # disqusShortname = "techglider"
+MetaDataFormat = "yaml"
 
 [permalinks]
   post = "/post/:year/:month/:day/:slug/"

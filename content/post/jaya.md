@@ -1,9 +1,10 @@
-+++
-date = "2014-01-30T12:47:52+05:30"
-tags = ["books", "reviews"]
-title = "Review of Jaya: An Illustrated Retelling of the Mahabharata"
-
-+++
+---
+date: 2014-01-30T12:47:52+05:30
+tags:
+- books
+- reviews
+title: 'Review of Jaya: An Illustrated Retelling of the Mahabharata'
+---
 [![Jaya: An Illustrated Retelling of the Mahabharata](https://d.gr-assets.com/books/1394841808m/19199728.jpg)](https://www.goodreads.com/book/show/19199728-jaya)[Jaya: An Illustrated Retelling of the Mahabharata](https://www.goodreads.com/book/show/19199728-jaya) by [Devdutt Pattanaik](https://www.goodreads.com/author/show/200940.Devdutt_Pattanaik)
 
 My rating: [5 of 5 stars](https://www.goodreads.com/review/show/821068094)

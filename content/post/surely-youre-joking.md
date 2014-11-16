@@ -1,9 +1,11 @@
-+++
-date = "2013-05-30T09:44:31+05:30"
-tags = ["books", "reviews", "inspiration"]
-title = "Review of Surely You're Joking, Mr. Feynman!"
-
-+++
+---
+date: 2013-05-30T09:44:31+05:30
+tags:
+- books
+- reviews
+- inspiration
+title: Review of Surely You're Joking, Mr. Feynman!
+---
 [![Surely You're Joking, Mr. Feynman!](https://d.gr-assets.com/books/1328550349m/17364.jpg)](https://www.goodreads.com/book/show/17364.Surely_You_re_Joking_Mr_Feynman_)[Surely You're Joking, Mr. Feynman!](https://www.goodreads.com/book/show/17364.Surely_You_re_Joking_Mr_Feynman_) by [Richard P. Feynman](https://www.goodreads.com/author/show/1429989.Richard_P_Feynman)
 
 My rating: [5 of 5 stars](https://www.goodreads.com/review/show/220270958)

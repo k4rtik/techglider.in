@@ -1,9 +1,10 @@
-+++
-date = "2014-03-01T12:54:42+05:30"
-tags = ["books", "reviews"]
-title = "Review of The Immortals Of Meluha"
-
-+++
+---
+date: 2014-03-01T12:54:42+05:30
+tags:
+- books
+- reviews
+title: Review of The Immortals Of Meluha
+---
 [![The Immortals Of Meluha](https://d.gr-assets.com/books/1334659249m/12037785.jpg)](https://www.goodreads.com/book/show/12037785-the-immortals-of-meluha)[The Immortals Of Meluha](https://www.goodreads.com/book/show/12037785-the-immortals-of-meluha) by [Amish Tripathi](https://www.goodreads.com/author/show/4343092.Amish_Tripathi)
 
 My rating: [4 of 5 stars](https://www.goodreads.com/review/show/662449865)

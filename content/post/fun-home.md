@@ -1,9 +1,11 @@
-+++
-date = "2014-01-11T12:38:12+05:30"
-tags = ["books", "reviews", "graphic novels"]
-title = "Review of Fun Home: A Family Tragicomic"
-
-+++
+---
+date: 2014-01-11T12:38:12+05:30
+tags:
+- books
+- reviews
+- graphic novels
+title: 'Review of Fun Home: A Family Tragicomic'
+---
 [![Fun Home: A Family Tragicomic](https://d.gr-assets.com/books/1327652831m/38990.jpg)](https://www.goodreads.com/book/show/38990.Fun_Home)[Fun Home: A Family Tragicomic](https://www.goodreads.com/book/show/38990.Fun_Home) by [Alison Bechdel](https://www.goodreads.com/author/show/21982.Alison_Bechdel)
 
 My rating: [5 of 5 stars](https://www.goodreads.com/review/show/803740833)

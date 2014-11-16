@@ -1,9 +1,11 @@
-+++
-date = "2014-11-09T19:20:13+05:30"
-tags = ["reviews", "books", "graphic novels"]
-title = "Habibi by Craig Thompson - A Review"
-
-+++
+---
+date: 2014-11-09T19:20:13+05:30
+tags:
+- reviews
+- books
+- graphic novels
+title: Habibi by Craig Thompson - A Review
+---
 [![Habibi](https://d.gr-assets.com/books/1328544897m/12214502.jpg)](https://www.goodreads.com/book/show/12214502-habibi)[Habibi](https://www.goodreads.com/book/show/12214502-habibi) by [Craig Thompson](https://www.goodreads.com/author/show/14151.Craig_Thompson)
 
 My rating: [5 of 5 stars](https://www.goodreads.com/review/show/1100679238)

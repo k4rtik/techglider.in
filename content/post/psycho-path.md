@@ -1,9 +1,11 @@
-+++
-date = "2014-10-23T14:38:38+05:30"
-tags = ["books", "reviews", "friends"]
-title = "Review of A 'Psycho' Path"
-
-+++
+---
+date: 2014-10-23T14:38:38+05:30
+tags:
+- books
+- reviews
+- friends
+title: Review of A 'Psycho' Path
+---
 [![A 'Psycho' Path](https://d.gr-assets.com/books/1370237444m/18007652.jpg)](https://www.goodreads.com/book/show/18007652-a-psycho-path)[A 'Psycho' Path](https://www.goodreads.com/book/show/18007652-a-psycho-path) by [Haris Ibrahim K. V.](https://www.goodreads.com/author/show/7115180.Haris_Ibrahim_K_V_)
 
 My rating: [3 of 5 stars](https://www.goodreads.com/review/show/914619303)

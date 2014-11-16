@@ -1,9 +1,10 @@
-+++
-date = "2014-03-24T13:05:57+05:30"
-tags = ["books", "reviews"]
-title = "Review of The Elements of Style"
-
-+++
+---
+date: 2014-03-24T13:05:57+05:30
+tags:
+- books
+- reviews
+title: Review of The Elements of Style
+---
 [![The Elements of Style (Original Edition)](https://d.gr-assets.com/books/1329639702m/6096776.jpg)](https://www.goodreads.com/book/show/6096776-the-elements-of-style)[The Elements of Style (Original Edition)](https://www.goodreads.com/book/show/6096776-the-elements-of-style) by [William Strunk Jr.](https://www.goodreads.com/author/show/6437238.William_Strunk_Jr_)
 
 My rating: [3 of 5 stars](https://www.goodreads.com/review/show/295816816)

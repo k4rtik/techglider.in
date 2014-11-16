@@ -1,9 +1,14 @@
-+++
-date = "2014-10-26T15:04:13+05:30"
-tags = ["init", "writing", "techglider", "wordpress", "hugo", "website"]
-title = "reinit"
-
-+++
+---
+date: 2014-10-26T15:04:13+05:30
+tags:
+- init
+- writing
+- techglider
+- wordpress
+- hugo
+- website
+title: reinit
+---
 Today I am relaunching my website - http://techglider.in - in a new avatar. This, in the form of techglider.com, used to be my first website on the Internet until the .com domain was stolen by a domain shark. Sometime later, I [switched](/post/2010/12/24/one-last-post-on-my-posterous-2/) to writing on [wordpress.com](http://k4rtik.wordpress.com) and stopped maintaining this site.
 
 A constant feeling of not having an _official_ web home and a permanent place to put my thoughts out for the world has been nagging me for months, this reinit is the first step in solving this problem.

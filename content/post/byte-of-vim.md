@@ -1,9 +1,10 @@
-+++
-date = "2014-04-13T13:10:21+05:30"
-tags = ["books", "reviews"]
-title = "Review of A Byte of Vim"
-
-+++
+---
+date: 2014-04-13T13:10:21+05:30
+tags:
+- books
+- reviews
+title: Review of A Byte of Vim
+---
 [![A Byte of Vim](https://d.gr-assets.com/books/1321536329m/12721576.jpg)](https://www.goodreads.com/book/show/12721576-a-byte-of-vim)[A Byte of Vim](https://www.goodreads.com/book/show/12721576-a-byte-of-vim) by [Swaroop C.H.](https://www.goodreads.com/author/show/3041247.Swaroop_C_H_)
 
 My rating: [4 of 5 stars](https://www.goodreads.com/review/show/601681823)
