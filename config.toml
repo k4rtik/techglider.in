@@ -11,6 +11,7 @@ MetaDataFormat = "yaml"
 [params]
   author = "Kartik Singhal"
   copyright = "Copyright © 2008-2014 Kartik Singhal."
+  gaCode = "UA-57213074-1"
 
 [[menu.main]]
     name = "Posts"
