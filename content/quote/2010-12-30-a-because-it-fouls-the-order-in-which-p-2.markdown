@@ -2,7 +2,6 @@
 author: kartiksinghal
 comments: true
 date: 2010-12-30 16:24:56+05:30
-layout: post
 slug: a-because-it-fouls-the-order-in-which-p-2
 title: 'A: Because it fouls the order in which p...'
 wordpress_id: 63

@@ -2,7 +2,6 @@
 author: kartiksinghal
 comments: true
 date: 2013-10-17 10:01:53+05:30
-layout: post
 slug: your-work-is-going-to-fill-a-large
 title: Your work is going to fill a large...
 wordpress_id: 611

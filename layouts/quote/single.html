@@ -1,0 +1,61 @@
+{{ partial "head.html" . }}
+{{ partial "header.html" . }}
+
+    <div class="container">
+        <div class="row">
+            <div class="sixteen columns">
+                <article class="li-article">
+                    <header class="li-article-header">
+                        <h1 class="li-article-title">{{ .Title }}</h1>
+                        <time class="li-article-date">{{ .Date.Format "Monday, January 2, 2006" }}</time>
+                    </header>
+		    <style type="text/css">
+			    blockquote {
+				    padding: 0.25em 2em;
+				    position: relative;
+				    background-color: lightyellow;
+			    }
+			    blockquote:before {
+				    font-family: Georgia, serif;
+				    display: block;
+				    content: "\201C";
+				    font-size: 80px;
+				    position: absolute;
+				    left: -10px;
+				    top: -10px;
+				    color: #7a7a7a;
+			    }
+		    </style>
+                    <section>
+                        {{ .Content }}
+                    </section>
+                </article>
+            </div>
+        </div>
+
+        <div class="row li-pagination">
+            <div class="eight columns">
+                <div class="li-pagination-previous">
+                    {{with .Prev}}
+                        Later article<br />
+                        <a href="{{.Permalink}}"> {{.Title}}</a>
+                    {{else}}
+                        &nbsp;
+                    {{end}}
+                </div>
+            </div>
+            <div class="eight columns">
+                <div class="li-pagination-next">
+                    {{with .Next}}
+                        Older article<br />
+                        <a href="{{.Permalink}}"> {{.Title}}</a>
+                    {{else}}
+                        &nbsp;
+                    {{end}}
+                </div>
+            </div>
+        </div>
+    </div>
+
+{{ partial "footer.html" . }}
+{{ partial "tail.html" . }}

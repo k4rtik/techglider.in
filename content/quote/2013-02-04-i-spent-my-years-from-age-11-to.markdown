@@ -2,7 +2,6 @@
 author: kartiksinghal
 comments: true
 date: 2013-02-04 18:38:01+05:30
-layout: post
 slug: i-spent-my-years-from-age-11-to
 title: I spent my years from age 11 to...
 wordpress_id: 530

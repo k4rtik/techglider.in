@@ -2,7 +2,6 @@
 author: kartiksinghal
 comments: true
 date: 2010-12-23 18:21:00+05:30
-layout: post
 slug: hacker-any-person-who-likes-to-explor
 title: Hacker
 wordpress_id: 42

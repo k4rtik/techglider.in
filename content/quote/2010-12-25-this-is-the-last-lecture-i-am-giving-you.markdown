@@ -2,7 +2,6 @@
 author: kartiksinghal
 comments: true
 date: 2010-12-25 11:09:35+05:30
-layout: post
 slug: this-is-the-last-lecture-i-am-giving-you
 title: This is the last lecture I am giving you...
 wordpress_id: 50

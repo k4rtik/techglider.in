@@ -2,7 +2,6 @@
 author: kartiksinghal
 comments: true
 date: 2013-05-14 00:32:04+05:30
-layout: post
 slug: nothing-in-the-world-can-take-the-place
 title: Nothing in the world can take the place...
 wordpress_id: 596

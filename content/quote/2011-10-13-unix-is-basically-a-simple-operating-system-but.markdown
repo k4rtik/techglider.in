@@ -2,7 +2,6 @@
 author: kartiksinghal
 comments: true
 date: 2011-10-13 08:36:16+05:30
-layout: post
 slug: unix-is-basically-a-simple-operating-system-but
 title: UNIX is basically a simple operating system but...
 wordpress_id: 361

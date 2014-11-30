@@ -2,7 +2,6 @@
 author: kartiksinghal
 comments: true
 date: 2013-10-04 12:25:55+05:30
-layout: post
 slug: twelve-voices-were-shouting-in-anger-and-they
 title: Twelve voices were shouting in anger and they...
 wordpress_id: 610

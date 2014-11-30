@@ -2,7 +2,6 @@
 author: kartiksinghal
 comments: true
 date: 2013-11-13 15:48:09+05:30
-layout: post
 slug: you-literally-ought-to-be-asking-yourself-all
 title: You literally ought to be asking yourself all...
 wordpress_id: 612
