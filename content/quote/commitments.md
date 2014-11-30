@@ -1,5 +1,5 @@
 ---
-date: 2014-11-30T32:14:31+05:30
+date: 2014-11-30T12:37:31+05:30
 categories:
 - quote
 tags:
@@ -75,4 +75,4 @@ Read as 'commitment' and then a 'counter-commitment' for each point.
 
 --- Conscious Leadership Forum, http://www.breakoutofthebox.com/15-Commitments-of-Conscious-Leaders.pdf (slightly edited)
 
-Learnt about this from the first lecture of Sam Altman's Startup Class, made me think about my behavior in last couple of months at work and elsewhere. Reproducing here for ease of access and since this was the original form in which I read this. A new version is available as [The 15 Commitments](http://www.conscious.is/public/downloads/CLG_DownloadPacket.pdf) at [conscious.is resources](http://www.conscious.is/resources) section.
+Learnt about this from the first lecture of Sam Altman's Startup Class, made me think about my behavior in last couple of months at work and elsewhere. Reproducing here for ease of access and since this was the original form in which I read it. A new version is available as [The 15 Commitments](http://www.conscious.is/public/downloads/CLG_DownloadPacket.pdf) at [conscious.is resources](http://www.conscious.is/resources) section.
