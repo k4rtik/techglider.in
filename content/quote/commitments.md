@@ -73,6 +73,6 @@ Read as 'commitment' and then a 'counter-commitment' for each point.
 > 
 >     I commit to **believing my stories** and the meaning I give them as the truth.
 
---- Conscious Leadership Forum, http://www.breakoutofthebox.com/15-Commitments-of-Conscious-Leaders.pdf (slightly edited)
+--- Conscious Leadership Forum, http://www.conscious.is/wp-content/uploads/2011/05/15-Commitments-of-Conscious-Leaders.final_1.pdf (404, taken from Google's cache, slightly edited)
 
 Learnt about this from the first lecture of Sam Altman's Startup Class, made me think about my behavior in last couple of months at work and elsewhere. Reproducing here for ease of access and since this was the original form in which I read it. A new version is available as [The 15 Commitments](http://www.conscious.is/public/downloads/CLG_DownloadPacket.pdf) at [conscious.is resources](http://www.conscious.is/resources) section.
