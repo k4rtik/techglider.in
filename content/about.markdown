@@ -36,7 +36,7 @@ Find me online at:
 
   * ![](http://www.google.com/profiles/c/favicons?domain=picasaweb.google.com)[ Picasa Web Albums](http://picasaweb.google.com/kartiksinghal)
 
-  * ![](http://www.google.com/profiles/c/favicons?domain=flickr.com)[ Flickr Photostream](http://www.flickr.com/photos/techglider)
+  * ![](https://c2.staticflickr.com/4/3027/2977317669_db9874e4c1.jpg)[ Flickr Photostream](http://www.flickr.com/photos/techglider)
 
   * ![](http://www.google.com/profiles/c/favicons?domain=goodreads.com)[ Goodreads](http://www.goodreads.com/user/show/6520743-kartik-singhal)
 
