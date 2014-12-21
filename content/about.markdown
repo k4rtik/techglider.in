@@ -1,7 +1,7 @@
 ---
 comments: false
 date: 2010-12-16 21:12:00+05:30
-layout: page
+type: page
 slug: about
 title: About
 ---
@@ -12,7 +12,7 @@ I am Kartik.
 
 My interests include Operating Systems (especially Linux), Systems Programming, Web Development, and everything tech.
 
-I am currently working at Oracle India Development Center, Bangalore as Member Technical Staff. I did my BTech in Computer Science & Engineering at National Institute of Technology Calicut.
+I am currently working at Oracle India Development Center, Bangalore as Member Technical Staff. I did my BTech in [Computer Science & Engineering at National Institute of Technology Calicut](http://cse.nitc.ac.in).
 
 The views expressed on this blog are my personal views and do not represent those of my employer.
 

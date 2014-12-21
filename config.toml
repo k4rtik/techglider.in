@@ -7,6 +7,7 @@ MetaDataFormat = "yaml"
 [permalinks]
   post = "/post/:year/:month/:day/:slug/"
   status = "/status/:year/:month/:day/:slug/"
+  quote = "/quote/:year/:month/:day/:slug/"
 
 [params]
   author = "Kartik Singhal"
