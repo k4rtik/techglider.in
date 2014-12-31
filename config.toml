@@ -1,7 +1,6 @@
 baseurl = "http://techglider.in"
 languageCode = "en-us"
 title = "The TechGlider"
-# disqusShortname = "techglider"
 MetaDataFormat = "yaml"
 
 [permalinks]
@@ -13,6 +12,7 @@ MetaDataFormat = "yaml"
   author = "Kartik Singhal"
   copyright = "Copyright © 2008-2014 Kartik Singhal."
   gaCode = "UA-57213074-1"
+  disqusShortname = "techglider"
 
 [[menu.main]]
     name = "Posts"
