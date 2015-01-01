@@ -1,6 +1,6 @@
 ---
 comments: false
-date: 2010-12-16 21:12:00+05:30
+date: 2008-01-01 00:00:00+05:30
 type: page
 slug: about
 title: About
