@@ -3,7 +3,7 @@ author: kartiksinghal
 comments: true
 date: 2010-12-24 21:07:00+05:30
 layout: post
-slug: one-last-post-on-my-posterous-2
+slug: one-last-post-on-my-posterous
 title: One last post on my Posterous
 wordpress_id: 112
 categories:
