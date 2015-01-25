@@ -2,7 +2,6 @@ baseurl = "http://techglider.in"
 languageCode = "en-us"
 title = "The TechGlider"
 MetaDataFormat = "yaml"
-StaticRelativePath = "bachcha"
 
 [permalinks]
   post = "/post/:year/:month/:day/:slug/"

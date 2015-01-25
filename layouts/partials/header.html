@@ -49,21 +49,21 @@ input.gsc-search-button-v2 {
                         {{ range .Site.Menus.main }}
                             <li><a href="{{.Url}}"> {{ .Name }} </a></li>
                         {{end}}
-                    <li>
-                      <script>
-                        (function() {
-                          var cx = 'partner-pub-4463712641758053:o1e85jn1rm4';
-                          var gcse = document.createElement('script');
-                          gcse.type = 'text/javascript';
-                          gcse.async = true;
-                          gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-                              '//www.google.com/cse/cse.js?cx=' + cx;
-                          var s = document.getElementsByTagName('script')[0];
-                          s.parentNode.insertBefore(gcse, s);
-                        })();
-                      </script>
-                      <gcse:search></gcse:search>
-                    </li>
+                        <li>
+                          <script>
+                            (function() {
+                              var cx = 'partner-pub-4463712641758053:o1e85jn1rm4';
+                              var gcse = document.createElement('script');
+                              gcse.type = 'text/javascript';
+                              gcse.async = true;
+                              gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                                  '//www.google.com/cse/cse.js?cx=' + cx;
+                              var s = document.getElementsByTagName('script')[0];
+                              s.parentNode.insertBefore(gcse, s);
+                            })();
+                          </script>
+                          <gcse:search></gcse:search>
+                        </li>
                     </ul>
                 </div>
             </div>
@@ -74,6 +74,9 @@ input.gsc-search-button-v2 {
                     {{ range .Site.Menus.main }}
                         <li><a href="{{.Url}}"> {{ .Name }} </a></li>
                     {{end}}
+                    <li>
+                    <gcse:search></gcse:search>
+                    </li>
                 </ul>
             </div>
         </div>
