@@ -1,0 +1,81 @@
+<style type="text/css">
+/* Google Custom Search box */
+
+input.gsc-input,
+.gsc-input-box,
+.gsc-input-box-hover,
+.gsc-input-box-focus,
+.gsc-search-button {
+  box-sizing: content-box;
+  line-height: normal;
+}
+
+.gs-title {
+  line-height: normal;
+}
+
+table.gsc-table-result {
+  border-collapse: separate;
+}
+
+.gsc-input-box input {
+  color: #000;
+}
+
+.gsc-control-cse {
+  padding: 0.1em 0 0.5em 1em !important;
+  width: 14em !important;
+  float: right;
+  line-height: normal;
+}
+
+input.gsc-search-button-v2 {
+  padding: 6px 12px !important;
+}
+
+.gsc-search-box-tools .gsc-search-box .gsc-input {
+  padding-right: 1px !important;
+}
+</style>
+<header class="li-page-header">
+    <div class="container">
+        <div class="row">
+            <div class="sixteen columns">
+                <div class="li-brand li-left">
+                <a href="{{ .Site.BaseUrl }}">{{ .Site.Title }}</a></div>
+                <div class="li-menu li-right">
+                    <span class="li-menu-icon" onclick="javascript:toggle('menu');">&#9776;</span>
+                    <ul id="menu2" class="li-menu-items">
+                        {{ range .Site.Menus.main }}
+                            <li><a href="{{.Url}}"> {{ .Name }} </a></li>
+                        {{end}}
+                    <li>
+                      <script>
+                        (function() {
+                          var cx = 'partner-pub-4463712641758053:o1e85jn1rm4';
+                          var gcse = document.createElement('script');
+                          gcse.type = 'text/javascript';
+                          gcse.async = true;
+                          gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                              '//www.google.com/cse/cse.js?cx=' + cx;
+                          var s = document.getElementsByTagName('script')[0];
+                          s.parentNode.insertBefore(gcse, s);
+                        })();
+                      </script>
+                      <gcse:search></gcse:search>
+                    </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="sixteen columns">
+                <ul id="menu" class="li-menu-items li-menu-mobile">
+                    {{ range .Site.Menus.main }}
+                        <li><a href="{{.Url}}"> {{ .Name }} </a></li>
+                    {{end}}
+                </ul>
+            </div>
+        </div>
+    </div>
+</header>
