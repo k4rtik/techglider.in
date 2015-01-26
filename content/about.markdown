@@ -16,7 +16,7 @@ I work at Oracle India Development Center, Bangalore as Member Technical Staff. 
 
 The views expressed on this blog are my personal views and do not represent those of my employer.
 
-**Contact:** kartiksinghal at gmail dot com.
+[Resume/CV](http://people.cse.nitc.ac.in/kartik/biocv), **Contact:** kartiksinghal at gmail dot com.
 
 You may also find me at:
 
@@ -40,7 +40,7 @@ You may also find me at:
 
 * ![](https://plus.google.com/_/favicon?domain=slideshare.net)[ SlideShare](http://www.slideshare.net/kartiksinghal)
 
-* ![](https://plus.google.com/_/favicon?domain=picasaweb.google.com)[ Picasa Web](http://picasaweb.google.com/kartiksinghal)
+* ![](https://picasaweb.google.com/favicon.ico)[ Picasa Web](http://picasaweb.google.com/kartiksinghal)
 
 * ![](https://c2.staticflickr.com/4/3027/2977317669_db9874e4c1.jpg)[ Flickr](https://www.flickr.com/photos/techglider)
 
