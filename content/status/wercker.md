@@ -6,7 +6,7 @@ tags:
 - github
 - wercker
 - hugo
-title: Testing automatic deployment with Wercker
+title: Testing Automatic Deployment with Wercker
 ---
 
 While [reinit](/post/2014/10/26/reinit/)ing this website, I had some [requirements](https://github.com/k4rtik/techglider.in/issues/6) in mind for easy workflow of adding a post.
