@@ -36,24 +36,24 @@ _No Place to Hide_ is a must read for anyone who uses digital communications and
 
 ### Edward Snowden
 
-> Let us speak no more of faith in man, but bind him down from mischief by the chains of cryptography.
+> - Let us speak no more of faith in man, but bind him down from mischief by the chains of cryptography.
 
-> If you seek to help, join the open source community and fight to keep the spirit of the press alive and the internet free. I have been to the darkest corners of government, and what they fear is light.
+> - If you seek to help, join the open source community and fight to keep the spirit of the press alive and the internet free. I have been to the darkest corners of government, and what they fear is light.
 
-> The true measurement of a person’s worth isn’t what they say they believe in, but what they do in defense of those beliefs. If you’re not acting on your beliefs, then they probably aren’t real.
+> - The true measurement of a person’s worth isn’t what they say they believe in, but what they do in defense of those beliefs. If you’re not acting on your beliefs, then they probably aren’t real.
 
-> For many kids, the Internet is a means of self-actualization. It allows them to explore who they are and who they want to be, but that works only if we’re able to be private and anonymous, to make mistakes without them following us. I worry that mine was the last generation to enjoy that freedom.
+> - For many kids, the Internet is a means of self-actualization. It allows them to explore who they are and who they want to be, but that works only if we’re able to be private and anonymous, to make mistakes without them following us. I worry that mine was the last generation to enjoy that freedom.
 
 ### Glenn Greenwald
 
-> We all instinctively understand that the private realm is where we can act, think, speak, write, experiment, and choose how to be, away from the judgmental eyes of others. Privacy is a core condition of being a free person.
+> - We all instinctively understand that the private realm is where we can act, think, speak, write, experiment, and choose how to be, away from the judgmental eyes of others. Privacy is a core condition of being a free person.
 
-> If you can never evade the watchful eyes of a supreme authority, there is no choice but to follow the dictates that authority imposes. You cannot even consider forging your own path beyond those rules: if you believe you are always being watched and judged, you are not really a free individual.
+> - If you can never evade the watchful eyes of a supreme authority, there is no choice but to follow the dictates that authority imposes. You cannot even consider forging your own path beyond those rules: if you believe you are always being watched and judged, you are not really a free individual.
 
-> But the true measure of a society’s freedom is how it treats its dissidents and other marginalized groups, not how it treats good loyalists.
+> - But the true measure of a society’s freedom is how it treats its dissidents and other marginalized groups, not how it treats good loyalists.
 
-> The idea that we should dismantle the core protections of our political system to erect a ubiquitous surveillance state for the sake of this risk is the height of irrationality.
+> - The idea that we should dismantle the core protections of our political system to erect a ubiquitous surveillance state for the sake of this risk is the height of irrationality.
 
-> Transparency is for those who carry out public duties and exercise public power. Privacy is for everyone else.
+> - Transparency is for those who carry out public duties and exercise public power. Privacy is for everyone else.
 
 [View all my reviews](https://www.goodreads.com/review/list/6520743-kartik-singhal)
