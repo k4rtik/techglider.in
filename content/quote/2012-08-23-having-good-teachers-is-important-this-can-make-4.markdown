@@ -15,4 +15,4 @@ tags:
 
 > Having good teachers is important. This can make or kill your interests. Even Kalam attributes being what he is today to him having great teachers. Unfortunately, this is something which is not under one’s control.
 
----me (on a twitter conversation with Delbin about electives, teachers and interest in subjects)
+---me (on [a twitter conversation](https://twitter.com/k4rtik/status/238674601708761088) with Delbin about electives, teachers and interest in subjects)
