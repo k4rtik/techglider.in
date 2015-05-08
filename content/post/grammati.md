@@ -8,7 +8,7 @@ title: 100 Days of Grammati
 
 [Haris](https://sosaysharis.wordpress.com/) had posted the following tweet few months ago:
 
-<blockquote class="twitter-tweet" lang="en"><p><a href="http://t.co/jRrbjaPWSG">http://t.co/jRrbjaPWSG</a> is the only e-learning site that I have been able to consistently follow. 2 month streak now.&#10;&#10;Thanks <a href="https://twitter.com/hallidude">@hallidude</a>!</p>&mdash; Haris Ibrahim K. V. (@harisibrahimkv) <a href="https://twitter.com/harisibrahimkv/status/540692072399773696">December 5, 2014</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" lang="en"><p><a href="http://t.co/jRrbjaPWSG">http://t.co/jRrbjaPWSG</a> is the only e-learning site that I have been able to consistently follow. 2 month streak now.&#10;&#10;Thanks <a href="https://twitter.com/hallidude">@hallidude</a>!</p>&mdash; Haris Ibrahim K. V. (@harisibrahimkv) <a href="https://twitter.com/harisibrahimkv/status/540692072399773696">December 5, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 After quickly checking out grammati.com, I had signed up. Received the following email this morning (for some reason Google decided to mark this as spam for the first time) and I thought it was time to spread the word:

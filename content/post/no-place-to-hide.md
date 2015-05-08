@@ -17,7 +17,7 @@ My rating: [4 of 5 stars](https://www.goodreads.com/review/show/1089540211)
 
 I had bought this book right away after reading the following tweet from a concerned friend:
 
-<blockquote class="twitter-tweet" lang="en"><p>Reading Glenn Greenwald&#39;s &quot;No place to hide&quot;. Can&#39;t put it down. I think everyone (or at least every Internet user) should read this book.</p>&mdash; Ramakrishnan (@vu3rdd) <a href="https://twitter.com/vu3rdd/status/526340699390623745">October 26, 2014</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" lang="en"><p>Reading Glenn Greenwald&#39;s &quot;No place to hide&quot;. Can&#39;t put it down. I think everyone (or at least every Internet user) should read this book.</p>&mdash; Ramakrishnan (@vu3rdd) <a href="https://twitter.com/vu3rdd/status/526340699390623745">October 26, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 It took me another 5 months to actually start reading the book.
