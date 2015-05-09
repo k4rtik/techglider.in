@@ -26,7 +26,7 @@ You may also find me at:
 
 * ![](https://plus.google.com/_/favicon?domain=keybase.io)[ Keybase](https://keybase.io/k4rtik)
 
-* ![](https://plus.google.com/_/favicon?domain=goodreads.com)[ Goodreads](https://www.goodreads.com/user/show/6520743-kartik-singhal)
+* ![](https://plus.google.com/_/favicon?domain=goodreads.com)[ Goodreads](https://www.goodreads.com/k4rtik)
 
 * ![](https://plus.google.com/_/favicon?domain=linkedin.com)[ LinkedIn](https://www.linkedin.com/in/kartiksinghal)
 
