@@ -28,7 +28,7 @@ You may also find me at:
 
 * ![](https://plus.google.com/_/favicon?domain=goodreads.com)[ Goodreads](https://www.goodreads.com/k4rtik)
 
-* ![](https://plus.google.com/_/favicon?domain=linkedin.com)[ LinkedIn](https://www.linkedin.com/in/kartiksinghal)
+* ![](https://www.linkedin.com/favicon.ico)[ LinkedIn](https://www.linkedin.com/in/kartiksinghal)
 
 * ![](https://plus.google.com/_/favicon?domain=quora.com)[ Quora](https://www.quora.com/Kartik-Singhal)
 
