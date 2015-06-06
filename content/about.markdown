@@ -6,13 +6,14 @@ slug: about
 title: About
 ---
 
+<img style="float: right" width="150" height="150" src="/images/profile-pic.jpg">
 Hi there,
 
 I am Kartik.
 
-My interests include Operating Systems (especially Linux), Programming Languages, Systems Programming, Web Development, and everything tech.
+My interests include Operating Systems, Programming Languages, Systems Programming, Web Development, and everything tech.
 
-~~I work at Oracle India Development Center, Bangalore as Member Technical Staff.~~ I am joining Brown University for a [master's program in Computer Science](https://cs.brown.edu) in August '15. I did my BTech in [Computer Science & Engineering at National Institute of Technology Calicut](http://cse.nitc.ac.in).
+~~I work at Oracle India Development Center, Bangalore as Member Technical Staff.~~ I am joining Brown University for a [master's in Computer Science](https://cs.brown.edu) in August 2015. I finished my BTech in [Computer Science & Engineering at National Institute of Technology Calicut](http://cse.nitc.ac.in) in 2013.
 
 [Resume/CV](http://people.cse.nitc.ac.in/kartik/biocv), **Contact:** kartiksinghal at gmail dot com.
 
