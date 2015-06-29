@@ -1,13 +1,10 @@
 ---
 date: 2015-06-29T15:41:42+05:30
 tags:
-- friends
 - writing
 - blog
 - change
-- inspiration
 - personal
-- freedom
 - website
 title: Exploring Medium
 ---
