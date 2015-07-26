@@ -19,21 +19,27 @@ My interests include Operating Systems, Programming Languages, Systems Programmi
 
 You may also find me at:
 
-* ![](https://twitter.com/favicon.ico)[ Twitter](https://twitter.com/k4rtik)
+* ![](https://plus.google.com/_/favicon?domain=facebook.com)[ Facebook](https://www.facebook.com/kartiksinghal)
 
 * ![](https://plus.google.com/_/favicon?domain=github.com)[ GitHub](https://github.com/k4rtik)
 
-* ![](https://plus.google.com/_/favicon?domain=keybase.io)[ Keybase](https://keybase.io/k4rtik)
-
 * ![](https://plus.google.com/_/favicon?domain=goodreads.com)[ Goodreads](https://www.goodreads.com/k4rtik)
+
+* ![](https://plus.google.com/_/favicon?domain=plus.google.com)[ Google+](https://plus.google.com/+KartikSinghal/about)
+
+* ![](https://plus.google.com/_/favicon?domain=instagram.com)[ Instagram](https://instagram.com/k4rtik/)
+
+* ![](https://plus.google.com/_/favicon?domain=keybase.io)[ Keybase](https://keybase.io/k4rtik)
 
 * ![](https://www.linkedin.com/favicon.ico)[ LinkedIn](https://www.linkedin.com/in/kartiksinghal)
 
+* ![](https://plus.google.com/_/favicon?domain=medium.com)[ Medium](https://medium.com/@k4rtik)
+
 * ![](https://plus.google.com/_/favicon?domain=quora.com)[ Quora](https://www.quora.com/Kartik-Singhal)
 
-* ![](https://plus.google.com/_/favicon?domain=facebook.com)[ Facebook](https://www.facebook.com/kartiksinghal)
+* ![](https://twitter.com/favicon.ico)[ Twitter](https://twitter.com/k4rtik)
 
-* ![](https://plus.google.com/_/favicon?domain=plus.google.com)[ Google+](https://plus.google.com/+KartikSinghal/about)
+Unmaintained:
 
 * ![](http://cse.nitc.ac.in/favicon.ico)[ NITC CSE People Portal](http://people.cse.nitc.ac.in/kartik)
 
