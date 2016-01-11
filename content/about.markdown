@@ -13,7 +13,7 @@ I am Kartik.
 
 My interests include Operating Systems, Programming Languages, Systems Programming, Web Development, and everything tech.
 
-~~I work at Oracle India Development Center, Bangalore as Member Technical Staff.~~ I am joining Brown University for a [master's in Computer Science](https://cs.brown.edu) in August 2015. I finished my BTech in [Computer Science & Engineering at National Institute of Technology Calicut](http://cse.nitc.ac.in) in 2013.
+I am a master's student in [Computer Science](https://cs.brown.edu) at [Brown University](https://www.brown.edu/). Previously, I worked at Oracle India Development Center, Bangalore as Member Technical Staff. Before that, I finished my BTech in [Computer Science & Engineering at National Institute of Technology Calicut](http://cse.nitc.ac.in) in 2013.
 
 [Resume/CV](http://people.cse.nitc.ac.in/kartik/biocv), **Contact:** kartiksinghal at gmail dot com.
 
