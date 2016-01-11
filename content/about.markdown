@@ -37,6 +37,8 @@ You may also find me at:
 
 * ![](https://plus.google.com/_/favicon?domain=quora.com)[ Quora](https://www.quora.com/Kartik-Singhal)
 
+* ![](https://plus.google.com/_/favicon?domain=slides.com)[ Slides](https://slides.com/k4rtik)
+
 * ![](https://twitter.com/favicon.ico)[ Twitter](https://twitter.com/k4rtik)
 
 Unmaintained:
