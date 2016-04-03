@@ -19,7 +19,7 @@ I am a master's student in [Computer Science](https://cs.brown.edu) at [Brown Un
 
 You may also find me at:
 
-* ![](https://plus.google.com/_/favicon?domain=facebook.com)[ Facebook](https://www.facebook.com/kartiksinghal)
+* ![](https://plus.google.com/_/favicon?domain=facebook.com)[ ~~Facebook~~](https://www.facebook.com/kartiksinghal)
 
 * ![](https://plus.google.com/_/favicon?domain=github.com)[ GitHub](https://github.com/k4rtik)
 
