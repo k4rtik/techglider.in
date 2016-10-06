@@ -11,6 +11,8 @@ tags:
 - open source
 - College
 - foss
+- reflections
+- life
 title: Things I wish I knew in College
 ---
 
