@@ -19,7 +19,7 @@ I was awaken from a long sleep of ignorance with some events that occurred in
 the last couple of weeks. A sudden surge of conscientiousness about taking my
 education in my hands was one of the immediate results.
 
-![Bryan Cantrill and Andy van Dam, two personal heroes](/images/cantrill-van-dam.jpg "Bryan Cantrill and Andy van Dam, two personal heroes")
+<img src="/images/cantrill-van-dam.jpg" width="940" alt="Bryan Cantrill and Andy van Dam, two personal heroes" title="Bryan Cantrill and Andy van Dam, two personal heroes" />
 
 The inflection point was getting to hear Bryan Cantrill in person and
 interviewing with him the next day. I didn’t do my best, but was humbled by
@@ -127,5 +127,3 @@ I need to come up with a way to solve the problem at scale.
 Perhaps, a simple solution lies in developing an official homepage (with useful
 tips & advice) that I have been first procrastinating upon and now not finding
 time for.
-
-_Originally [an unlisted post at Medium](https://medium.com/@relearn/week-0-8cbe20f0e529)_

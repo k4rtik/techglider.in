@@ -13,7 +13,7 @@ tags:
 title: Reflections on the Facebook Sannyasa
 ---
 
-![My desk at CIT 359 while working on CS169 project](/images/169-desk.jpg "My desk at CIT 359 while working on CS169 project")
+<img src="/images/169-desk.jpg" width="940" alt="My desk at CIT 359 while working on CS169 project" title="My desk at CIT 359 while working on CS169 project" />
 
 As some of you reading this might be aware I have been away for a while.
 
