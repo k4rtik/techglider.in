@@ -6,9 +6,9 @@ tags:
 - Personal
 - Hacker
 - Learning
-- Life
+- In Real Life
 - Reflections
-- Graduate School
+- Grad Life
 title: Java
 ---
 

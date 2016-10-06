@@ -9,7 +9,9 @@ tags:
 - personal
 - friends
 - reflections
-- life
+- In Real Life
+- Brown University
+- Grad Life
 title: Reflections on the Facebook Sannyasa
 ---
 

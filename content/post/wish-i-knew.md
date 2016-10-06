@@ -12,7 +12,9 @@ tags:
 - College
 - foss
 - reflections
-- life
+- In Real Life
+- Brown University
+- Grad Life
 title: Things I wish I knew in College
 ---
 

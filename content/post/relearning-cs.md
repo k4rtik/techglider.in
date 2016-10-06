@@ -7,9 +7,9 @@ tags:
 - Hacker
 - Learning
 - Work
-- Life
+- In Real Life
 - Reflections
-- Graduate School
+- Grad Life
 title: Relearning Computer Science
 ---
 
