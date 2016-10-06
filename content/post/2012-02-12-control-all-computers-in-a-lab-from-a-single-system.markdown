@@ -44,13 +44,13 @@ We have over 70 systems with Ubuntu 10.04 LTS installed on them. There is an adm
 
 
 
-	
+
   1. Log in via [SSH](http://en.wikipedia.org/wiki/Secure_Shell) without a password
 
-	
+
   2. Write your desired command and run it in background
 
-	
+
   3. Run the above in a loop for the lab's subnet.
 
 
@@ -63,7 +63,7 @@ See [Tips for Remote Unix Work (SSH, screen, and VNC)](http://shebang.brandonmi
 
 For **Step 2**, here is one example command:
 
-    
+
     ssh -t admin@labsystem "echo  | sudo -S shutdown -h now" &
 
 
@@ -88,7 +88,7 @@ The above code snippet will run the desired command for all systems in subnet wi
 
 In the passing, here's a small video I shot featuring Dhandeep when he got all excited to see this working:
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/IbO00lUPNC4" frameborder="0" allowfullscreen></iframe>
+{{< youtube IbO00lUPNC4 >}}
 
 That's it. Try this out, share your tricks and have some *NIX fun in your lab. :-)
 

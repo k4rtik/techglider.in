@@ -18,7 +18,7 @@ tags:
 
 I finally got a chance to watch this wonderful talk (by Randy Pausch) popularly known as The Last Lecture. I wanted to watch this for a long time - since [Anjhan mentioned about it in his keynote at foss.in](http://www.tuxmaniac.com/blog/2010/12/22/a-hackers-apology-keynote-at-foss-in-2010/) and since Prateek Kalyankar had recommended this to me in Jan.
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/ji5_MqicxSo" frameborder="0" allowfullscreen></iframe>
+{{< youtube ji5_MqicxSo >}}
 
 A really nice watch for anyone who has ever dreamed and thought of fulfilling them. I was particularly amazed to see a _youthful, energetic, handsome_ Randy deliver that talk in such a cheerful, darkly funny way, while being just a few months away from his death (and knowing it!). How was he able to do it? The answer is expressed in the talk itself. One can learn the way of living a life with this talk.
 

@@ -29,10 +29,9 @@ which Deepak and his team have developed.
 
 I found it quite interesting, here’s a demo video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eJFfnTkyj-g" frameborder="0" allowfullscreen></iframe>
-<br />World’s First Wireless MIDI Controller for Acoustic Guitar —
+{{< youtube eJFfnTkyj-g >}}
+World’s First Wireless MIDI Controller for Acoustic Guitar —
 [ACPAD](http://acpad.com/)
-
 
 But I digress.
 

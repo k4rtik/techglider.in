@@ -43,6 +43,8 @@ post on Effective Learning Strategy for
 Programmers](http://akaptur.com/blog/2015/10/10/effective-learning-strategies-for-programmers/),
 there is video version as well, if one prefers that:
 
+{{< youtube Mcc6JEhDSpo >}}
+
 Admittedly, this was one of the most profound articles I had ever read about how
 human brains work. I was surprised that I had never given much heed to the terms
 "fixed mindset" vs "growth mindset" and how important concepts they are to

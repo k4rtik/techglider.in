@@ -21,7 +21,7 @@ tags:
 
 Just watched this Google Tech Talk on **From Nand to Tetris in 12 steps** by Shimon Schocken introducing a course he developed along with Noam Nisan:
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/IlPj5Rg1y2w" frameborder="0" allowfullscreen></iframe>
+{{< youtube IlPj5Rg1y2w >}}
 
 A must watch for all CS faculty of hardware, algorithms and systems.
 
@@ -29,13 +29,13 @@ The course covers 12 projects to be done over a single semester covering buildin
 
 
 
-	
+
   * **Elementary Logic Gates, Combinatorial Chips and Sequential Chips** - perfect alternative for our Hardware Lab course, which never led to any real learning (only frustration in trying to get all that mess of little wires and chips on a bread board to work correctly). We even get to built an ALU in the 2nd project and memory in 3rd project.
 
-	
+
   * **Machine Language and Computer Architecture** - ideal introduction to our Computer Organization course of this semester. Learning to create a simple assembly language (before diving into MIPS assembly) and a simple enough architecture using our own ALU created in 2nd project (before trying to by heart more complex MIPS architecture) would have added motivation for the 4th semester CO course.
 
-	
+
   * **Assembler, Virtual Machine, Programming Language, Compiler, Operating System** - taught in still higher semesters here (5th and 6th) but it would have been so good to get an initial idea about all these before actually getting into the depth of these core areas of Computer Science making them more interesting to learn in the process.
 
 
@@ -47,10 +47,10 @@ Few links:
 
 
 
-	
+
   * [Blog post by Pramode CE](http://pramode.net/2011/01/03/the-most-amazing-cs-course-i-have-seen/) from where I got to know about the course.
 
-	
+
   * [Course Website](http://www.nand2tetris.org/)
 
 
