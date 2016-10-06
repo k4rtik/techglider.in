@@ -77,4 +77,4 @@ I have deliberately left the questions raised in the survey unanswered in this a
 
 Thanks to my friends Marilyn George, [Jaseem Abid](http://jaseemabid.github.io/), Lauren Bange, and [Pranav Ashok](http://pranavashok.name/) for reading drafts of this article and providing valuable feedback.
 
-_Originally published on [Threads, the official newsletter of Department of Computer Science and Engineering, NIT Calicut](http://cse.nitc.ac.in/newsletter) (Vol. II Issue I). Reproduced here for discussion._
+<!-- _Originally published on [Threads, the official newsletter of Department of Computer Science and Engineering, NIT Calicut](http://cse.nitc.ac.in/newsletter) (Vol. II Issue I). Reproduced here for discussion._ -->
