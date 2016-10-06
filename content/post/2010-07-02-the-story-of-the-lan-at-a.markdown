@@ -26,15 +26,11 @@ It all started with a challenge I accepted from Aakash to bring the LAN to A Hos
 
 [One of my tweets on Jan 5](https://twitter.com/k4rtik/status/7406464108) read:
 
-
-> Bad day! Got a full five minute of scolding for first time in college. :( My state was: head down, shivering legs & rest imagine yourself. :(
-
+{{< tweet 7406464108 >}}
 
 And [one by Pranav Ashok on Feb 26](http://twitter.com/pranavashok/statuses/9638564431)
 
-
-> @[KartikSinghal](http://twitter.com/k4rtik) and his pals are installing LAN in the hostel at the moment!
-
+{{< tweet 9638564431 >}}
 
 The first tweet refers to my being scolded by one of the wardens of A Hostel Dr. Sameer SM regarding the delay I caused in talking to him after meeting the Chief Warden and earlier the Faculty-in-charge of CNC. The second, of course, you can understand.
 
@@ -48,17 +44,17 @@ Aakash and me made some approximate estimates of length of cable and number of s
 
 
 ![Aakash with the bag of switches](http://techglider.in/kartik/blog/wp-content/uploads/2010/07/201002233275.jpg)
-	
+
 
 
 ![Ramu at the Cable Shop](http://techglider.in/kartik/blog/wp-content/uploads/2010/07/201002233276.jpg)
-	
+
 
 Next day, Feb 24, we started crimping the cables after measuring them using a custom plastic-rope scale (that was fun :)  but real hard work).
 
 
 [![Me with the LAN components](http://techglider.in/kartik/blog/wp-content/uploads/2010/07/201002243289.jpg)](http://techglider.in/kartik/blog/wp-content/uploads/2010/07/201002243289.jpg)
-	
+
 
 It was a week before our Second Interim tests when we were laying out the cables in the hostel. Most of the credit goes to Aakash for being there and continuing with the estimation work alone when I fell ill just before we started laying. Then I joined him for the actual laying-the-cables mission. That was a serious body-aching, tiring, hard work. I was relieved to see other friends joining us to help in the installation of cables and switches. There were some who even didn't take the connection but were willing to help.
 

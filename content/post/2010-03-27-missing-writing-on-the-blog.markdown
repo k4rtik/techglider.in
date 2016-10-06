@@ -28,11 +28,8 @@ Anyway, you can follow most of the updates from me on Twitter: [twitter.com/k4rt
 
 My reason of worry is:
 
-
-> I wan't to write about so many things - S2, FOSSMeet, gang of geeks, Atul Chitnis, LAN at A, LaTeX, @[sengupta](http://twitter.com/sengupta), engg. gfx, seniors, ... When?
-
+{{< tweet 11093644655 >}}
 
 The above quote was my [Twitter post](http://twitter.com/k4rtik/statuses/11093644655) about 18 hours ago. And [the following](http://twitter.com/k4rtik/status/11093507431) a little before the above:
 
-
-> I am completely furious when I am unable to express myself - my blog doesn't open inside the NITC campus. What the hack??
+{{< tweet 11093507431 >}}

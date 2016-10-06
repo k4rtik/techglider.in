@@ -88,8 +88,7 @@ helped me grow in past and, I hope, will do the same in future.
 
 I have been thinking about writing a couple of posts for sometime:
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">Last day of the first job just got over. Mixed feelings. Probably a blog post reminiscing &amp; introspecting the past two years is in order.</p>&mdash; Kartik Singhal (@k4rtik) <a href="https://twitter.com/k4rtik/status/604274074324369408">May 29, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 604274074324369408 >}}
 
 1. About my journey at Oracle in past two years as I previously announced on
 Twitter.
