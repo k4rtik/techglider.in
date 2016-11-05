@@ -31,7 +31,7 @@ You may also find me at:
 
 * ![](https://plus.google.com/_/favicon?domain=keybase.io)[ Keybase](https://keybase.io/k4rtik)
 
-* ![](https://www.linkedin.com/favicon.ico)[ LinkedIn](https://www.linkedin.com/in/kartiksinghal)
+* ![](https://plus.google.com/_/favicon?domain=linkedin.com)[ LinkedIn](https://www.linkedin.com/in/kartiksinghal)
 
 * ![](https://plus.google.com/_/favicon?domain=medium.com)[ Medium](https://medium.com/@k4rtik)
 
@@ -47,7 +47,7 @@ Unmaintained:
 
 * ![](https://plus.google.com/_/favicon?domain=slideshare.net)[ SlideShare](http://www.slideshare.net/kartiksinghal)
 
-* ![](https://picasaweb.google.com/favicon.ico)[ Picasa Web](http://picasaweb.google.com/kartiksinghal)
+* ![](https://plus.google.com/_/favicon?domain=get.google.com)[Google Album Archive (formerly Picasa Web)](https://get.google.com/albumarchive/103572561582880171863)
 
 * ![](https://c2.staticflickr.com/4/3027/2977317669_db9874e4c1.jpg)[ Flickr](https://www.flickr.com/photos/techglider)
 
