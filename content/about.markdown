@@ -27,15 +27,21 @@ You may also find me at:
 
 * ![](https://plus.google.com/_/favicon?domain=plus.google.com)[ Google+](https://plus.google.com/+KartikSinghal/about)
 
+* ![](https://news.ycombinator.com/y18.gif)[ Hacker News](https://news.ycombinator.com/user?id=k4rtik)
+
 * ![](https://plus.google.com/_/favicon?domain=instagram.com)[ Instagram](https://instagram.com/k4rtik/)
 
 * ![](https://plus.google.com/_/favicon?domain=keybase.io)[ Keybase](https://keybase.io/k4rtik)
 
 * ![](https://plus.google.com/_/favicon?domain=linkedin.com)[ LinkedIn](https://www.linkedin.com/in/kartiksinghal)
 
+* ![](https://plus.google.com/_/favicon?domain=lobste.rs)[ Lobsters](https://lobste.rs/u/kartik)
+
 * ![](https://plus.google.com/_/favicon?domain=medium.com)[ Medium](https://medium.com/@k4rtik)
 
 * ![](https://plus.google.com/_/favicon?domain=quora.com)[ Quora](https://www.quora.com/Kartik-Singhal)
+
+* ![](https://plus.google.com/_/favicon?domain=reddit.com)[ Reddit](https://www.reddit.com/user/k4rtik)
 
 * ![](https://plus.google.com/_/favicon?domain=slides.com)[ Slides](https://slides.com/k4rtik)
 
@@ -47,7 +53,7 @@ Unmaintained:
 
 * ![](https://plus.google.com/_/favicon?domain=slideshare.net)[ SlideShare](http://www.slideshare.net/kartiksinghal)
 
-* ![](https://plus.google.com/_/favicon?domain=get.google.com)[Google Album Archive (formerly Picasa Web)](https://get.google.com/albumarchive/103572561582880171863)
+* ![](https://plus.google.com/_/favicon?domain=google.com)[Google Album Archive (formerly Picasa Web)](https://get.google.com/albumarchive/103572561582880171863)
 
 * ![](https://c2.staticflickr.com/4/3027/2977317669_db9874e4c1.jpg)[ Flickr](https://www.flickr.com/photos/techglider)
 
