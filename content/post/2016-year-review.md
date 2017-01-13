@@ -9,11 +9,6 @@ tags:
 title: "2016: Year (and a half) in Review"
 ---
 
-<style type="text/css">
-figure {text-align:center; margin-left:auto; margin-right:auto;}
-figcaption {text-align:center; margin-left:auto; margin-right:auto;}
-</style>
-
 I wanted to write an EoY Review post last year like I did [two years ago](/post/2014/12/31/2014-year-in-review/) but I didn't as I was [too busy](https://github.com/hamon-in/cpslib/commit/bdeafd87e5f9c5a849778e68cd3668a72c8add2f) making sure 2016 was beginning with my most important goal for that year---overcoming my fear of coding and becoming a better programmer. 2016 has been a great year of personal learning and I want to celebrate its passing by documenting some of that learning and experiences.
 
 But before that, some background from 2015.
@@ -140,3 +135,8 @@ I [fell in love with Rust](https://twitter.com/k4rtik/status/787141273215991808)
 {{< figure src="/images/teejay.jpg" alt="TeeJay and Kartik" title="TeeJay with me" >}}
 
 Onward to a productive 2017 full of learning and new experiences!
+
+<style type="text/css">
+figure {text-align:center; margin-left:auto; margin-right:auto;}
+figcaption {text-align:center; margin-left:auto; margin-right:auto;}
+</style>
