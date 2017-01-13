@@ -115,7 +115,7 @@ I [fell in love with Rust](https://twitter.com/k4rtik/status/787141273215991808)
 - I did not do a lot of public writing in 2016. The only useful post is a reflective article I wrote for my college magazine -- [Things I wish I knew in College](/post/2016/10/01/things-i-wish-i-knew-in-college/). The different thing about this post was that it went through many iterations as I chose to get feedback from a few friends.
 - I did some private monthly reviews (like this post, but much smaller in length) in the beginning of the year but stopped after April.
 - This year, I picked up the habit of note taking to a good extent and kept iterating on tools such as private (local) markdown notes, [Fargo](http://fargo.io), GFM based notes on Github (which explains my continuous streak from mid-August to mid-December), and these days [Simplenote](https://simplenote.com/). I have so far not found anything which satisfies all my needs.
-- I started using Grammarly, which is a nifty tool to prevent common mistakes from all my writing and helps me learn to write better English. Highly recommended.
+- I started using [Grammarly](https://www.grammarly.com/), which is a nifty tool to prevent common mistakes from all my writing and helps me learn to write better English. Highly recommended.
 
 ## Misc
 
