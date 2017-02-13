@@ -11,9 +11,9 @@ Hi there,
 
 I am Kartik.
 
-My interests include Operating Systems, Programming Languages, Systems Programming, Web Development, and everything tech.
+I am interested in Programming Languages and Systems in general and Concurrency and Distributed Systems in particular.
 
-I am a master's student in [Computer Science](https://cs.brown.edu) at [Brown University](https://www.brown.edu/). Previously, I worked at Oracle India Development Center, Bangalore as Member Technical Staff. Before that, I finished my BTech in [Computer Science & Engineering at National Institute of Technology Calicut](http://cse.nitc.ac.in) in 2013.
+I am currently a master's student in [Computer Science](https://cs.brown.edu) at [Brown University](https://www.brown.edu/). Previously, I worked at Oracle India Development Center, Bangalore as Member Technical Staff. Before that, I finished my BTech in [Computer Science & Engineering at National Institute of Technology Calicut](http://cse.nitc.ac.in) in 2013.
 
 **Contact:** kartiksinghal at gmail dot com.
 
