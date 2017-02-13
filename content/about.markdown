@@ -19,7 +19,7 @@ I am currently a master's student in [Computer Science](https://cs.brown.edu) at
 
 You may also find me at:
 
-* ![](https://plus.google.com/_/favicon?domain=facebook.com)[ ~~Facebook~~](https://www.facebook.com/kartiksinghal)
+* ![](https://plus.google.com/_/favicon?domain=facebook.com)[ ~~Facebook~~](https://www.facebook.com/kartiksinghal) (active on and off)
 
 * ![](https://plus.google.com/_/favicon?domain=github.com)[ GitHub](https://github.com/k4rtik)
 
@@ -27,7 +27,7 @@ You may also find me at:
 
 * ![](https://plus.google.com/_/favicon?domain=plus.google.com)[ Google+](https://plus.google.com/+KartikSinghal/about)
 
-* ![](https://news.ycombinator.com/y18.gif)[ Hacker News](https://news.ycombinator.com/user?id=k4rtik)
+* <img src="https://news.ycombinator.com/y18.gif" height="16" width="16" />[ Hacker News](https://news.ycombinator.com/user?id=k4rtik)
 
 * ![](https://plus.google.com/_/favicon?domain=instagram.com)[ Instagram](https://instagram.com/k4rtik/)
 
@@ -44,6 +44,8 @@ You may also find me at:
 * ![](https://plus.google.com/_/favicon?domain=reddit.com)[ Reddit](https://www.reddit.com/user/k4rtik)
 
 * ![](https://plus.google.com/_/favicon?domain=slides.com)[ Slides](https://slides.com/k4rtik)
+
+* ![](https://s2.googleusercontent.com/s2/favicons?domain=techglider.github.io)[ The TechGlider](https://techglider.github.io/) (research blog on GitHub)
 
 * ![](https://twitter.com/favicon.ico)[ Twitter](https://twitter.com/k4rtik)
 
