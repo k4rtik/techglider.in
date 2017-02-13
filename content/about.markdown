@@ -19,13 +19,11 @@ I am currently a master's student in [Computer Science](https://cs.brown.edu) at
 
 You may also find me at:
 
-* ![](https://plus.google.com/_/favicon?domain=facebook.com)[ ~~Facebook~~](https://www.facebook.com/kartiksinghal) (active on and off)
+* ![](https://plus.google.com/_/favicon?domain=facebook.com)[ ~~Facebook~~](https://www.facebook.com/kartiksinghal) (on and off)
 
 * ![](https://plus.google.com/_/favicon?domain=github.com)[ GitHub](https://github.com/k4rtik)
 
 * ![](https://plus.google.com/_/favicon?domain=goodreads.com)[ Goodreads](https://www.goodreads.com/k4rtik)
-
-* ![](https://plus.google.com/_/favicon?domain=plus.google.com)[ Google+](https://plus.google.com/+KartikSinghal/about)
 
 * <img src="https://news.ycombinator.com/y18.gif" height="16" width="16" />[ Hacker News](https://news.ycombinator.com/user?id=k4rtik)
 
@@ -37,15 +35,11 @@ You may also find me at:
 
 * ![](https://plus.google.com/_/favicon?domain=lobste.rs)[ Lobsters](https://lobste.rs/u/kartik)
 
-* ![](https://plus.google.com/_/favicon?domain=medium.com)[ Medium](https://medium.com/@k4rtik)
-
-* ![](https://plus.google.com/_/favicon?domain=quora.com)[ Quora](https://www.quora.com/Kartik-Singhal)
-
 * ![](https://plus.google.com/_/favicon?domain=reddit.com)[ Reddit](https://www.reddit.com/user/k4rtik)
 
 * ![](https://plus.google.com/_/favicon?domain=slides.com)[ Slides](https://slides.com/k4rtik)
 
-* ![](https://s2.googleusercontent.com/s2/favicons?domain=techglider.github.io)[ The TechGlider](https://techglider.github.io/) (research blog on GitHub)
+* ![](https://s2.googleusercontent.com/s2/favicons?domain=techglider.github.io)[ The TechGlider](https://techglider.github.io/) (research blog)
 
 * ![](https://twitter.com/favicon.ico)[ Twitter](https://twitter.com/k4rtik)
 
@@ -53,10 +47,16 @@ Unmaintained:
 
 * ![](http://cse.nitc.ac.in/favicon.ico)[ NITC CSE People Portal](http://people.cse.nitc.ac.in/kartik)
 
-* ![](https://plus.google.com/_/favicon?domain=slideshare.net)[ SlideShare](http://www.slideshare.net/kartiksinghal)
+* ![](https://plus.google.com/_/favicon?domain=flickr.com)[ Flickr](https://www.flickr.com/photos/techglider)
 
-* ![](https://plus.google.com/_/favicon?domain=google.com)[Google Album Archive (formerly Picasa Web)](https://get.google.com/albumarchive/103572561582880171863)
+* ![](https://plus.google.com/_/favicon?domain=picasa.google.com)[ Google Album Archive (formerly Picasa Web)](https://get.google.com/albumarchive/103572561582880171863)
 
-* ![](https://c2.staticflickr.com/4/3027/2977317669_db9874e4c1.jpg)[ Flickr](https://www.flickr.com/photos/techglider)
+* ![](https://plus.google.com/_/favicon?domain=plus.google.com)[ Google+](https://plus.google.com/+KartikSinghal/about)
 
 * ![](https://plus.google.com/_/favicon?domain=k4rtik.wordpress.com)[ Kartik Scribbles...](http://k4rtik.wordpress.com) (old blog)
+
+* ![](https://plus.google.com/_/favicon?domain=medium.com)[ Medium](https://medium.com/@k4rtik)
+
+* ![](https://plus.google.com/_/favicon?domain=quora.com)[ Quora](https://www.quora.com/Kartik-Singhal)
+
+* ![](https://plus.google.com/_/favicon?domain=slideshare.net)[ SlideShare](http://www.slideshare.net/kartiksinghal)
