@@ -11,13 +11,17 @@ Hi there,
 
 I am Kartik.
 
-I am interested in Programming Languages and Systems in general and Concurrency and Distributed Systems in particular.
+I am interested in Programming Languages and Systems in general and Concurrency and Distributed Systems in particular. I am joining [Department of Computer Science](https://cs.uchicago.edu/) at [the University of Chicago (UChicago)](http://www.uchicago.edu/) in September 2017 to pursue these interests in a rigorous academic setting as a PhD student.
 
-I am currently a master's student in [Computer Science](https://cs.brown.edu) at [Brown University](https://www.brown.edu/). Previously, I worked at Oracle India Development Center, Bangalore as Member Technical Staff. Before that, I finished my BTech in [Computer Science & Engineering at National Institute of Technology Calicut](http://cse.nitc.ac.in) in 2013.
+I recently [finished](https://techglider.github.io/update/how-to-reason-about-correctness-of-programs-designed-for-non-volatile-memory/) my master's in [Computer Science](https://cs.brown.edu) at [Brown University](https://www.brown.edu/). Previously, I worked at Oracle India Development Center, Bangalore as Member Technical Staff. Before that, I finished my BTech in [Computer Science & Engineering at National Institute of Technology Calicut](http://cse.nitc.ac.in) in 2013.
+
+This website [originally started](/post/2008/08/01/all-about-techglider/) as a way for me to share things I learned about technology with friends and others interested with the motto --- _The TechGlider will take you gliding into the world of tech_ --- but overtime it has become a sort of a personal blog and a historical archive of the rest of my blogs (I would someday like to redesign it and rewrite this About page). See my research blog (link below) for more technical material.
 
 **Contact:** kartiksinghal at gmail dot com.
 
-You may also find me at:
+You may also find me on:
+
+* ![](https://d35aaqx5ub95lt.cloudfront.net/favicon.ico)[ Duolingo](https://www.duolingo.com/k4rtik)
 
 * ![](https://plus.google.com/_/favicon?domain=facebook.com)[ ~~Facebook~~](https://www.facebook.com/kartiksinghal) (on and off)
 
@@ -35,13 +39,17 @@ You may also find me at:
 
 * ![](https://plus.google.com/_/favicon?domain=lobste.rs)[ Lobsters](https://lobste.rs/u/kartik)
 
+* ![](https://plus.google.com/_/favicon?domain=messenger.com)[ Messenger](https://m.me/kartiksinghal)
+
 * ![](https://plus.google.com/_/favicon?domain=reddit.com)[ Reddit](https://www.reddit.com/user/k4rtik)
 
-* ![](https://plus.google.com/_/favicon?domain=slides.com)[ Slides](https://slides.com/k4rtik)
+* ![](https://plus.google.com/_/favicon?domain=strava.com)[ Strava](https://www.strava.com/athletes/kartik)
 
-* ![](https://s2.googleusercontent.com/s2/favicons?domain=techglider.github.io)[ The TechGlider](https://techglider.github.io/) (research blog)
+* ![](https://plus.google.com/_/favicon?domain=techglider.github.io)[ The TechGlider](https://techglider.github.io/) (research blog)
 
 * ![](https://twitter.com/favicon.ico)[ Twitter](https://twitter.com/k4rtik)
+
+* ![](https://plus.google.com/_/favicon?domain=yelp.com)[ Yelp](https://k4rtik.yelp.com)
 
 Unmaintained:
 
@@ -58,5 +66,7 @@ Unmaintained:
 * ![](https://plus.google.com/_/favicon?domain=medium.com)[ Medium](https://medium.com/@k4rtik)
 
 * ![](https://plus.google.com/_/favicon?domain=quora.com)[ Quora](https://www.quora.com/Kartik-Singhal)
+
+* ![](https://plus.google.com/_/favicon?domain=slides.com)[ Slides](https://slides.com/k4rtik)
 
 * ![](https://plus.google.com/_/favicon?domain=slideshare.net)[ SlideShare](http://www.slideshare.net/kartiksinghal)
