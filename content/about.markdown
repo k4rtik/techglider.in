@@ -29,8 +29,6 @@ You may also find me on:
 
 * ![](https://plus.google.com/_/favicon?domain=goodreads.com)[ Goodreads](https://www.goodreads.com/k4rtik)
 
-* <img src="https://news.ycombinator.com/y18.gif" height="16" width="16" />[ Hacker News](https://news.ycombinator.com/user?id=k4rtik)
-
 * ![](https://plus.google.com/_/favicon?domain=exposure.co)[ Exposure](https://www.k4rtik.me/) _Photos_ 🆕
 
 * ![](https://plus.google.com/_/favicon?domain=instagram.com)[ Instagram](https://instagram.com/k4rtik/)
@@ -39,19 +37,13 @@ You may also find me on:
 
 * ![](https://plus.google.com/_/favicon?domain=linkedin.com)[ LinkedIn](https://www.linkedin.com/in/kartiksinghal)
 
-* ![](https://plus.google.com/_/favicon?domain=lobste.rs)[ Lobsters](https://lobste.rs/u/kartik)
-
 * ![](https://plus.google.com/_/favicon?domain=messenger.com)[ Messenger](https://m.me/kartiksinghal)
-
-* ![](https://plus.google.com/_/favicon?domain=reddit.com)[ Reddit](https://www.reddit.com/user/k4rtik)
 
 * ![](https://plus.google.com/_/favicon?domain=strava.com)[ Strava](https://www.strava.com/athletes/kartik)
 
 * ![](https://plus.google.com/_/favicon?domain=techglider.github.io)[ The TechGlider](https://techglider.github.io/) _Research Blog_
 
 * ![](https://twitter.com/favicon.ico)[ Twitter](https://twitter.com/k4rtik)
-
-* ![](https://plus.google.com/_/favicon?domain=yelp.com)[ Yelp](https://k4rtik.yelp.com)
 
 Unmaintained:
 
@@ -63,12 +55,20 @@ Unmaintained:
 
 * ![](https://plus.google.com/_/favicon?domain=plus.google.com)[ Google+](https://plus.google.com/+KartikSinghal/about)
 
+* <img src="https://news.ycombinator.com/y18.gif" height="16" width="16" />[ Hacker News](https://news.ycombinator.com/user?id=k4rtik)
+
 * ![](https://plus.google.com/_/favicon?domain=k4rtik.wordpress.com)[ Kartik Scribbles...](http://k4rtik.wordpress.com) _Old Blog_
+
+* ![](https://plus.google.com/_/favicon?domain=lobste.rs)[ Lobsters](https://lobste.rs/u/kartik)
 
 * ![](https://plus.google.com/_/favicon?domain=medium.com)[ Medium](https://medium.com/@k4rtik)
 
 * ![](https://plus.google.com/_/favicon?domain=quora.com)[ Quora](https://www.quora.com/Kartik-Singhal)
 
+* ![](https://plus.google.com/_/favicon?domain=reddit.com)[ Reddit](https://www.reddit.com/user/k4rtik)
+
 * ![](https://plus.google.com/_/favicon?domain=slides.com)[ Slides](https://slides.com/k4rtik)
 
 * ![](https://plus.google.com/_/favicon?domain=slideshare.net)[ SlideShare](http://www.slideshare.net/kartiksinghal)
+
+* ![](https://plus.google.com/_/favicon?domain=yelp.com)[ Yelp](https://k4rtik.yelp.com)
