@@ -5,7 +5,7 @@ tags:
 - code
 - heatmap
 - calendar
-title: Coding heat map for the month so far ...
+title: Coding heat map for the month so far
 ---
 
 {{< figure src="/images/heat-map.jpg"  width="100%" >}}
