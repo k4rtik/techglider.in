@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-03-09 13:09:34+05:30
-layout: post
+
 slug: adventure-on-our-first-visit-to-an-airport
 title: Adventure on our first visit to an airport
 wordpress_id: 265

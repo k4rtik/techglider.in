@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2011-07-14 16:41:53+05:30
-layout: post
+
 slug: remove-orphaned-actions-in-drupal-7
 title: Remove Orphaned Actions in Drupal 7
 wordpress_id: 329

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-12-09 16:27:07+05:30
-layout: post
+
 slug: i-have-found-happiness
 title: I have found Happiness
 wordpress_id: 101

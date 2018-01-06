@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2011-03-26 05:41:22+05:30
-layout: post
+
 slug: the-story-of-the-techglider
 title: The Story of the TechGlider
 wordpress_id: 379

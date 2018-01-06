@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-07-02 04:46:38+05:30
-layout: post
+
 slug: the-story-of-the-lan-at-a
 title: The Story of the LAN at A
 wordpress_id: 253

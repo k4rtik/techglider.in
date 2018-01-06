@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-08-14 00:31:56+05:30
-layout: post
+
 slug: the-techglider-forums-are-now-active
 title: The TechGlider Forums are now active.
 wordpress_id: 62

@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2010-10-25 09:46:00+05:30
-layout: post
+
 slug: first-hands-on-with-assembly-language-programming
 title: First Hands-on with Assembly Language Programming
 wordpress_id: 6

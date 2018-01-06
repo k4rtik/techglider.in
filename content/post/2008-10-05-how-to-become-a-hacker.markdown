@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-10-05 08:21:49+05:30
-layout: post
+
 slug: how-to-become-a-hacker
 title: How to become a Hacker?
 wordpress_id: 337

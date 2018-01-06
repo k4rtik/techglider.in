@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-05-05 07:16:11+05:30
-layout: post
+
 slug: simple-script-to-install-essential-packages-in-ubuntu-10-04-lucid-64-bit
 title: Simple script to install essential packages in Ubuntu 10.04 Lucid 64-bit
 wordpress_id: 368

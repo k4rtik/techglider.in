@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2010-09-25 09:53:00+05:30
-layout: post
+
 slug: ubuntu-tips-and-tricks-part-1
 title: Ubuntu Tips and Tricks - Part 1
 wordpress_id: 9

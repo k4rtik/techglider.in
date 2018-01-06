@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-05-28 02:16:52+05:30
-layout: post
+
 slug: delaying-product-activation-in-windows-7
 title: Delaying Product Activation in Windows 7
 wordpress_id: 371

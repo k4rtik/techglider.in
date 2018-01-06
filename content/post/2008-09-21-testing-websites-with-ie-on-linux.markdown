@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-09-21 16:14:22+05:30
-layout: post
+
 slug: testing-websites-with-ie-on-linux
 title: Testing websites with IE on linux
 wordpress_id: 340

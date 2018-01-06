@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-10-28 17:09:34+05:30
-layout: post
+
 slug: on-deepawali-and-theme-change
 title: On Deepawali and the change of theme
 wordpress_id: 80

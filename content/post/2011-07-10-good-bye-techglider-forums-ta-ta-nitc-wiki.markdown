@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2011-07-10 17:37:37+05:30
-layout: post
+
 slug: good-bye-techglider-forums-ta-ta-nitc-wiki
 title: Good Bye TechGlider Forums, Ta-Ta NITC Wiki
 wordpress_id: 399

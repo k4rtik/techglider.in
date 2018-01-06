@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2012-06-22 19:39:05+05:30
-layout: post
+
 slug: a-fun-security-weekend-with-null-and-sctf
 title: A Fun Security Weekend with null and sCTF
 wordpress_id: 476

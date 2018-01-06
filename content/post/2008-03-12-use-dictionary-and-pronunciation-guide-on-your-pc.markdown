@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2008-03-12 20:55:00+05:30
-layout: post
+
 slug: use-dictionary-and-pronunciation-guide-on-your-pc
 title: Use Dictionary and Pronunciation Guide on your PC
 wordpress_id: 14

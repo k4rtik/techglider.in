@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2010-09-18 21:55:00+05:30
-layout: post
+
 slug: software-freedom-day-2010-at-nit-calicut
 title: Software Freedom Day 2010 at NIT Calicut
 wordpress_id: 10

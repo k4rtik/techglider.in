@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2011-02-10 10:18:08+05:30
-layout: post
+
 slug: inputoutput-using-text-files-without-diving-into-file-handling
 title: Input/Output using Text Files Without Diving into File Handling
 wordpress_id: 91

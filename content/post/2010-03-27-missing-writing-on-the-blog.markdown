@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-03-27 08:50:12+05:30
-layout: post
+
 slug: missing-writing-on-the-blog
 title: Missing writing on the blog
 wordpress_id: 269

@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2011-06-25 18:30:44+05:30
-layout: post
+
 slug: restore-grub-in-ubuntu-after-installing-windows
 title: Restore GRUB in Ubuntu after installing Windows
 wordpress_id: 273

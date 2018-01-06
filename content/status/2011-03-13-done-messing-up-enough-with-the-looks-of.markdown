@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2011-03-13 17:33:55+05:30
-layout: post
+
 slug: done-messing-up-enough-with-the-looks-of
 title: Done messing up enough with the looks of...
 wordpress_id: 180

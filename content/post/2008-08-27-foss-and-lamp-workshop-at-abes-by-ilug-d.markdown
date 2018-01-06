@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-08-27 16:15:45+05:30
-layout: post
+
 slug: foss-and-lamp-workshop-at-abes-by-ilug-d
 title: FOSS and LAMP Workshop at ABES by ILUG-D
 wordpress_id: 56

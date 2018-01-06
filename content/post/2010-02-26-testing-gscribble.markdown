@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-02-26 18:10:00+05:30
-layout: post
+
 slug: testing-gscribble
 title: Testing GScribble
 wordpress_id: 251

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-08-09 03:39:59+05:30
-layout: post
+
 slug: various-sources-of-getting-linux
 title: 'Various Sources of Getting Linux  '
 wordpress_id: 65

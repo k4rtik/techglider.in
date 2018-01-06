@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-10-05 12:36:38+05:30
-layout: post
+
 slug: back-to-linux-and-switching-to-wordpress
 title: Back to linux and switching to WordPress...
 wordpress_id: 31

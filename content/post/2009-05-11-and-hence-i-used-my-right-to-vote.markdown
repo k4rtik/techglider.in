@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-05-11 04:15:51+05:30
-layout: post
+
 slug: and-hence-i-used-my-right-to-vote
 title: And hence, I used my right to vote
 wordpress_id: 138

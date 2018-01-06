@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2009-11-08 11:00:33+05:30
-layout: post
+
 slug: my-old-projects
 title: My Old Projects
 wordpress_id: 365

@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2011-02-01 01:20:47+05:30
-layout: post
+
 slug: accessing-nit-calicuts-ubuntu-mirror-in-the-campus
 title: Accessing NIT Calicut's Ubuntu Mirror (in the campus)
 wordpress_id: 90

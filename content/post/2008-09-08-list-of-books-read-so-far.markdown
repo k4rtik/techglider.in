@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2008-09-08 01:50:00+05:30
-layout: post
+
 slug: list-of-books-read-so-far
 title: List of Books Read So Far
 wordpress_id: 268

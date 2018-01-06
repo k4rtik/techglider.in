@@ -4,7 +4,7 @@ comments: true
 date: 2008-08-06 16:35:47+05:30
 excerpt: I am pleased to inform you all that I have finally uploaded a test version
   of the main TechGlider.com site. :)
-layout: post
+
 slug: test-version-of-main-techglidercom-site-is-out
 title: Test version of main TechGlider.com site is out!
 wordpress_id: 15

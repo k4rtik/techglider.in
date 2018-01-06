@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-11-12 13:24:53+05:30
-layout: post
+
 slug: a-simple-tic-tac-toe-game-in-c
 title: A Simple Tic Tac Toe Game in C
 wordpress_id: 358

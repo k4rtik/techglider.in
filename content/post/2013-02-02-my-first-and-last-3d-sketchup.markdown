@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2013-02-02 18:25:07+05:30
-layout: post
+
 slug: my-first-and-last-3d-sketchup
 title: My First and Last 3D SketchUp
 wordpress_id: 511

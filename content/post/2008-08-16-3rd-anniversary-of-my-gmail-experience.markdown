@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-08-16 03:28:42+05:30
-layout: post
+
 slug: 3rd-anniversary-of-my-gmail-experience
 title: 3rd Anniversary of my Gmail experience
 wordpress_id: 60

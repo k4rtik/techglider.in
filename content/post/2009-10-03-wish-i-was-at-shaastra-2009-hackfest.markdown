@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-10-03 16:37:42+05:30
-layout: post
+
 slug: wish-i-was-at-shaastra-2009-hackfest
 title: Wish I was at Shaastra 2009 HackFest
 wordpress_id: 181

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-10-11 16:05:28+05:30
-layout: post
+
 slug: why-i-use-twitter-and-why-not-orkut-or-facebook
 title: Why I use Twitter? And why not Orkut or Facebook?
 wordpress_id: 196

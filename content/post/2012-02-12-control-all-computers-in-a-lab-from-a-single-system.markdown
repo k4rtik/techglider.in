@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2012-02-12 03:10:21+05:30
-layout: post
+
 slug: control-all-computers-in-a-lab-from-a-single-system
 title: Control All Computers in a Lab from a Single System
 wordpress_id: 396

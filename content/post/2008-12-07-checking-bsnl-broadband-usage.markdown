@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-12-07 13:34:03+05:30
-layout: post
+
 slug: checking-bsnl-broadband-usage
 title: Checking BSNL broadband usage
 wordpress_id: 343

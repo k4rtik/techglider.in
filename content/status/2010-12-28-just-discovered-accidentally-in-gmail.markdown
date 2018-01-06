@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2010-12-28 06:43:00+05:30
-layout: post
+
 slug: just-discovered-accidentally-in-gmail
 title: Just discovered accidentally - In GMail ...
 wordpress_id: 53

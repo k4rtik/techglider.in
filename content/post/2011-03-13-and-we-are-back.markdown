@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2011-03-13 07:43:51+05:30
-layout: post
+
 slug: and-we-are-back
 title: '...and, we''re back!'
 wordpress_id: 295

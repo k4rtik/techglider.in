@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-08-11 00:23:26+05:30
-layout: post
+
 slug: tutorials-on-techglider-site-are-fully-functional-now
 title: Tutorials on TechGlider site are fully functional now!
 wordpress_id: 67

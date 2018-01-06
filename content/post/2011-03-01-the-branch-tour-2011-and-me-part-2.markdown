@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2011-03-01 02:30:42+05:30
-layout: post
+
 slug: the-branch-tour-2011-and-me-part-2
 title: The Branch Tour 2011 and me (Part 2)
 wordpress_id: 134

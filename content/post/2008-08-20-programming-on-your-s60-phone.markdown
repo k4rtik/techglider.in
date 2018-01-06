@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-08-20 00:44:11+05:30
-layout: post
+
 slug: programming-on-your-s60-phone
 title: Programming on your S60 phone!
 wordpress_id: 318

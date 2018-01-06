@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-09-19 15:08:30+05:30
-layout: post
+
 slug: essential-software-for-a-working-ubuntu-9-04-desktop
 title: Essential software for a working Ubuntu 9.04 Desktop
 wordpress_id: 351

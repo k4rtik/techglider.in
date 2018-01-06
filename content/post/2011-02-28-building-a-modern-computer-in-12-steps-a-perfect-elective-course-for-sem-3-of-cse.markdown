@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2011-02-28 17:01:40+05:30
-layout: post
+
 slug: building-a-modern-computer-in-12-steps-a-perfect-elective-course-for-sem-3-of-cse
 title: Building a Modern Computer in 12 Steps - A Perfect Elective Course for Sem
   3 of CSE

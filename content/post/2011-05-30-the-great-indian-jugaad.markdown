@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2011-05-30 15:08:26+05:30
-layout: post
+
 slug: the-great-indian-jugaad
 title: The Great Indian Jugaad
 wordpress_id: 225

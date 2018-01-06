@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-11-29 17:23:55+05:30
-layout: post
+
 slug: going-home-after-135-days
 title: Going home after 135 days
 wordpress_id: 236

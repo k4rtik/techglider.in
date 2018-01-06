@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-10-15 16:29:33+05:30
-layout: post
+
 slug: dr-apj-abdul-kalams-visit-to-nit-calicut
 title: Dr. APJ Abdul Kalam's visit to NIT Calicut
 wordpress_id: 199

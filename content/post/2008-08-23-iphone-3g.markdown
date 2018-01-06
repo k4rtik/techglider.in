@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-08-23 15:23:35+05:30
-layout: post
+
 slug: iphone-3g
 title: iPhone 3G
 wordpress_id: 346

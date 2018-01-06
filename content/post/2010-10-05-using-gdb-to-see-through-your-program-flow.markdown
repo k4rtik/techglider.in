@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2010-10-05 11:37:00+05:30
-layout: post
+
 slug: using-gdb-to-see-through-your-program-flow
 title: Using gdb to see through your program flow!
 wordpress_id: 8

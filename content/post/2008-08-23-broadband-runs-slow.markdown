@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-08-23 16:29:19+05:30
-layout: post
+
 slug: broadband-runs-slow
 title: Broadband runs slow?
 wordpress_id: 334

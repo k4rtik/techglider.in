@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2011-06-01 19:56:00+05:30
-layout: post
+
 slug: sharing-internet-connection-from-my-laptop-to-my-android-based-phone
 title: Sharing Internet Connection from my Laptop to my Android-based Phone
 wordpress_id: 226

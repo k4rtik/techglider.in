@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2011-06-29 18:30:56+05:30
-layout: post
+
 slug: use-rfkill-to-enabledisable-wireless-on-your-linux-laptop
 title: Use rfkill to Enable/Disable Wireless on your Linux Laptop
 wordpress_id: 277

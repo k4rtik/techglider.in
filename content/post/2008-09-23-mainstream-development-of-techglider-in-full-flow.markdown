@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-09-23 00:31:45+05:30
-layout: post
+
 slug: mainstream-development-of-techglider-in-full-flow
 title: Mainstream development of TechGlider in full flow
 wordpress_id: 37

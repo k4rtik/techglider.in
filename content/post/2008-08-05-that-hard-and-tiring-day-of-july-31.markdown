@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-08-05 14:22:47+05:30
-layout: post
+
 slug: that-hard-and-tiring-day-of-july-31
 title: That hard and tiring day of July 31
 wordpress_id: 26

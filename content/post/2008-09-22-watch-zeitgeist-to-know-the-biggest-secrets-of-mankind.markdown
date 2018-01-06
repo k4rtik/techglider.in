@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-09-22 08:10:38+05:30
-layout: post
+
 slug: watch-zeitgeist-to-know-the-biggest-secrets-of-mankind
 title: Watch Zeitgeist to know the biggest secrets of mankind
 wordpress_id: 331

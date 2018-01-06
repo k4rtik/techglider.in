@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2011-03-27 08:28:01+05:30
-layout: post
+
 slug: bash-script-to-download-mit-ocw-videos
 title: Bash Script to Download MIT OCW Videos
 wordpress_id: 393

@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2011-07-10 18:37:01+05:30
-layout: post
+
 slug: disconnect-an-experiment
 title: Disconnect - An Experiment
 wordpress_id: 301

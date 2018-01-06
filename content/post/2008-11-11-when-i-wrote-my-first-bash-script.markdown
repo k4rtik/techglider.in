@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-11-11 04:32:36+05:30
-layout: post
+
 slug: when-i-wrote-my-first-bash-script
 title: When I wrote my first bash script...
 wordpress_id: 86

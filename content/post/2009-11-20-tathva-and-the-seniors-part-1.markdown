@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-11-20 17:55:21+05:30
-layout: post
+
 slug: tathva-and-the-seniors-part-1
 title: Tathva and the Seniors - Part 1
 wordpress_id: 210

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-11-15 08:34:33+05:30
-layout: post
+
 slug: this-is-how-a-budding-engineer-searches-for-his-glasses
 title: This is How a Budding Engineer Searches for his Glasses
 wordpress_id: 223

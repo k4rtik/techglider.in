@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-07-31 00:44:02+05:30
-layout: post
+
 slug: finally-a-website-of-my-own
 title: Finally a website of my own!
 wordpress_id: 1

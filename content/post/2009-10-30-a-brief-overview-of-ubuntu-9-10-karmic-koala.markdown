@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-10-30 17:06:05+05:30
-layout: post
+
 slug: a-brief-overview-of-ubuntu-9-10-karmic-koala
 title: A Brief Overview of Ubuntu 9.10 Karmic Koala
 wordpress_id: 206

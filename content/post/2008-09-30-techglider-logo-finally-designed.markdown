@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-09-30 04:48:54+05:30
-layout: post
+
 slug: techglider-logo-finally-designed
 title: TechGlider logo, finally designed
 wordpress_id: 35

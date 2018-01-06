@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-04-30 15:35:38+05:30
-layout: post
+
 slug: recommended-software-for-a-new-ubuntu-install
 title: Recommended software for a new Ubuntu install
 wordpress_id: 365

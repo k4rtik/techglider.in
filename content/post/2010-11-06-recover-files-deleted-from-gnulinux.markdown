@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2010-11-06 15:43:00+05:30
-layout: post
+
 slug: recover-files-deleted-from-gnulinux
 title: Recover files deleted from GNU/Linux
 wordpress_id: 5

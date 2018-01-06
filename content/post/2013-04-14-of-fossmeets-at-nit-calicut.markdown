@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2013-04-14 08:33:41+05:30
-layout: post
+
 slug: of-fossmeets-at-nit-calicut
 title: Of FOSSMeets at NIT Calicut
 wordpress_id: 412

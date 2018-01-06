@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-10-06 23:46:23+05:30
-layout: post
+
 slug: welcome-to-the-all-new-techglider-blog
 title: Welcome to the All New TechGlider Blog
 wordpress_id: 77

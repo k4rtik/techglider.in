@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-08-10 03:22:49+05:30
-layout: post
+
 slug: download-whole-websites-for-offline-browsing
 title: Download whole websites for offline browsing
 wordpress_id: 70

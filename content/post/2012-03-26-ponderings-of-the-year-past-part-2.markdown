@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2012-03-26 21:03:03+05:30
-layout: post
+
 slug: ponderings-of-the-year-past-part-2
 title: 'Ponderings of the Year Past: Part 2'
 wordpress_id: 409

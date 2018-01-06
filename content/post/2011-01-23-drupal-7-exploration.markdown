@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2011-01-23 12:51:45+05:30
-layout: post
+
 slug: drupal-7-exploration
 title: Drupal 7 Exploration
 wordpress_id: 87

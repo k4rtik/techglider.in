@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2010-12-23 11:47:26+05:30
-layout: post
+
 slug: replaced-my-studio-xps-screen-and-palm-rest
 title: Replaced my Studio XPS screen and palm rest
 wordpress_id: 39

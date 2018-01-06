@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2008-03-24 23:17:00+05:30
-layout: post
+
 slug: use-the-world-class-ide-and-compiler-for-c-for-free
 title: Use the World Class IDE and Compiler for C++ for Free
 wordpress_id: 12

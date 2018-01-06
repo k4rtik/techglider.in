@@ -4,7 +4,7 @@ comments: true
 date: 2008-08-03 00:31:32+05:30
 excerpt: July 30, 2008, the day when I decided to completely scrap off Windows XP
   :> and switched to linux as my only operating system...
-layout: post
+
 slug: my-entry-into-the-open-world-of-linux
 title: My entry into the open world of linux
 wordpress_id: 11

@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2013-04-19 14:39:46+05:30
-layout: post
+
 slug: found-the-culprit-for-a-long-standing-problem
 title: Found the culprit for a long standing problem...
 wordpress_id: 588

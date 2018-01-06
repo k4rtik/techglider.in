@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-12-31 10:30:30+05:30
-layout: post
+
 slug: easter-egg-on-google-new-year-2010-countdown
 title: 'Easter egg on Google: New Year 2010 Countdown'
 wordpress_id: 241

@@ -4,7 +4,7 @@ comments: true
 date: 2008-08-01 02:12:02+05:30
 excerpt: TechGlider.com as its name suggests would take you gliding into the world
   of tech...
-layout: post
+
 slug: all-about-techglider
 title: All about TechGlider
 wordpress_id: 6

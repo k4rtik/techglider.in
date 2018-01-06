@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2011-07-08 18:30:21+05:30
-layout: post
+
 slug: easiest-way-to-setup-a-web-development-environment-on-ubuntu-based-distros
 title: Easiest Way to Setup a Web Development Environment on Ubuntu-based Distros
 wordpress_id: 231

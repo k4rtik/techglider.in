@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-02-26 08:15:14+05:30
-layout: post
+
 slug: status-update-feb-26-2010
 title: 'Status Update: Feb 26, 2010'
 wordpress_id: 247

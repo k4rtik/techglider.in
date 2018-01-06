@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-08-17 07:28:58+05:30
-layout: post
+
 slug: recommended-addons-for-mozilla-firefox
 title: Recommended Addons for Mozilla Firefox
 wordpress_id: 321

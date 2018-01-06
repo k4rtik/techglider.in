@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2008-03-11 00:23:00+05:30
-layout: post
+
 slug: my-first-post-and-myself-poured-out-for-the-day
 title: My First Post and Myself Poured Out for the Day
 wordpress_id: 18

@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2010-12-18 11:23:23+05:30
-layout: post
+
 slug: foss-in-just-got-over-and-it-was-the-la
 title: FOSS.IN just got over. And it was the la...
 wordpress_id: 30

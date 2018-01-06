@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-05-22 05:16:56+05:30
-layout: post
+
 slug: no-not-again
 title: No! Not again!
 wordpress_id: 147

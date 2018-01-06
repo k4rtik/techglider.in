@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-09-08 17:24:44+05:30
-layout: post
+
 slug: going-away-from-home
 title: Going away from home....
 wordpress_id: 50

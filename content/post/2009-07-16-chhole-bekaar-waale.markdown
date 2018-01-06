@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-07-16 23:14:21+05:30
-layout: post
+
 slug: chhole-bekaar-waale
 title: Chhole Bekaar Waale...??
 wordpress_id: 152

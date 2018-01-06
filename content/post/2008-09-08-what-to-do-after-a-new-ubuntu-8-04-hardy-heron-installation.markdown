@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-09-08 10:52:09+05:30
-layout: post
+
 slug: what-to-do-after-a-new-ubuntu-8-04-hardy-heron-installation
 title: What to do after a new Ubuntu 8.04 Hardy Heron installation?
 wordpress_id: 355

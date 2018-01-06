@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-09-07 14:52:21+05:30
-layout: post
+
 slug: a-guide-to-installing-fedora-9-part-2
 title: 'A Guide to Installing Fedora 9: Part 2'
 wordpress_id: 326

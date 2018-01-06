@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2013-04-20 12:16:13+05:30
-layout: post
+
 slug: it-feels-so-relieving-to-get-your-lost
 title: It feels so relieving to get your lost...
 wordpress_id: 592

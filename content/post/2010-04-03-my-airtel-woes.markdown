@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2010-04-03 18:29:11+05:30
-layout: post
+
 slug: my-airtel-woes
 title: My Airtel Woes
 wordpress_id: 272

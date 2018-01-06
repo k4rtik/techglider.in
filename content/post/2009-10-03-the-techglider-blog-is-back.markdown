@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-10-03 09:11:09+05:30
-layout: post
+
 slug: the-techglider-blog-is-back
 title: The TechGlider Blog is back
 wordpress_id: 179

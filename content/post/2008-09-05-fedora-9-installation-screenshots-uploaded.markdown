@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-09-05 12:59:14+05:30
-layout: post
+
 slug: fedora-9-installation-screenshots-uploaded
 title: Fedora 9 Installation Screenshots uploaded
 wordpress_id: 52

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-08-31 00:03:57+05:30
-layout: post
+
 slug: its-a-monthiversary
 title: It's a Monthiversary!!
 wordpress_id: 54

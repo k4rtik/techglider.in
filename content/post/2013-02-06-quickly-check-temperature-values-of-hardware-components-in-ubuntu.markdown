@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2013-02-06 15:55:08+05:30
-layout: post
+
 slug: quickly-check-temperature-values-of-hardware-components-in-ubuntu
 title: Quickly Check Temperature Values of Hardware Components in Ubuntu
 wordpress_id: 427

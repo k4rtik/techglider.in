@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2013-04-19 14:55:02+05:30
-layout: post
+
 slug: another-strange-thing-and-a-big-lesson-learned
 title: Another strange thing and a big lesson learned...
 wordpress_id: 590

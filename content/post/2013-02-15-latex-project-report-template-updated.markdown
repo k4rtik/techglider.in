@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2013-02-15 14:36:40+05:30
-layout: post
+
 slug: latex-project-report-template-updated
 title: LaTeX Project Report Template Updated
 wordpress_id: 562

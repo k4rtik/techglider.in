@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2011-03-09 19:01:21+05:30
-layout: post
+
 slug: really-achieving-your-childhood-dreams-the-last-lecture
 title: Really Achieving Your Childhood Dreams - The Last Lecture
 wordpress_id: 151

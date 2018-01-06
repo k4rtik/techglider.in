@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-01-30 02:23:02+05:30
-layout: post
+
 slug: too-busy-to-write-a-post
 title: Too busy to write a post
 wordpress_id: 117

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-09-14 11:52:29+05:30
-layout: post
+
 slug: back-with-a-blast-actually-5
 title: Back with a blast (actually 5) ...
 wordpress_id: 40

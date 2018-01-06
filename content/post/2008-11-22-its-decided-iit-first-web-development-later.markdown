@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-11-22 05:15:06+05:30
-layout: post
+
 slug: its-decided-iit-first-web-development-later
 title: 'It''s decided: IIT first, Web Development later'
 wordpress_id: 93

@@ -2,7 +2,7 @@
 author: kartiksinghal
 comments: true
 date: 2011-01-05 20:25:41+05:30
-layout: post
+
 slug: the-pleasure-of-finding-things-out
 title: The Pleasure of Finding Things Out
 wordpress_id: 66

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2008-08-16 11:09:09+05:30
-layout: post
+
 slug: my-pcs-configuration
 title: My PC's configuration
 wordpress_id: 310

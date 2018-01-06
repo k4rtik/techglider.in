@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-04-30 05:15:42+05:30
-layout: post
+
 slug: surprise-and-some-news
 title: Surprise and some news
 wordpress_id: 127

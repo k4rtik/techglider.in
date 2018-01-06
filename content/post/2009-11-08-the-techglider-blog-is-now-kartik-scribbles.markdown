@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-11-08 11:28:34+05:30
-layout: post
+
 slug: the-techglider-blog-is-now-kartik-scribbles
 title: The TechGlider Blog is now Kartik Scribbles...
 wordpress_id: 221

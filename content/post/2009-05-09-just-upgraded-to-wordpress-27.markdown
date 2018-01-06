@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2009-05-09 09:45:26+05:30
-layout: post
+
 slug: just-upgraded-to-wordpress-27
 title: Just upgraded to WordPress 2.7
 wordpress_id: 134
