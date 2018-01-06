@@ -17,12 +17,15 @@ MetaDataFormat = "yaml"
 [[menu.main]]
     name = "Posts"
     url = "/post"
+    weight = 1
 [[menu.main]]
     name = "Quotes"
     url = "/quote"
+    weight = 2
 [[menu.main]]
     name = "Statuses"
     url = "/status"
+    weight = 3
 [[menu.main]]
     name = "About"
     url = "/about"
