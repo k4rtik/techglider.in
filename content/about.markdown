@@ -23,15 +23,11 @@ You may also find me on:
 
 * ![](https://d35aaqx5ub95lt.cloudfront.net/favicon.ico)[ Duolingo](https://www.duolingo.com/k4rtik)
 
-* ![](https://plus.google.com/_/favicon?domain=facebook.com)[ ~~Facebook~~](https://www.facebook.com/kartiksinghal) (on and off)
-
 * ![](https://plus.google.com/_/favicon?domain=github.com)[ GitHub](https://github.com/k4rtik)
 
 * ![](https://plus.google.com/_/favicon?domain=goodreads.com)[ Goodreads](https://www.goodreads.com/k4rtik)
 
 * ![](https://plus.google.com/_/favicon?domain=exposure.co)[ Exposure](https://www.k4rtik.me/) _Photos_ 🆕
-
-* ![](https://plus.google.com/_/favicon?domain=instagram.com)[ Instagram](https://instagram.com/k4rtik/)
 
 * ![](https://plus.google.com/_/favicon?domain=keybase.io)[ Keybase](https://keybase.io/k4rtik)
 
@@ -39,15 +35,19 @@ You may also find me on:
 
 * ![](https://plus.google.com/_/favicon?domain=messenger.com)[ Messenger](https://m.me/kartiksinghal)
 
+* ![](http://kartik.in.net/favicon.ico) [ Personal Homepage](http://kartik.in.net/) 🆕
+
 * ![](https://plus.google.com/_/favicon?domain=strava.com)[ Strava](https://www.strava.com/athletes/kartik)
 
 * ![](https://plus.google.com/_/favicon?domain=techglider.github.io)[ The TechGlider](https://techglider.github.io/) _Research Blog_
 
-* ![](https://twitter.com/favicon.ico)[ Twitter](https://twitter.com/k4rtik)
+* <img src="http://ks.cs.uchicago.edu/img/icon.png" height="16" width="16" />[ UChicago CS Homepage](http://ks.cs.uchicago.edu/) 🆕
 
 Unmaintained:
 
-* ![](http://cse.nitc.ac.in/favicon.ico)[ NITC CSE People Portal](http://people.cse.nitc.ac.in/kartik)
+* ![](http://people.cse.nitc.ac.in/sites/default/files/favicon.ico)[ NITC CSE People Portal](http://people.cse.nitc.ac.in/kartik)
+
+* ![](https://plus.google.com/_/favicon?domain=facebook.com)[ Facebook](https://www.facebook.com/kartiksinghal)
 
 * ![](https://plus.google.com/_/favicon?domain=flickr.com)[ Flickr](https://www.flickr.com/photos/techglider)
 
@@ -56,6 +56,8 @@ Unmaintained:
 * ![](https://plus.google.com/_/favicon?domain=plus.google.com)[ Google+](https://plus.google.com/+KartikSinghal/about)
 
 * <img src="https://news.ycombinator.com/y18.gif" height="16" width="16" />[ Hacker News](https://news.ycombinator.com/user?id=k4rtik)
+
+* ![](https://plus.google.com/_/favicon?domain=instagram.com)[ Instagram](https://instagram.com/k4rtik/)
 
 * ![](https://plus.google.com/_/favicon?domain=k4rtik.wordpress.com)[ Kartik Scribbles...](http://k4rtik.wordpress.com) _Old Blog_
 
@@ -70,5 +72,7 @@ Unmaintained:
 * ![](https://plus.google.com/_/favicon?domain=slides.com)[ Slides](https://slides.com/k4rtik)
 
 * ![](https://plus.google.com/_/favicon?domain=slideshare.net)[ SlideShare](http://www.slideshare.net/kartiksinghal)
+
+* ![](https://twitter.com/favicon.ico)[ Twitter](https://twitter.com/k4rtik)
 
 * ![](https://plus.google.com/_/favicon?domain=yelp.com)[ Yelp](https://k4rtik.yelp.com)
