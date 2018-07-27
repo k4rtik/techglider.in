@@ -10,7 +10,7 @@ MetaDataFormat = "yaml"
 
 [params]
   author = "Kartik Singhal"
-  copyright = "Copyright © 2008-2017 Kartik Singhal."
+  copyright = "Copyright © 2008-2018 Kartik Singhal."
   gaCode = "UA-57213074-1"
   disqusShortname = "techglider"
 

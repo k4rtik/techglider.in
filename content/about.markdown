@@ -41,6 +41,8 @@ You may also find me on:
 
 * ![](https://plus.google.com/_/favicon?domain=techglider.github.io)[ The TechGlider](https://techglider.github.io/) _Research Blog_
 
+* ![](https://twitter.com/favicon.ico)[ Twitter](https://twitter.com/k4rtik)
+
 * <img src="http://ks.cs.uchicago.edu/img/icon.png" height="16" width="16" />[ UChicago CS Homepage](http://ks.cs.uchicago.edu/) 🆕
 
 Unmaintained:
@@ -72,7 +74,5 @@ Unmaintained:
 * ![](https://plus.google.com/_/favicon?domain=slides.com)[ Slides](https://slides.com/k4rtik)
 
 * ![](https://plus.google.com/_/favicon?domain=slideshare.net)[ SlideShare](http://www.slideshare.net/kartiksinghal)
-
-* ![](https://twitter.com/favicon.ico)[ Twitter](https://twitter.com/k4rtik)
 
 * ![](https://plus.google.com/_/favicon?domain=yelp.com)[ Yelp](https://k4rtik.yelp.com)
