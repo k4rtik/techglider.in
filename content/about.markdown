@@ -11,7 +11,7 @@ Hi there,
 
 I am Kartik.
 
-I am interested in Programming Languages and Systems in general and Concurrency and Distributed Systems in particular and am pursuing these interests in a rigorous academic setting as a PhD student at the [Department of Computer Science](https://cs.uchicago.edu/) at [the University of Chicago (UChicago)](http://www.uchicago.edu/).
+I am interested in Programming Languages and Systems and am pursuing these interests in a rigorous academic setting as a PhD student at the [Department of Computer Science](https://cs.uchicago.edu/) at [the University of Chicago (UChicago)](http://www.uchicago.edu/).
 
 I [finished](https://techglider.github.io/update/how-to-reason-about-correctness-of-programs-designed-for-non-volatile-memory/) my master's in [Computer Science](https://cs.brown.edu) at [Brown University](https://www.brown.edu/). During and around my time at Brown, I did summer internships at [Pure Storage](https://www.purestorage.com/) and [Hewlett Packard Labs](https://www.labs.hpe.com/). Before that, I worked at Oracle India Development Center, Bangalore as Member Technical Staff. And before that, I finished my BTech in [Computer Science & Engineering at National Institute of Technology Calicut](http://cse.nitc.ac.in) in 2013.
 
@@ -21,13 +21,9 @@ This website [originally started](/post/2008/08/01/all-about-techglider/) as a w
 
 You may also find me on:
 
-* ![](https://d35aaqx5ub95lt.cloudfront.net/favicon.ico)[ Duolingo](https://www.duolingo.com/k4rtik)
-
 * ![](https://plus.google.com/_/favicon?domain=github.com)[ GitHub](https://github.com/k4rtik)
 
 * ![](https://plus.google.com/_/favicon?domain=goodreads.com)[ Goodreads](https://www.goodreads.com/k4rtik)
-
-* ![](https://plus.google.com/_/favicon?domain=exposure.co)[ Exposure](https://www.k4rtik.me/) _Photos_ 🆕
 
 * ![](https://plus.google.com/_/favicon?domain=keybase.io)[ Keybase](https://keybase.io/k4rtik)
 
@@ -48,6 +44,10 @@ You may also find me on:
 Unmaintained:
 
 * ![](http://people.cse.nitc.ac.in/sites/default/files/favicon.ico)[ NITC CSE People Portal](http://people.cse.nitc.ac.in/kartik)
+
+* ![](https://d35aaqx5ub95lt.cloudfront.net/favicon.ico)[ Duolingo](https://www.duolingo.com/k4rtik)
+
+* ![](https://plus.google.com/_/favicon?domain=exposure.co)[ Exposure](https://www.k4rtik.me/) _Photos_ ([Archive](https://web.archive.org/web/20181012164942/https://www.k4rtik.me/))
 
 * ![](https://plus.google.com/_/favicon?domain=facebook.com)[ Facebook](https://www.facebook.com/kartiksinghal)
 
