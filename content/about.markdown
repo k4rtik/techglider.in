@@ -31,7 +31,7 @@ You may also find me on:
 
 * ![](https://plus.google.com/_/favicon?domain=messenger.com)[ Messenger](https://m.me/kartiksinghal)
 
-* ![](http://kartik.in.net/favicon.ico) [ Personal Homepage](http://kartik.in.net/) 🆕
+* ![](http://kartik.in.net/favicon.ico) [ Personal Homepage](http://kartik.in.net/)
 
 * ![](https://plus.google.com/_/favicon?domain=strava.com)[ Strava](https://www.strava.com/athletes/kartik)
 
@@ -39,7 +39,7 @@ You may also find me on:
 
 * ![](https://twitter.com/favicon.ico)[ Twitter](https://twitter.com/k4rtik)
 
-* <img src="http://ks.cs.uchicago.edu/img/icon.png" height="16" width="16" />[ UChicago CS Homepage](http://ks.cs.uchicago.edu/) 🆕
+* <img src="http://ks.cs.uchicago.edu/img/icon.png" height="16" width="16" />[ UChicago CS Homepage](http://ks.cs.uchicago.edu/)
 
 Unmaintained:
 
@@ -47,7 +47,7 @@ Unmaintained:
 
 * ![](https://d35aaqx5ub95lt.cloudfront.net/favicon.ico)[ Duolingo](https://www.duolingo.com/k4rtik)
 
-* ![](https://plus.google.com/_/favicon?domain=exposure.co)[ Exposure](https://www.k4rtik.me/) _Photos_ ([Archive](https://web.archive.org/web/20181012164942/https://www.k4rtik.me/))
+* ![](https://plus.google.com/_/favicon?domain=exposure.co)[ ~~Exposure~~](https://www.k4rtik.me/) _Photos_ ([Archive](https://web.archive.org/web/20181012164942/https://www.k4rtik.me/))
 
 * ![](https://plus.google.com/_/favicon?domain=facebook.com)[ Facebook](https://www.facebook.com/kartiksinghal)
 
