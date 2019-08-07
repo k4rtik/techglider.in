@@ -29,8 +29,6 @@ You may also find me on:
 
 * ![](https://plus.google.com/_/favicon?domain=linkedin.com)[ LinkedIn](https://www.linkedin.com/in/kartiksinghal)
 
-* ![](https://plus.google.com/_/favicon?domain=messenger.com)[ Messenger](https://m.me/kartiksinghal)
-
 * ![](http://kartik.in.net/favicon.ico) [ Personal Homepage](http://kartik.in.net/)
 
 * ![](https://plus.google.com/_/favicon?domain=strava.com)[ Strava](https://www.strava.com/athletes/kartik)
@@ -45,17 +43,13 @@ Unmaintained:
 
 * ![](http://people.cse.nitc.ac.in/sites/default/files/favicon.ico)[ NITC CSE People Portal](http://people.cse.nitc.ac.in/kartik)
 
-* ![](https://d35aaqx5ub95lt.cloudfront.net/favicon.ico)[ Duolingo](https://www.duolingo.com/k4rtik)
+* <img src="https://d35aaqx5ub95lt.cloudfront.net/favicon.ico" height="16" width="16" />[ Duolingo](https://www.duolingo.com/k4rtik)
 
-* ![](https://plus.google.com/_/favicon?domain=exposure.co)[ ~~Exposure~~](https://www.k4rtik.me/) _Photos_ ([Archive](https://web.archive.org/web/20181012164942/https://www.k4rtik.me/))
+* ![](https://plus.google.com/_/favicon?domain=exposure.co)[ Exposure](https://k4rtik.exposure.co/) _Photos_
 
 * ![](https://plus.google.com/_/favicon?domain=facebook.com)[ Facebook](https://www.facebook.com/kartiksinghal)
 
 * ![](https://plus.google.com/_/favicon?domain=flickr.com)[ Flickr](https://www.flickr.com/photos/techglider)
-
-* ![](https://plus.google.com/_/favicon?domain=picasa.google.com)[ Google Album Archive (formerly Picasa Web)](https://get.google.com/albumarchive/103572561582880171863)
-
-* ![](https://plus.google.com/_/favicon?domain=plus.google.com)[ Google+](https://plus.google.com/+KartikSinghal/about)
 
 * <img src="https://news.ycombinator.com/y18.gif" height="16" width="16" />[ Hacker News](https://news.ycombinator.com/user?id=k4rtik)
 
