@@ -87,7 +87,7 @@ helped me grow in past and, I hope, will do the same in future.
 
 I have been thinking about writing a couple of posts for sometime:
 
-{{< tweet 604274074324369408 >}}
+{{< tweet user="k4rtik" id="604274074324369408" >}}
 
 1. About my journey at Oracle in past two years as I previously announced on
 Twitter.

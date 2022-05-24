@@ -28,8 +28,8 @@ Anyway, you can follow most of the updates from me on Twitter: [twitter.com/k4rt
 
 My reason of worry is:
 
-{{< tweet 11093644655 >}}
+{{< tweet user="k4rtik" id="11093644655" >}}
 
 The above quote was my [Twitter post](http://twitter.com/k4rtik/statuses/11093644655) about 18 hours ago. And [the following](http://twitter.com/k4rtik/status/11093507431) a little before the above:
 
-{{< tweet 11093507431 >}}
+{{< tweet user="k4rtik" id="11093507431" >}}

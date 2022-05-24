@@ -35,7 +35,7 @@ The third reason was not much comprehensible to me, and the second is pretty obv
 
 I have been inspired a lot by one of my seniors who has been offered fully funded [PhD](http://en.wikipedia.org/wiki/Doctor_of_Philosophy) from 2 [US universities](http://en.wikipedia.org/wiki/Higher_education_in_the_United_States) and is leaving for the US soon leaving a major job offer from Amazon India. I have never given a serious thought to moving out of India but that discussion with Rath mam gave me a new insight to think over things. Also, perhaps it was just co-incidence just a day before meeting mam I [tweeted](https://twitter.com/#!/k4rtik/status/90087100115984384):
 
-{{< tweet 90087100115984384 >}}
+{{< tweet user="k4rtik" id="90087100115984384" >}}
 
 And it was yesterday, in the morning, I was thinking about what happened of application for [passport](http://en.wikipedia.org/wiki/Passport) which I submitted last March in college (even this application got submitted only because there was this passport camp in college during the time, otherwise I might not have applied myself). I had heard about the difficulties in obtaining the passport from relatives and friends and how one has to bribe the policemen and officers involved to get it done. Anyhow, it was another co-incidence, that the same day my friend Mukul informed me that he got a call for my passport verification and I was informed through a call that I need to submit a few documents at Women's [Police Station](http://en.wikipedia.org/wiki/Police_station), near Lohiya Nagar.
 

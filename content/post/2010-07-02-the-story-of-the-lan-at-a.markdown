@@ -26,11 +26,11 @@ It all started with a challenge I accepted from Aakash to bring the LAN to A Hos
 
 [One of my tweets on Jan 5](https://twitter.com/k4rtik/status/7406464108) read:
 
-{{< tweet 7406464108 >}}
+{{< tweet user="k4rtik" id="7406464108" >}}
 
 And [one by Pranav Ashok on Feb 26](http://twitter.com/pranavashok/statuses/9638564431)
 
-{{< tweet 9638564431 >}}
+{{< tweet user="k4rtik" id="9638564431" >}}
 
 The first tweet refers to my being scolded by one of the wardens of A Hostel Dr. Sameer SM regarding the delay I caused in talking to him after meeting the Chief Warden and earlier the Faculty-in-charge of CNC. The second, of course, you can understand.
 

@@ -8,7 +8,7 @@ title: 100 Days of Grammati
 
 [Haris](https://sosaysharis.wordpress.com/) had posted the following tweet few months ago:
 
-{{< tweet 540692072399773696 >}}
+{{< tweet user="k4rtik" id="540692072399773696" >}}
 
 After quickly checking out grammati.com, I had signed up. Received the following email this morning (for some reason Google decided to mark this as spam for the first time) and I thought it was time to spread the word:
 
