@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/k4rtik
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://techglider.in
+  * I am k4rtik (https://keybase.io/k4rtik) on keybase.
+  * I have a public key with fingerprint E53F 7004 EAA7 3D1F 33CF  35AB 8868 ADA4 B129 C858
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.3"
+        },
+        "key": {
+            "fingerprint": "e53f7004eaa73d1f33cf35ab8868ada4b129c858",
+            "host": "keybase.io",
+            "key_id": "8868ADA4B129C858",
+            "uid": "ba23d02816b6c669ff5c6c5a2eafbd00",
+            "username": "k4rtik"
+        },
+        "merkle_root": {
+            "ctime": 1420827137,
+            "hash": "2a2dfcc748bca3f224ec1dd2551e22dcffe077bc98e61e6fff955089179123076a5962e829c5e50bc766e66cdd29dae9936fc389d2e8e003d72b128d9f5e4652",
+            "seqno": 126266
+        },
+        "service": {
+            "hostname": "techglider.in",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1420827226,
+    "expire_in": 157680000,
+    "prev": "6b97dbf97a3b640efee0614ec74fc7c1c06a672d12df27f227155bc66c9de50b",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFVkm1QFVUYxy8XLTSVl9Ts6oy06WhozO7Z3bO72FhcxAYU0ks1BpPX3bNnucuF
+u5fdC4h61T4AaTFg8IGmUWtGG50gUBtm8K0g5U0aGDHMtEgtQUQbP4hMvtBZX6Y8
+n/bs+T3/8/z/z6meHulwRnzsa9h36LXOdRFnriuOd5tc2ZspxVBLqaTNFMrXcSBk
+fwXkAkwlUX5cqsgWTtSN+ICh4sQ8K/4Js5QqxqalGwFC0YlCIkuFl9q4XazpgVxs
+Bk3d1qIwz2oCTXNYlgVWZTSWRRrLy4ooQlFWZU5hgIREXiSSPsMKPXMr9UjTq6vk
+r80nr0jm3IRPecwXPTpQZMCqNBAZqEAEoaRpPIKIlwGWNUWlaRu0sPnUEmeGdL/d
+bQE2/fnYaxrGI8sopNsAwwFaBALDCqQf2fKREiADVUNI4EQFyawGAIcRo6qA5xkM
+gIo0DdOCoCBJxJDBUNM0iedpUWIEiQEsLUCZlyDAIvHJY55WkAAhhhARCUmVsSSx
+UEOsKKmEwTTNqgIgoYiqpPGYgzwgBixcGDBIcwACCMP23izWEbb7tkN74i2EkS83
+X1exmagHSFXQNEIGMvLJkS8UCibZrkOlQRstwYrXqn+s4lX0gEpm9v+hMgR9NhEA
+4FIKbwzqJvbqNsELUKTJsu/BxUQTKpKgKpokyKwCORprGNOQIWEJnIYExCAaylAA
+KkPiBALJUWB4XiEjQ5Jq5/KfT5b0KecSSUvPDcihIhNT4R3OeZMcEU7Hc5Od9qt1
+TJ0S8/Qpj4nRE0Wpd96uPvxgyrW+Uofvp69i410znw9UJNw65u27e27D2t3rdqQk
+zTj1T9X183uMh3mx6+OX7c3fEJmW/v2WhJnTF7yZ2e9v6fgmLrjfqkyv8fXPrU1v
+34c+f7Cr8P2963tjVoxrppGJmloDneUfjBv3XLG9d9NbM1yuP6I+3eR3b29+eK+h
+atGsyxNKinNkOT4+kN2UkR9uc74UXTJHOvoRe7+8ccaDHnTq/Indv0Slhuo9dUeK
+w/1jS5oHNnWMtExvzOu+nVxtOTxTOW12Qv2d41+ePNAqnlg81ff6r3kMQrO7Kwpz
+bqIrs168VlG5WMg7OL5nnrR+yodUbnncAneG62p09bB8qcrxc/mxmu1p743/UJCt
+b6vrW7PvcL/b3NlzqdKK/Nr4q2Sw8mjW6Bzzs7bUhTvKGyZnbW0VY9vXthWtnBZs
+nhb7u+eQdnts26uvRN1s+q4mh3vBf3FZ8dD94mBOxsBR15+/nYupcNecVT2O4cx3
++r842X52ObWqp3PCs7JldN3+nWXHl1/OTsu8MZbiWZlwOk6df6Z9y8nCS1u7uldP
+S7sdrcTc6t1Vl11woXRwY1ct0/jyJ5tA2fZq7Qa1a8kMeGT0x9UH2+aH2y9eWHB1
+sP+NgivymrJJQ4MHs/i5bs/fDQPW6QNlOaf7rpe0lqZ3vFWb8e3VruHkVSNDOMev
+c13m6oVdi/4F
+=pS/9
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/k4rtik
+
+==================================================================

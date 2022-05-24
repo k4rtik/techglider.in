@@ -1,0 +1,81 @@
+<!doctype html><html xmlns=http://www.w3.org/1999/xhtml xml:lang=en lang=en-us><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1"><title>Use rfkill to Enable/Disable Wireless on your Linux Laptop &#183; The TechGlider</title><link rel=stylesheet href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600" type=text/css><link rel=stylesheet href=https://k4rtik.github.io/techglider.inlibraries/normalize.3.0.1.css><link rel=stylesheet href=https://k4rtik.github.io/techglider.incss/liquorice.css><link rel="shortcut icon" href=/favicon.ico><link rel=stylesheet href=//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/default.min.css><script src=//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js></script>
+<script>hljs.initHighlightingOnLoad()</script></head><body class=li-body><style type=text/css>input.gsc-input,.gsc-input-box,.gsc-input-box-hover,.gsc-input-box-focus,.gsc-search-button{box-sizing:content-box;line-height:normal}.gs-title{line-height:normal}table.gsc-table-result{border-collapse:separate}.gsc-input-box input{color:#000}.gsc-control-cse{padding:.1em 0 .5em 1em!important;width:14em!important;float:right;line-height:normal}input.gsc-search-button-v2{padding:6px 12px!important}.gsc-search-box-tools .gsc-search-box .gsc-input{padding-right:1px!important}</style><header class=li-page-header><div class=container><div class=row><div class="sixteen columns"><div class="li-brand li-left"><a href=https://k4rtik.github.io/techglider.in>The TechGlider</a></div><div class="li-menu li-right"><span class=li-menu-icon onclick='toggle("menu")'>&#9776;</span><ul id=menu2 class=li-menu-items><li><a href=/techglider.in/post>Posts</a></li><li><a href=/techglider.in/quote>Quotes</a></li><li><a href=/techglider.in/status>Statuses</a></li><li><a href=/techglider.in/about>About</a></li><li><script>(function(){var t,n="partner-pub-4463712641758053:o1e85jn1rm4",e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src=(document.location.protocol=="https:"?"https:":"http:")+"//www.google.com/cse/cse.js?cx="+n,t=document.getElementsByTagName("script")[0],t.parentNode.insertBefore(e,t)})()</script><gcse:search></gcse:search></li></ul></div></div></div><div class=row><div class="sixteen columns"><ul id=menu class="li-menu-items li-menu-mobile"><li><a href=/techglider.in/post>Posts</a></li><li><a href=/techglider.in/quote>Quotes</a></li><li><a href=/techglider.in/status>Statuses</a></li><li><a href=/techglider.in/about>About</a></li><li><gcse:search></gcse:search></li></ul></div></div></div></header><div class=container><div class=row><div class="sixteen columns"><article class=li-article><header class=li-article-header><h1 class=li-article-title>Use rfkill to Enable/Disable Wireless on your Linux Laptop</h1><time class=li-article-date>Wednesday, June 29, 2011</time></header><section><p><a href=http://commons.wikipedia.org/wiki/File:Wireless_network.jpg><img src=http://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wireless_network.jpg/300px-Wireless_network.jpg alt="This notebook computer is connected to a wirel&amp;hellip;"></a></p><p>Imagine a situation when you have to book an air/train ticket in a jiffy, or check an important mail quickly and the only option you have is a wi-fi connection from either your <a href=http://en.wikipedia.org/wiki/Smartphone>smart phone</a> or surroundings, and you have only some <a href=http://en.wikipedia.org/wiki/Linux>Linux</a> variant installed on your system. And even after installing all the necessary drivers, you are unable to get the wi-fi on your laptop working? Frustrating right? If yes, then you might want to read on about this useful utility called rfkill which you can keep in handy for those weary situations.</p><p>I own a Dell Studio XPS 1645 and have always found it cumbersome to get the wi-fi working on my system, mainly during those geek/hacker meetups, the only times I have to use <a href=http://en.wikipedia.org/wiki/Wi-Fi>wireless Internet</a>. I remember randomly switching wireless on and off through the hardware switch and rebooting my system multiple times in order to get it working. Well, this was the situation until I discovered rfkill - a tool for enabling and disabling <a href=http://en.wikipedia.org/wiki/Wireless>wireless devices</a> including <a href=http://en.wikipedia.org/wiki/Wireless_LAN>Wireless LAN</a>, <a href=http://en.wikipedia.org/wiki/Bluetooth>Bluetooth</a>, etc. Here follows a tutorial on how to use it (fire up the Terminal before proceeding):</p><p>rfkill&rsquo;s_ list_ command lets you see all the available devices, if you don&rsquo;t find any of your devices, make sure you have turned the hardware switch ON and have installed the drivers for each. Here is what I get on my system after enabling the hardware switch:</p><pre tabindex=0><code>kartik@PlatiniumLight ~ $ rfkill list
+0: brcmwl-0: Wireless LAN
+Soft blocked: yes
+Hard blocked: no
+1: dell-wifi: Wireless LAN
+Soft blocked: yes
+Hard blocked: no
+2: dell-wwan: Wireless WAN
+Soft blocked: yes
+Hard blocked: yes
+3: hci0: Bluetooth
+Soft blocked: no
+Hard blocked: no
+kartik@PlatiniumLight ~ $
+</code></pre><p>Apart from Bluetooth, I usually find all other devices to be in a random state of yes or no. To enable them, issue the <em>unblock</em> command as shown:</p><pre tabindex=0><code>kartik@PlatiniumLight ~ $ rfkill unblock 0
+kartik@PlatiniumLight ~ $ rfkill unblock 1
+kartik@PlatiniumLight ~ $ rfkill unblock 2
+kartik@PlatiniumLight ~ $ rfkill list
+0: brcmwl-0: Wireless LAN
+Soft blocked: no
+Hard blocked: yes
+1: dell-wifi: Wireless LAN
+Soft blocked: no
+Hard blocked: no
+2: dell-wwan: Wireless WAN
+Soft blocked: no
+Hard blocked: no
+3: hci0: Bluetooth
+Soft blocked: no
+Hard blocked: no
+kartik@PlatiniumLight ~ $
+</code></pre><p>You can also try using the <em>unblock all</em> command for enabling all the devices together:</p><pre tabindex=0><code>kartik@PlatiniumLight ~ $ rfkill unblock all
+</code></pre><p>Sometimes it happens that even after unblocking once, some device(s) may show up as blocked (see the 0th device above, which shows hard blocked as yes). To correct this just issue the unblock command again for that particular device:</p><pre tabindex=0><code>kartik@PlatiniumLight ~ $ rfkill unblock 0
+kartik@PlatiniumLight ~ $ rfkill list
+0: brcmwl-0: Wireless LAN
+Soft blocked: no
+Hard blocked: no
+1: dell-wifi: Wireless LAN
+Soft blocked: no
+Hard blocked: no
+2: dell-wwan: Wireless WAN
+Soft blocked: no
+Hard blocked: no
+3: hci0: Bluetooth
+Soft blocked: no
+Hard blocked: no
+kartik@PlatiniumLight ~ $
+</code></pre><p>When you get all the devices unblocked, you will not face any trouble connecting to wi-fi devices around. :-)</p><p><strong>Bonus Tip:</strong> If you have a common hardware switch for wireless radios, you can turn off additional devices like Bluetooth (or vice versa) to save some battery life using the <em>block</em> command of rfkill:</p><pre tabindex=0><code>kartik@PlatiniumLight ~ $ rfkill block 3
+kartik@PlatiniumLight ~ $ rfkill list
+0: dell-wifi: Wireless LAN
+Soft blocked: no
+Hard blocked: no
+1: dell-wwan: Wireless WAN
+Soft blocked: no
+Hard blocked: no
+2: brcmwl-0: Wireless LAN
+Soft blocked: no
+Hard blocked: no
+3: hci0: Bluetooth
+Soft blocked: yes
+Hard blocked: no
+kartik@PlatiniumLight ~ $
+</code></pre><p>Stay Dignified!</p><ul><li>Kartik</li></ul><p>Originally published at <a href=http://www.digimantra.com/linux/rfkill-enabledisable-wireless-linux-laptop/>http://www.digimantra.com/linux/rfkill-enabledisable-wireless-linux-laptop/</a></p></section><span class=li-article-taxonomies>Posted
+with tags
+<a href=https://k4rtik.github.io/techglider.intags/bluetooth>Bluetooth</a>
+<a href=https://k4rtik.github.io/techglider.intags/commands>commands</a>
+<a href=https://k4rtik.github.io/techglider.intags/data-communications>Data Communications</a>
+<a href=https://k4rtik.github.io/techglider.intags/dell>dell</a>
+<a href=https://k4rtik.github.io/techglider.intags/gnu/linux>gnu/linux</a>
+<a href=https://k4rtik.github.io/techglider.intags/hardware>Hardware</a>
+<a href=https://k4rtik.github.io/techglider.intags/informative>Informative</a>
+<a href=https://k4rtik.github.io/techglider.intags/laptop>laptop</a>
+<a href=https://k4rtik.github.io/techglider.intags/linux>Linux</a>
+<a href=https://k4rtik.github.io/techglider.intags/smartphone>Smartphone</a>
+<a href=https://k4rtik.github.io/techglider.intags/terminal>terminal</a>
+<a href=https://k4rtik.github.io/techglider.intags/ubuntu>ubuntu</a>
+<a href=https://k4rtik.github.io/techglider.intags/wi-fi>Wi-Fi</a>
+<a href=https://k4rtik.github.io/techglider.intags/wireless>Wireless</a>
+<a href=https://k4rtik.github.io/techglider.intags/wireless-lan>Wireless LAN</a>
+<a href=https://k4rtik.github.io/techglider.intags/xps>xps</a></span></article></div></div><div id=disqus_thread></div><script type=text/javascript>(function(){if(window.location.hostname=="localhost")return;var t,e=document.createElement("script");e.type="text/javascript",e.async=!0,t="techglider",e.src="//"+t+".disqus.com/embed.js",(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(e)})()</script><noscript>Please enable JavaScript to view the <a href=http://disqus.com/?ref_noscript>comments powered by Disqus.</a></noscript><div class="row li-pagination"><div class="eight columns"><div class=li-pagination-previous>Later article<br><a href=https://k4rtik.github.io/techglider.in/post/2011/06/25/restore-grub-in-ubuntu-after-installing-windows/>Restore GRUB in Ubuntu after installing Windows</a></div></div><div class="eight columns"><div class=li-pagination-next>Older article<br><a href=https://k4rtik.github.io/techglider.in/post/2011/07/08/easiest-way-to-setup-a-web-development-environment-on-ubuntu-based-distros/>Easiest Way to Setup a Web Development Environment on Ubuntu-based Distros</a></div></div></div></div><footer class=li-page-footer><div class=container><div class=row><div class="sixteen columns"><div class=li-page-footer-legal>Copyright © 2008-2022 Kartik Singhal.</div><div class=li-page-footer-theme><span>Built with <a href=http://gohugo.io>Hugo</a> & <a href=https://github.com/k4rtik/liquorice/>liquorice</a></span></div></div></div></div></footer><script type=text/javascript>function toggle(t){var e=document.getElementById(t);e.style.display=="block"?e.style.display="none":e.style.display="block"}</script><script type=text/javascript>var _gaq=_gaq||[];_gaq.push(["_setAccount","UA-57213074-1"]),_gaq.push(["_trackPageview"]),function(){var t,e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src=("https:"==document.location.protocol?"https://ssl":"http://www")+".google-analytics.com/ga.js",t=document.getElementsByTagName("script")[0],t.parentNode.insertBefore(e,t)}()</script></body></html>
