@@ -1,4 +1,4 @@
-baseurl = "http://techglider.in/"
+baseurl = "https://k4rtik.github.io/techglider.in"
 languageCode = "en-us"
 title = "The TechGlider"
 MetaDataFormat = "yaml"
@@ -10,7 +10,7 @@ MetaDataFormat = "yaml"
 
 [params]
   author = "Kartik Singhal"
-  copyright = "Copyright © 2008-2019 Kartik Singhal."
+  copyright = "Copyright © 2008-2022 Kartik Singhal."
   gaCode = "UA-57213074-1"
   disqusShortname = "techglider"
 
