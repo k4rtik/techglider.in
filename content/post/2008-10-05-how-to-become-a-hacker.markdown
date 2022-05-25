@@ -36,7 +36,7 @@ For crackers-to-be I don't have very-healthy feelings and ask them to correct th
 EDIT: Sat Mar 26, 2011 12:29 pm
 
 
-For all those who can't access the above link because of any restrictions on their network, I have uploaded a copy of the page at [http://techglider.in/misc/hacker-howto.html](../../../misc/hacker-howto.html)
+For all those who can't access the above link because of any restrictions on their network, I have uploaded a copy of the page at [https://techglider.in/misc/hacker-howto.html](../../../misc/hacker-howto.html)
 
 Will try to keep it updated.
 

@@ -22,7 +22,7 @@ Now this seems quite interesting. I had been noticing posterous here and there f
 
 Got some lesson to learn from the story of posterous. If you have some idea you can start working on it, without wasting time on making it more and more feature-filled. Start with small things, get them active and then start adding more and more features.
 
-Let's see whether I like it more than my regular WordPress blog at [http://techglider.com/kartik/blog](http://techglider.com/kartik/blog)
+Let's see whether I like it more than my regular WordPress blog at [https://techglider.com/kartik/blog](https://techglider.com/kartik/blog)
 
 
   

@@ -42,7 +42,7 @@ you the same advice that I give to most people — *document your journey*. It
 might help others in a way that you can’t think of."
 
 I have been a great proponent of this very idea [since
-mid-2008](http://techglider.in/post/), even encouraging juniors and friends to
+mid-2008](https://techglider.in/post/), even encouraging juniors and friends to
 do the same. My immediate response to him was pretty casual — "I used to write a
 lot in college and before, but haven’t written much since I started working. I
 should probably start again."
@@ -52,7 +52,7 @@ as I cycled around Bangalore afterwards, from Domlur/Indiranagar to Frazer Town
 and back to Jayanagar.
 
 What had changed? Was it [the job that took away my
-freedom](http://techglider.in/post/2013/07/21/week-1-at-bangalore-and-work/):
+freedom](https://techglider.in/post/2013/07/21/week-1-at-bangalore-and-work/):
 
 > I am aware now being an employee of a company, I might not be fully open in
 > sharing my experiences. I will keep sharing things which do not affect my
@@ -62,18 +62,18 @@ level.
 
 Or probably the above was an excuse I kept giving myself to justify not writing.
 I think I also tried to justify this by [publishing irregular book
-reviews](http://techglider.in/post/2014/11/02/reviews-are-here/) on my site.
+reviews](https://techglider.in/post/2014/11/02/reviews-are-here/) on my site.
 Probably I had just become too lazy to stop and introspect about things
 happening around me, or worse, I had started to live in the past — being content
 with all that I had already written — as I had forgotten the original purpose of
 my writing: *documenting my journey*.
 
 Switching to a static website [wasn’t such a good
-idea](http://techglider.in/status/2015/03/16/testing-automatic-deployment-with-wercker/)
+idea](https://techglider.in/status/2015/03/16/testing-automatic-deployment-with-wercker/)
 as well, in retrospect. As good as
 [Markdown](https://en.wikipedia.org/wiki/Markdown) may be for short notes or
 comments, it lacks many features, most basic and annoying among those being its
-inability to even [align an image](http://techglider.in/tags/reviews/); this was
+inability to even [align an image](https://techglider.in/tags/reviews/); this was
 friction enough to put me off from adding new posts to my site. Writing should
 be easy, as effortless as it can get; hence, this post belongs on Medium.
 

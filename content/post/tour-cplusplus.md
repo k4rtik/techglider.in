@@ -13,7 +13,7 @@ title: Reading A Tour of C++
 I have been reading Bjarne Stroustrup’s [A Tour of
 C++](http://www.stroustrup.com/Tour.html) and the language feels like a totally
 new language since [my last project in
-C++](http://techglider.in/post/2009/11/08/my-old-projects/) which was years ago.
+C++](https://techglider.in/post/2009/11/08/my-old-projects/) which was years ago.
 Since, (re-)learning a language requires both reading and writing code, I
 decided to work through some exercises on [Exercism](http://exercism.io/).
 

@@ -36,7 +36,7 @@ It's been so long - missing the TechGlider - my dream, my hard work of over 2 ye
 ## The reason of this long absence:
 
 
-I lost the ownership of the domain techglider.com - partly because of my own carelessness, and partly because of my webhost [Four 'S' Tech](http://fourstech.in)'s troubles. In the process, I did learn a few interesting things like the concept of drop catching, how the companies like GoDaddy make so much money; and more importantly how not to lose my domain again. But now we're back with a new domain [TechGlider.in](http://techglider.in) which is better in a sense as it gives an Indian touch.
+I lost the ownership of the domain techglider.com - partly because of my own carelessness, and partly because of my webhost [Four 'S' Tech](http://fourstech.in)'s troubles. In the process, I did learn a few interesting things like the concept of drop catching, how the companies like GoDaddy make so much money; and more importantly how not to lose my domain again. But now we're back with a new domain [TechGlider.in](https://techglider.in) which is better in a sense as it gives an Indian touch.
 
 
 ## What has changed over this period:
@@ -49,10 +49,10 @@ I lost the ownership of the domain techglider.com - partly because of my own car
   * Having no other choice and bound by my love for blogging, I started writing first on [Posterous](http://kartikscribbles.posterous.com/) and then on WordPress.com. The blog at WordPress.com - [Kartik Scribbles...](http://k4rtik.wordpress.com/) - is the place where you can find all my recent posts (and status updates).
 
 	
-  * [The TechGlider Forums](http://techglider.in/forums) has lost all its shine (whatever small it used to have) - it needs to be made active again. It was the best place IMHO to put all those nifty tricks and commands I used to discover while working or hacking on computers and could refer them again easily. I welcome you to join it too.
+  * [The TechGlider Forums](https://techglider.in/forums) has lost all its shine (whatever small it used to have) - it needs to be made active again. It was the best place IMHO to put all those nifty tricks and commands I used to discover while working or hacking on computers and could refer them again easily. I welcome you to join it too.
 
 	
-  * The main site [techglider.in](http://techglider.in) has become outdated and needs a makeover including [my homepage](http://techglider.in/kartik) on that. I have many more cooler projects to share (show off!) and talk about which I have done over last 2 years.
+  * The main site [techglider.in](https://techglider.in) has become outdated and needs a makeover including [my homepage](https://techglider.in/kartik) on that. I have many more cooler projects to share (show off!) and talk about which I have done over last 2 years.
 
 
 

@@ -20,7 +20,7 @@ tags:
 - science
 ---
 
-_This is a list of books I used to maintain at [The TechGlider Forums](http://techglider.in/forums), imported here for keeping it updated._
+_This is a list of books I used to maintain at [The TechGlider Forums](https://techglider.in/forums), imported here for keeping it updated._
 
 Here I list the books I have read (only those whose names I remember) so far (in finishing order):
 

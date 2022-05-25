@@ -56,7 +56,7 @@ Again, for school project in C++ in standard 12, I developed LibManage. This was
 ## www.davpssahibabad.org (2008)
 
 
-This was my first experience with real web hosting and a live website. Not many major changes from the previous site were done (except for the addition of message and photo of the new Principal of the school). Although the website didn't develop further because of clash of ideas between the Principal and me, but I learned a lot about web hosting and this laid the foundation for **TechGlider.com** (now [TechGlider.in](http://techglider.in/)), my own website which was launched on July 31, 2008.
+This was my first experience with real web hosting and a live website. Not many major changes from the previous site were done (except for the addition of message and photo of the new Principal of the school). Although the website didn't develop further because of clash of ideas between the Principal and me, but I learned a lot about web hosting and this laid the foundation for **TechGlider.com** (now [TechGlider.in](https://techglider.in/)), my own website which was launched on July 31, 2008.
 [Download zip (1.3 MB)](/projects/davpssahibabad.org.zip)
 
 

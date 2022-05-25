@@ -23,9 +23,9 @@ tags:
 
 Just spotted this on the _unofficial_ Notice Board of Hostel A (my hostel at NIT Calicut). Please click on the pics to enlarge:
 
-[![Lost Specs Page 1](http://techglider.in/kartik/blog/wp-content/uploads/2009/11/lost-specs-2009-11-15-212x300.jpg)](http://techglider.in/kartik/blog/wp-content/uploads/2009/11/lost-specs-2009-11-15.jpg)
+[![Lost Specs Page 1](https://techglider.in/kartik/blog/wp-content/uploads/2009/11/lost-specs-2009-11-15-212x300.jpg)](https://techglider.in/kartik/blog/wp-content/uploads/2009/11/lost-specs-2009-11-15.jpg)
 
-[![Lost Specs Page 2](http://techglider.in/kartik/blog/wp-content/uploads/2009/11/lost-specs2-2009-11-15-213x300.jpg)](http://techglider.in/kartik/blog/wp-content/uploads/2009/11/lost-specs2-2009-11-15.jpg)
+[![Lost Specs Page 2](https://techglider.in/kartik/blog/wp-content/uploads/2009/11/lost-specs2-2009-11-15-213x300.jpg)](https://techglider.in/kartik/blog/wp-content/uploads/2009/11/lost-specs2-2009-11-15.jpg)
 
 **Disclaimer:** The names and other sensitive info has been smudged to preserve the person's privacy.
 
@@ -33,7 +33,7 @@ This left me wondering of the creative minds of my hostel mates. And yeah, if yo
 
 Another one taken on November 4 on Robin's birthday:
 
-[![Robin's Birthday and GPL](http://techglider.in/kartik/blog/wp-content/uploads/2009/11/robins-bday-2009-11-04-220x300.jpg)](http://techglider.in/kartik/blog/wp-content/uploads/2009/11/robins-bday-2009-11-04.jpg)
+[![Robin's Birthday and GPL](https://techglider.in/kartik/blog/wp-content/uploads/2009/11/robins-bday-2009-11-04-220x300.jpg)](https://techglider.in/kartik/blog/wp-content/uploads/2009/11/robins-bday-2009-11-04.jpg)
 
 You may be wondering what is **_GPL_**?
 

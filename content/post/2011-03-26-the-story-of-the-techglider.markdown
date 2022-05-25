@@ -31,13 +31,13 @@ In this post I will be sharing some interesting points that fell along during re
 1.
 
 
-[![The first incomplete one - needed something good on the ring.](http://techglider.in/kartik/blog/wp-content/uploads/2011/03/Untitled2.png)](http://techglider.in/kartik/blog/wp-content/uploads/2011/03/Untitled2.png)
+[![The first incomplete one - needed something good on the ring.](https://techglider.in/kartik/blog/wp-content/uploads/2011/03/Untitled2.png)](https://techglider.in/kartik/blog/wp-content/uploads/2011/03/Untitled2.png)
 
 
 2.
 
 
-[![The second one - this lead to the idea of the current logo but with a ring.](http://techglider.in/kartik/blog/wp-content/uploads/2011/03/tgnewdesign.png)](http://techglider.in/kartik/blog/wp-content/uploads/2011/03/tgnewdesign.png)
+[![The second one - this lead to the idea of the current logo but with a ring.](https://techglider.in/kartik/blog/wp-content/uploads/2011/03/tgnewdesign.png)](https://techglider.in/kartik/blog/wp-content/uploads/2011/03/tgnewdesign.png)
 
 
 
@@ -47,13 +47,13 @@ The following was the outcome of earlier designs on July 5, 2009:
 
 
 
-[![First professional looking logo for the TechGlider](http://techglider.in/kartik/blog/wp-content/uploads/2011/06/tglogo.png)](http://techglider.in/kartik/blog/wp-content/uploads/2011/06/tglogo.png)
+[![First professional looking logo for the TechGlider](https://techglider.in/kartik/blog/wp-content/uploads/2011/06/tglogo.png)](https://techglider.in/kartik/blog/wp-content/uploads/2011/06/tglogo.png)
 
 
 The following is a screenshot of StudenTech.com -  a website I created while I was in class XI. I guess that was my first  proper website in which I tried to share my knowledge. Initial versions  of TechGlider.com were adapted to this site until I decided not to carry  it forward:
 
 
-[![Tutorials on StudenTech.com](http://techglider.in/kartik/blog/wp-content/uploads/2011/03/StudenTech.com-Tutorials-300x225.jpg)](http://techglider.in/kartik/blog/wp-content/uploads/2011/03/StudenTech.com-Tutorials.jpg)
+[![Tutorials on StudenTech.com](https://techglider.in/kartik/blog/wp-content/uploads/2011/03/StudenTech.com-Tutorials-300x225.jpg)](https://techglider.in/kartik/blog/wp-content/uploads/2011/03/StudenTech.com-Tutorials.jpg)
 
 
 

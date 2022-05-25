@@ -16,6 +16,6 @@ tags:
 - wordpress
 ---
 
-Done messing up enough with the looks of [my old blog](http://techglider.in/kartik/blog) for the day. Have exams this week and haven't studied a thing. Need to take a week's break from the net. ;)
+Done messing up enough with the looks of [my old blog](https://techglider.in/kartik/blog) for the day. Have exams this week and haven't studied a thing. Need to take a week's break from the net. ;)
 
 On another note: I have restored my website: TechGlider.in during this Ragam. Do take a look at [...and, we're back!](/post/2011/03/13/and-we-are-back/).

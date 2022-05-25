@@ -18,7 +18,7 @@ tags:
 
 This change is something I wanted to incorporate since I [restored this blog](/post/2009/10/03/the-techglider-blog-is-back/) in the beginning of last month. Finally, the change is here.
 
-The main reason why I changed the name of the blog is simple. 'The TechGlider Blog' sounds like the official blog of my site - [TechGlider.com](http://techglider.in) which, in its actuality, is not that. This is my blog, Kartik's. So, the name _Kartik Scribbles..._
+The main reason why I changed the name of the blog is simple. 'The TechGlider Blog' sounds like the official blog of my site - [TechGlider.com](https://techglider.in) which, in its actuality, is not that. This is my blog, Kartik's. So, the name _Kartik Scribbles..._
 
 More personalized, more sensible, more fun, more readable. This change will give this blog a new dimension.
 

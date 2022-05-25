@@ -21,7 +21,7 @@ tags:
 - ubuntu
 ---
 
-This  is a beginner's tutorial to installing Fedora 9 on your PC. In a recent  survey I found that Fedora is more popular in India than Ubuntu (my  personal favorite) so I decided to give a installation guide for Fedora  instead of Ubuntu (read: [http://techglider.in/blog/blog1.php/20 ... thiversary](/post/2008/08/31/its-a-monthiversary)).
+This  is a beginner's tutorial to installing Fedora 9 on your PC. In a recent  survey I found that Fedora is more popular in India than Ubuntu (my  personal favorite) so I decided to give a installation guide for Fedora  instead of Ubuntu (read: [https://techglider.in/blog/blog1.php/20 ... thiversary](/post/2008/08/31/its-a-monthiversary)).
 
 ## Prerequisites:
 
@@ -30,7 +30,7 @@ You will need
 
 
 	
-  * Fedora 9 installation DVD (to know how to get one, visit: [http://techglider.in/blog/blog1.php/20 ... ting-linux](/post/2008/08/09/various-sources-of-getting-linux))
+  * Fedora 9 installation DVD (to know how to get one, visit: [https://techglider.in/blog/blog1.php/20 ... ting-linux](/post/2008/08/09/various-sources-of-getting-linux))
 
 	
   * A PC system with atleast 9 GB of free space and minimum of 256 MB of RAM
