@@ -1,4 +1,4 @@
-baseurl = "techglider.in/"
+baseurl = "https://techglider.in/"
 languageCode = "en-us"
 title = "The TechGlider"
 MetaDataFormat = "yaml"
